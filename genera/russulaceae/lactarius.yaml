@@ -1,0 +1,15 @@
+genus:
+  name: Lactarius
+  parent: Russulaceae
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Russulales
+  family: Russulaceae
+  species_count: ~500
+  notes: |
+    The milkcaps. Large genus of ectomycorrhizal agarics characterized by exuding
+    a latex (milk) from broken tissue. Latex color (white, orange, blue-staining,
+    watery) is a key identification feature. Spore print cream to ochre. Many
+    species form specific mycorrhizal associations with trees. Key edible species:
+    L. deliciosus (saffron milk cap), L. sanguifluus, L. deterrimus. Recently
+    revised, with some sections moved to Lactifluus.

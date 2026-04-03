@@ -1,0 +1,136 @@
+species:
+  name: Hypsizygus tessulatus
+  common_names:
+    - Shimeji (Japanese)
+    - Beech mushroom
+    - Hon-shimeji (Japanese — true shimeji)
+    - Buna-shimeji (brown variety)
+    - Bunapi-shimeji (white variety)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Physalacriaceae
+    genus: Hypsizygus
+    species: tessulatus
+    binomial: Hypsizygus tessulatus
+    author: "(Bull.) Singer"
+    year_described: 1947
+    taxonomic_history:
+      - "1792: Described as Agaricus tessulatus by Jean Baptiste François Bulliard"
+      - "1947: Transferred to Hypsizygus tessulatus by Rolf Singer"
+      - "Synonyms include Lyophyllum shimeji (Kawam.) Hongo — now considered separate species"
+    mycobank_id: "MB 293503"
+  morphology:
+    cap:
+      diameter_cm: "5–15"
+      shape: "convex when young, flattening to slightly umbonate with age"
+      color: "pale grey-brown to tan, with darker mottled spots giving the distinctive tessellated (checkered) pattern"
+      surface: "smooth, dry; characteristic marble-like cracking pattern (tessulatus = checkered tile)"
+    gills:
+      attachment: "adnate to sinuate"
+      color: "white to cream"
+      spacing: "crowded"
+    stipe:
+      height_cm: "5–15"
+      diameter_cm: "1–2.5"
+      color: "white, solid"
+      texture: "firm, smooth, solid"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "subglobose to broadly ellipsoid"
+      dimensions_μm: "4.5–6 × 4–5"
+      color_in_mass: "white"
+      wall: "smooth, thin"
+    spore_print: "white"
+    flesh:
+      color: "white"
+      texture: "firm, crisp; maintains texture when cooked"
+      odor: "mild, pleasant"
+      taste: "nutty, slightly bitter raw; sweet and nutty cooked"
+    notable_morphological_feature: |
+      The cap of Hypsizygus tessulatus shows a distinctive marble-like pattern of
+      slightly darker patches against a pale background — a tessellated appearance
+      that gives the species its name (tessulatus = like tessera, checkered tile).
+      In the cultivated buna-shimeji (brown) form, this pattern is quite prominent.
+      The bunapi-shimeji (white) is a selectively bred albino cultivar with reduced
+      pigmentation but otherwise identical morphology.
+  habitat:
+    substrate: "dead and decaying hardwood trunks, especially beech and elm"
+    ecosystem:
+      - temperate deciduous forests
+      - beech-maple forests
+    associated_hosts:
+      - Fagus (beech) — primary
+      - Ulmus (elm)
+      - Aesculus (horse chestnut)
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Temperate East Asia (Japan, China, Korea) and North America (eastern)"
+    global: false
+    elevation_m: "0–1500"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - stir-fried
+      - in hot pot
+      - sautéed
+      - in miso soup
+      - tempura
+    notes: |
+      Important cultivated mushroom in East Asian cuisine, widely sold in Japanese,
+      Korean, and Chinese markets worldwide. The species must be cooked — raw
+      consumption causes GI irritation. The nutty flavor and firm, crunchy texture
+      hold up well in stir-fries and soups. Commercial varieties are sold in clusters
+      with small diameter caps. Two commercial cultivars are widely available:
+      buna-shimeji (brown form) and bunapi-shimeji (white albino form). Both have
+      similar flavor; the white form is slightly milder.
+    lookalikes:
+      - species: "Clitocybe nebularis (clouded funnel)"
+        danger: "inedible (GI irritant, mildly toxic)"
+        distinguishing_features: "C. nebularis has gills running down the stipe (decurrent), lacks the tessellated cap pattern, has a mealy odor"
+  lifecycle:
+    fruiting_season: "autumn to winter (September–December)"
+    fruiting_triggers:
+      - cool temperatures (10–15°C)
+      - moisture
+    mycelium_type: "white, cottony; wood-decay"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: true
+    difficulty: "intermediate"
+    substrate:
+      - hardwood sawdust (beech, oak)
+      - rice bran or wheat bran supplement
+    spawn_type: "grain spawn or sawdust spawn"
+    fruiting_temp_c: "12–18"
+    incubation_temp_c: "20–25"
+    notes: |
+      Commercially cultivated primarily in Japan (largest producer), China, and Korea.
+      Requires a longer incubation period than oyster mushrooms (~60–120 days for full
+      colonization and primordium formation). Cold shock or temperature drop triggers
+      pinning. Grown in bottles or bags with the substrate compressed. The white bunapi
+      cultivar was developed by Hokto Co. in Japan and is now grown globally. Yields are
+      moderate. Substrate must be pasteurized or sterilized.
+  biochemistry:
+    compounds:
+      - "Hypsiziprenol (diterpene; bioactive)"
+      - "Beta-glucans (immunomodulatory polysaccharides)"
+      - "Ergothioneine (antioxidant)"
+      - "Ergosterol (provitamin D2)"
+    medicinal_research:
+      - "Beta-glucan fraction shows immunomodulatory effects in animal models"
+      - "Anti-obesity effects demonstrated in mouse models"
+      - "Antioxidant activity higher than many commercial mushrooms"
+      - "Antimicrobial activity against gram-positive bacteria"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 293503"
+    - "Singer (1947) Lilloa 22"
+    - "Cheung (2010) Journal of Food Composition and Analysis"
+    - "Index Fungorum IF 293503"

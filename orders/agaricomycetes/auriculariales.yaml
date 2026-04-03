@@ -1,0 +1,11 @@
+order:
+  name: Auriculariales
+  parent: Agaricomycetes
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  species_count: ~200
+  notes: |
+    Order of Basidiomycota characterized by gelatinous to rubbery fruiting bodies
+    with transversely septate basidia (phragmobasidia). Contains the family
+    Auriculariaceae with the commercially important Auricularia (wood ear mushrooms).
+    Saprotrophic on decaying wood. Fourth most cultivated mushroom group globally.

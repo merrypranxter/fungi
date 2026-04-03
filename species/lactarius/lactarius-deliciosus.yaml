@@ -1,0 +1,140 @@
+species:
+  name: Lactarius deliciosus
+  common_names:
+    - Saffron milk cap
+    - Red pine mushroom
+    - Niscalo (Spanish)
+    - Robellón (Catalan)
+    - Lactaire délicieux (French)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Russulales
+    family: Russulaceae
+    genus: Lactarius
+    species: deliciosus
+    binomial: Lactarius deliciosus
+    author: "(L.) Gray"
+    year_described: 1821
+    taxonomic_history:
+      - "1753: Described as Agaricus deliciosus by Linnaeus"
+      - "1821: Transferred to Lactarius by Samuel Frederick Gray"
+      - "Recent molecular work shows the L. deliciosus complex contains several cryptic species across regions"
+    mycobank_id: "MB 150777"
+  morphology:
+    cap:
+      diameter_cm: "5–15"
+      shape: "convex with central depression when young; becoming funnel-shaped (infundibuliform) at maturity"
+      color: "orange with concentric paler and darker orange zones; fading to greenish-grey where damaged"
+      surface: "smooth, slightly viscid when moist; developing green staining with age"
+    gills:
+      attachment: "decurrent"
+      color: "saffron orange to orange-yellow; exuding bright carrot-orange latex when cut; staining green slowly"
+      spacing: "crowded, narrow"
+    stipe:
+      height_cm: "3–8"
+      diameter_cm: "1–2.5"
+      color: "orange, often with paler orange scrobiculate pits (hollows)"
+      texture: "firm when young, becoming hollow with age"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "subglobose to broadly ellipsoid with amyloid ornamentation"
+      dimensions_μm: "7.5–9.5 × 6–7"
+      color_in_mass: "pale yellow-cream to ochre"
+      wall: "ornamented with fine amyloid network of ridges (reticulate)"
+    spore_print: "pale cream to pale yellow"
+    flesh:
+      color: "orange-yellow; slowly greening where exposed to air"
+      texture: "firm, brittle (sphaerocysts)"
+      odor: "pleasant, fruity, slightly resinous"
+      taste: "mild to slightly bitter; improving on cooking"
+    notable_morphological_feature: |
+      The most distinctive feature of Lactarius deliciosus is the orange-red latex
+      (milk) that exudes from all cut or broken surfaces. The latex is initially
+      bright carrot-orange, differentiating it from L. torminosus (white latex, toxic)
+      and similar species. The flesh and gills slowly turn green when exposed to
+      air — a key identification feature of the L. deliciosus complex. The cap
+      shows concentric orange zones.
+  habitat:
+    substrate: "forest soil"
+    ecosystem:
+      - pine forests
+      - mixed conifer-broadleaf forests
+    associated_hosts:
+      - Pinus sylvestris (Scots pine) — primary
+      - Pinus pinaster (maritime pine)
+      - Pinus radiata (Monterey pine)
+    mycorrhizal: true
+    saprotrophic: false
+  distribution:
+    native_range: "Europe (Mediterranean to temperate north); introduced to Australia, New Zealand with pine plantations"
+    global: false
+    elevation_m: "0–2000"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - grilled or charcoal-roasted (traditional Catalan/Spanish method)
+      - sautéed
+      - pickled (Russian tradition)
+      - cooked in rice dishes
+    notes: |
+      Highly regarded edible, especially in Catalonia (Spain) where it is the most
+      popular wild mushroom. The name deliciosus (delicious) was given by Linnaeus.
+      Best grilled whole on charcoal — the orange latex caramelizes beautifully.
+      The green color that develops with age is harmless. Turns urine red-orange
+      (chromhidrosis) in some individuals after consumption — alarming but harmless.
+      Flesh becomes more tender and loses any bitterness on cooking. Commercial
+      harvest significant in Spain, France, Poland, and North Africa.
+    lookalikes:
+      - species: "Lactarius torminosus (woolly milkcap)"
+        danger: "toxic (GI irritant)"
+        distinguishing_features: "L. torminosus has a shaggy/wooly inrolled cap margin, WHITE latex, and pink-orange zoned cap; associated with birch (not pine)"
+      - species: "Lactarius deterrimus (false saffron milk cap)"
+        danger: "safe (edible, slightly inferior)"
+        distinguishing_features: "L. deterrimus has orange latex that immediately turns wine-red (not slowly green); associated with spruce (Picea); flesh turns red-wine"
+      - species: "Lactarius sanguifluus (blood milkcap)"
+        danger: "safe (choice edible)"
+        distinguishing_features: "L. sanguifluus has dark red-wine latex immediately; cap darker purple-red tones; flesh turns purple-red"
+  lifecycle:
+    fruiting_season: "late summer through autumn (August–November)"
+    fruiting_triggers:
+      - autumn rainfall
+      - cooling temperatures
+    mycelium_type: "ectomycorrhizal with Pinus"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: false
+    difficulty: "not applicable (obligate ectomycorrhizal; not cultivated)"
+    substrate:
+      - "Not cultivatable in substrate — requires Pinus mycorrhizal host"
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "8–18"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      Cannot be commercially cultivated. All supply is wild-harvested. Significant
+      commercial harvest in Spain, France, and Eastern Europe (Poland, Ukraine, Romania).
+      Spain exports to France and Italy. Annual harvest in Catalonia region alone
+      can exceed 1,500 tonnes in good years.
+  biochemistry:
+    compounds:
+      - "Delicioxanthine and related azulene pigments (give orange color)"
+      - "Lactarorufin A-B (sesquiterpene lactones in latex)"
+      - "Ergosterol (provitamin D2)"
+      - "Beta-glucans (polysaccharides)"
+    medicinal_research:
+      - "Antioxidant activity of azulene derivatives"
+      - "Antimicrobial terpenoids identified in latex"
+      - "Limited dedicated pharmacological research"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - "Pine forest management changes"
+      - "Climate change affecting fruiting patterns"
+      - "Overharvesting in popular sites"
+  data_sources:
+    - "MycoBank MB 150777"
+    - "Gray (1821) Natural Arrangement of British Plants"
+    - "Lactarius genus monograph by Heilmann-Clausen et al. (1998)"
+    - "Index Fungorum IF 150777"

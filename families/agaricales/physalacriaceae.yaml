@@ -1,0 +1,13 @@
+family:
+  name: Physalacriaceae
+  parent: Agaricales
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Agaricales
+  species_count: ~200
+  notes: |
+    Family of agarics in the order Agaricales, defined by molecular phylogenetics.
+    Includes diverse genera: Flammulina (enoki/velvet shank), Hypsizygus (beech
+    mushroom/shimeji), Armillaria (honey fungus — world's largest organisms), and
+    Oudemansiella. Many members are wood decomposers. Several commercially important
+    edibles (Flammulina, Hypsizygus) and one significant pathogen (Armillaria).
