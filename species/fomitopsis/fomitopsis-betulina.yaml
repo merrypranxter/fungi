@@ -1,0 +1,134 @@
+species:
+  name: Fomitopsis betulina
+  common_names:
+    - Birch polypore
+    - Razor strop fungus
+    - Piptoporus betulinus (former widely used name)
+    - Birch bracket
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Polyporales
+    family: Polyporaceae
+    genus: Fomitopsis
+    species: betulina
+    binomial: Fomitopsis betulina
+    author: "(Bull.) B.K. Cui, M.L. Han & Y.C. Dai"
+    year_described: 2016
+    taxonomic_history:
+      - "1793: Described as Boletus betulinus by Jean Baptiste François Pierre Bulliard"
+      - "1825: Placed in Polyporus by Fries"
+      - "1887: Placed in Piptoporus by Karsten — as Piptoporus betulinus"
+      - "2016: Reclassified to Fomitopsis betulina by Cui, Han & Dai based on molecular phylogenetics"
+    mycobank_id: "MB 815576"
+  morphology:
+    cap:
+      diameter_cm: "10–30"
+      shape: "kidney-shaped to semicircular bracket; smooth rounded top; distinctly cushion-like when young"
+      color: "young: pale buff to cream; mature: smooth light grey-brown; upper surface with thin separable skin"
+      surface: "smooth, initially pale and tacky when young; becoming dry and tough; often developing deep cracks with age"
+    gills:
+      attachment: "Not applicable — polypore with pores"
+      color: "white pore surface, 3–4 pores per mm; becoming cream with age"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "2–5 (stubby, lateral attachment)"
+      diameter_cm: "Not applicable"
+      color: "white to cream"
+      texture: "short, thick lateral stipe; very tough"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "cylindrical, slightly curved (allantoid)"
+      dimensions_μm: "4.5–6 × 1.2–1.5"
+      color_in_mass: "white"
+      wall: "smooth, thin"
+    spore_print: "white"
+    flesh:
+      color: "white, firm"
+      texture: "firm, corky-tough; slightly more pliable than Fomes fomentarius"
+      odor: "mild, pleasant, slightly fruity (reminiscent of fresh bread when young)"
+      taste: "bitter"
+    notable_morphological_feature: |
+      Fomitopsis betulina (formerly Piptoporus betulinus) grows exclusively on birch
+      trees (Betula species) — this extreme host specificity is one of its most
+      distinctive characteristics. The fruiting body is annual (unlike the perennial
+      Fomes fomentarius). The smooth skin on the upper surface can be peeled away.
+      The inner white flesh has a consistency similar to cork when dry, and has been
+      used as a stropping surface for sharpening blades. Like F. fomentarius, it was
+      found with Ötzi the Iceman (3300 BCE), threaded on a leather thong — likely used
+      as a wound dressing or antiparasitic treatment.
+  habitat:
+    substrate: "dead and dying birch trees (exclusive to Betula)"
+    ecosystem:
+      - boreal birch forests
+      - temperate deciduous forests with birch
+    associated_hosts:
+      - Betula (birch species) — EXCLUSIVE host
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Temperate northern hemisphere — Europe, North America, Asia; wherever Betula grows"
+    global: false
+    elevation_m: "0–2000"
+  edibility:
+    status: "inedible (bitter; used medicinally and as tool/craft material)"
+    preparation:
+      - hot-water decoction (tea) for medicinal use
+      - dried and sliced leather-like strips used as razor strop
+      - wound dressing (amadou-like)
+    notes: |
+      Not edible — bitter taste and tough texture. Historically used as a razor strop
+      (leather-strop substitute) to sharpen blades — the common name "razor strop
+      fungus" reflects this traditional use. The smooth white inner flesh provides an
+      excellent stropping surface. Found on Ötzi the Iceman threaded on a thong — believed
+      to have been used to treat intestinal parasites (contains agaric acid, an antiparasitic
+      agent, and the Iceman had intestinal parasites Trichuris trichiura). Traditional
+      Siberian medicine used it for wound dressing.
+    lookalikes:
+      - species: "Piptoporus quercinus (oak polypore)"
+        danger: "safe (inedible)"
+        distinguishing_features: "P. quercinus grows on oak (not birch), different host specificity"
+  lifecycle:
+    fruiting_season: "late summer through autumn (annual); persists through winter until spring"
+    fruiting_triggers:
+      - birch tree decline or death
+      - moisture
+    mycelium_type: "brown-rot mycelium in birch wood"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: false
+    difficulty: "not applicable (limited research cultivation only)"
+    substrate:
+      - "Experimental cultivation on birch wood or birch sawdust possible but not commercial"
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "10–20"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      Not commercially cultivated. Some research cultivation on birch logs for
+      biochemical research purposes. Wild specimens are harvested for medicinal
+      extract production and traditional craft use.
+  biochemistry:
+    compounds:
+      - "Agaric acid / agaricic acid (polyporenic acid; antiparasitic, hemostatic)"
+      - "Piptamine (antibiotic compound)"
+      - "Triterpenoids: polyporenic acids A, B, C (cytotoxic)"
+      - "Beta-glucans (immunomodulatory polysaccharides)"
+      - "Poria acid and related lanostane triterpenoids"
+    medicinal_research:
+      - "Agaric acid shows antiparasitic activity — consistent with Ötzi archaeological context"
+      - "Piptamine shows antibiotic activity against Bacillus subtilis and related bacteria"
+      - "Polyporenic acids show cytotoxic activity against cancer cell lines"
+      - "Immunomodulatory beta-glucan fraction demonstrated in animal studies"
+      - "Anti-inflammatory triterpenoids identified"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - "Removal of dead birch from managed forests reduces habitat"
+  data_sources:
+    - "MycoBank MB 815576"
+    - "Cui, Han & Dai (2016) Mycologia 108(5)"
+    - "Peintner et al. (1998) Journal of Archaeological Science — Ötzi the Iceman"
+    - "Kamo et al. (2004) Chemistry and Biodiversity — piptamine"
+    - "Index Fungorum IF 815576"

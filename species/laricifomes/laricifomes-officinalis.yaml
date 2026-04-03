@@ -1,0 +1,153 @@
+species:
+  name: Laricifomes officinalis
+  common_names:
+    - Agarikon
+    - Quinine conk
+    - Larch bracket
+    - Agaricum (historical name)
+    - Brown trunk rot of larch
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Polyporales
+    family: Fomitopsidaceae
+    genus: Laricifomes
+    species: officinalis
+    binomial: Laricifomes officinalis
+    author: "(Vill.) Kotl. & Pouzar"
+    year_described: 1957
+    taxonomic_history:
+      - "1789: Described as Boletus officinalis by Dominique Villars"
+      - "1857: Placed in Polyporus by Fries"
+      - "1880: Placed in Fomes as Fomes officinalis"
+      - "1957: Reclassified as Laricifomes officinalis by Kotlába and Pouzar"
+      - "Historical pharmaceutical name: Agaricus officinalis and Polyporus officinalis"
+    mycobank_id: "MB 165017"
+  morphology:
+    cap:
+      diameter_cm: "10–50 (width); can reach 1 m in very old specimens"
+      shape: "pillar-shaped (cylindrical) when young; becoming broadly hoof-shaped or elongated irregular with age; perennial"
+      color: "white to pale grey exterior; chalky white when fresh; yellowing to grey with age"
+      surface: "chalky-white to grey; very smooth; crumbly outer crust; concentric growth zones in old specimens"
+    gills:
+      attachment: "Not applicable — polypore with pores"
+      color: "cream to pale yellow pore surface; 3–5 pores per mm"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "Not applicable (sessile)"
+      diameter_cm: "Not applicable"
+      color: "white attachment zone"
+      texture: "extremely hard, woody-corky interior; chalky outer layer crumbles"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "broadly ellipsoid to ovoid"
+      dimensions_μm: "6–8 × 4–5"
+      color_in_mass: "white"
+      wall: "smooth, thin"
+    spore_print: "white"
+    flesh:
+      color: "white to pale yellow"
+      texture: "firm, corky, chalk-like; crumbles easily when dry"
+      odor: "slightly medicinal, bitter"
+      taste: "extremely bitter (agaric acid)"
+    notable_morphological_feature: |
+      Laricifomes officinalis is one of the longest-lived polypores — individual
+      fruiting bodies can survive and continue growing for 75 years or more, eventually
+      becoming massive pillar-like or hoof-shaped structures over a meter in diameter.
+      The chalky-white exterior is characteristic, distinguishing it from the grey-brown
+      Fomes fomentarius. It grows EXCLUSIVELY on old-growth larch (Larix) trees in its
+      primary habitat, and occasionally on Douglas fir (Pseudotsuga menziesii) in
+      the Pacific Northwest. The extremely bitter taste from agaric acid was historically
+      medicinal (and also made the conk unpalatable to snails and insects).
+  habitat:
+    substrate: "heartwood of living and dead old-growth larch and fir trees"
+    ecosystem:
+      - old-growth larch forests (Central Asia, Europe)
+      - old-growth conifer forests (Pacific Northwest — Douglas fir)
+      - subalpine conifer forests
+    associated_hosts:
+      - Larix (larch) — primary throughout range
+      - Pseudotsuga menziesii (Douglas fir) — Pacific Northwest
+      - Abies (fir) — occasional
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Central and northern Asia (Siberia, Mongolia); Caucasus; Pacific Northwest North America (BC, Washington, Oregon)"
+    global: false
+    elevation_m: "500–3000"
+  edibility:
+    status: "inedible (extremely bitter; used exclusively medicinally)"
+    preparation:
+      - hot-water decoction (tea)
+      - tincture in alcohol
+      - powdered supplement
+    notes: |
+      Laricifomes officinalis has been used medicinally for at least 2,500 years.
+      The ancient Greek physician Dioscorides (ca. 50 CE) described "agaricum" as
+      a remedy for tuberculosis, asthma, and poisoning. Galen (130-200 CE) wrote
+      extensively about its use as a universal antidote. The Roman physician Pliny
+      the Elder referenced it as the most important medicinal fungus known. In the
+      Middle Ages, European apothecaries stocked agaricum as a key pharmaceutical
+      product (it was traded from Siberia and the Caucasus to Western Europe along
+      trade routes). The species is now critically endangered in old-growth habitats
+      of the Pacific Northwest due to old-growth forest logging. Modern researcher
+      Paul Stamets has extensively researched L. officinalis for antiviral properties,
+      particularly against smallpox-related viruses (funded by DARPA/Defense Department).
+    lookalikes:
+      - species: "Fomes fomentarius (tinder polypore)"
+        danger: "safe (inedible)"
+        distinguishing_features: "F. fomentarius is grey-brown (not chalk-white), grows on deciduous trees (not larch), and has a different shape (more hoof-like from the start)"
+  lifecycle:
+    fruiting_season: "perennial — persistent year-round; spores released summer"
+    fruiting_triggers:
+      - infection of old-growth larch or fir through wounds
+    mycelium_type: "brown-rot mycelium — causes brown cubical rot in heartwood of larch"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: false
+    difficulty: "not applicable (extremely slow-growing; not commercially cultivated)"
+    substrate:
+      - "Research cultivation on conifer sawdust blocks possible but extremely slow growth; not commercial"
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable (perennial)"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      Not commercially cultivated. The extremely slow growth rate (individual fruiting
+      bodies take decades to develop to harvestable size) and specificity for
+      old-growth larch makes cultivation economically prohibitive. Some mycelial
+      fermentation research has been conducted. Paul Stamets and Fungi Perfecti
+      have conducted research cultivation and hold patents on antiviral extracts.
+      All commercial supply is wild-harvested from Russia, Central Asia, and (illegally
+      in some cases) from protected Pacific Northwest old-growth forests.
+  biochemistry:
+    compounds:
+      - "Agaric acid / agaricic acid (terpene; historically primary medicinal compound)"
+      - "Officinalic acid (polyporenoic acid)"
+      - "Eburicoic acid (lanostane triterpenoid)"
+      - "Trametenolic acid (triterpenoid)"
+      - "Beta-glucans (immunomodulatory polysaccharides)"
+      - "Antiviral terpenoids and lanostanoids (Stamets research)"
+    medicinal_research:
+      - "Agaric acid: historical use as antitubercular, antihemorrhagic, and antiparasitic agent"
+      - "Eburicoic acid shows antiparasitic activity against Trypanosoma and Leishmania"
+      - "DARPA-funded research (Stamets) showed antiviral activity against poxviruses including vaccinia (smallpox family)"
+      - "Antiviral compounds active against influenza, herpes simplex virus in in vitro studies"
+      - "Triterpenoids show activity against hepatitis C virus NS5B polymerase"
+      - "Ancient historical use: Dioscorides (50 CE) — antitubercular, antidote to poisons"
+      - "Galen (ca. 170 CE) — prescribed as universal remedy (theriaca)"
+  conservation:
+    status: "Critically imperiled in Pacific Northwest old-growth; Least Concern in Central Asian range"
+    threats:
+      - "Logging of old-growth larch and fir forests (primary threat in Pacific Northwest)"
+      - "Very slow regeneration — requires centuries of old-growth forest development"
+      - "Overharvesting for medicinal use"
+      - "Loss of old-growth forest worldwide"
+  data_sources:
+    - "MycoBank MB 165017"
+    - "Kotlába & Pouzar (1957) Ceska Mykologie"
+    - "Stamets (2011) Mycelium Running — agarikon antiviral research"
+    - "Dioscorides (ca. 50 CE) De Materia Medica — historical record"
+    - "Rogers (2011) The Fungal Pharmacy — ethnomycological history"
+    - "Index Fungorum IF 165017"

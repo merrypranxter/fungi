@@ -1,0 +1,14 @@
+family:
+  name: Fomitopsidaceae
+  parent: Polyporales
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Polyporales
+  species_count: ~200
+  notes: |
+    Family of polypores separated from Polyporaceae based on molecular phylogenetics.
+    Contains genera causing primarily brown rot of wood (in contrast to Polyporaceae
+    which mostly cause white rot). Key genera: Fomitopsis, Laricifomes, Antrodia,
+    Wolfiporia. Important members include F. betulina (birch polypore), Laricifomes
+    officinalis (agarikon), and Wolfiporia cocos (poria cocos — traditional Chinese
+    medicine). Medicinally significant group.

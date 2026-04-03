@@ -1,0 +1,14 @@
+genus:
+  name: Fomitopsis
+  parent: Polyporaceae
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Polyporales
+  family: Polyporaceae
+  species_count: ~30
+  notes: |
+    Genus of bracket-forming polypores causing brown rot of conifers and hardwoods.
+    Recently revised by molecular phylogenetics. Most commercially significant species
+    is Fomitopsis betulina (birch polypore / razor strop fungus), historically used
+    as a wound dressing, strop for sharpening blades, and found with Ötzi the Iceman.
+    Contains antiparasitic and antimicrobial agaric acid.

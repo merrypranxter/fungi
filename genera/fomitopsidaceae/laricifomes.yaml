@@ -1,0 +1,15 @@
+genus:
+  name: Laricifomes
+  parent: Fomitopsidaceae
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Polyporales
+  family: Fomitopsidaceae
+  species_count: 1
+  notes: |
+    Monotypic genus (single species: L. officinalis) containing the agarikon polypore.
+    Previously placed in Fomes, Polyporus, and Boletus. Characterized by very large,
+    pillar-shaped or hoof-shaped perennial brackets exclusively on old-growth larch
+    (Larix) and occasionally fir (Abies). Can live 75+ years. Historically the most
+    medicinally important bracket fungus in Western medicine (used by Dioscorides).
+    Critically endangered in Pacific Northwest old-growth forests.

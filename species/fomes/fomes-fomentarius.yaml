@@ -1,0 +1,137 @@
+species:
+  name: Fomes fomentarius
+  common_names:
+    - Tinder polypore
+    - Tinder fungus
+    - Hoof fungus
+    - Amadou (the prepared inner layer)
+    - Ice Man fungus
+    - Horse's hoof fungus
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Polyporales
+    family: Polyporaceae
+    genus: Fomes
+    species: fomentarius
+    binomial: Fomes fomentarius
+    author: "(L.) Fr."
+    year_described: 1849
+    taxonomic_history:
+      - "1753: Described as Boletus fomentarius by Linnaeus"
+      - "1849: Placed in Fomes by Elias Magnus Fries"
+      - "Historical names: Polyporus fomentarius (Fr.) 1821, Ungulina fomentaria"
+    mycobank_id: "MB 139632"
+  morphology:
+    cap:
+      diameter_cm: "10–45 (width); 5–20 cm (depth)"
+      shape: "hoof-shaped to broadly bracket-shaped; perennial with distinct concentric growth ridges"
+      color: "grey to light grey-brown exterior; margin rounded, pale"
+      surface: "hard, smooth, woody; concentrically zoned with growth ridges; grey-brown"
+    gills:
+      attachment: "Not applicable — polypore with tubes and pores"
+      color: "cream to pale brown pore surface; 3–5 pores per mm"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "Not applicable (sessile)"
+      diameter_cm: "Not applicable"
+      color: "attached directly to tree"
+      texture: "very hard, woody; inner trama layer distinctly layered — zones of tubes annual"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "cylindrical to narrowly ellipsoid"
+      dimensions_μm: "15–20 × 4–7"
+      color_in_mass: "white"
+      wall: "smooth, thin"
+    spore_print: "white"
+    flesh:
+      color: "upper context: pale brown, corky, tough; tube layer: rust-brown"
+      texture: "distinct three layers: hard outer crust, soft corky inner context (amadou), tube layer"
+      odor: "mild, pleasant, slightly fungal"
+      taste: "mild, bitter"
+    notable_morphological_feature: |
+      Fomes fomentarius is a perennial polypore that adds a new layer of tubes each
+      year, allowing age estimation of specimens. The inner corky layer — called amadou
+      — has been used for millennia as tinder for fire-making due to its ability to
+      catch and hold a spark. The outer crust is extremely hard. Found on Ötzi the
+      Iceman (circa 3300 BCE), making it directly linked to prehistoric human survival.
+      The amadou layer can be processed into a felt-like material used for hats,
+      purses, and historically as a wound dressing to stop bleeding.
+  habitat:
+    substrate: "dead and living hardwood trees; causes white heart rot"
+    ecosystem:
+      - temperate deciduous forests
+      - birch woodlands
+      - beech-oak forests
+    associated_hosts:
+      - Betula (birch) — primary in northern Europe
+      - Fagus (beech) — primary in central/southern Europe
+      - Populus (poplar)
+      - Acer (maple)
+      - Alnus (alder)
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Circumglobal in temperate and boreal zones of northern hemisphere; also Africa and South America"
+    global: true
+    elevation_m: "0–2500"
+  edibility:
+    status: "inedible (too tough; used medicinally and as tinder/craft material)"
+    preparation:
+      - amadou prepared as tinder for fire-making
+      - medicinal decoction (tea)
+      - amadou processed as felt-like material for hats and wound dressings
+    notes: |
+      Not edible — hard and woody. The inner amadou layer has been perhaps the most
+      important fire-starting material in human history, used from at least 3300 BCE
+      (found with Ötzi the Iceman). The amadou is prepared by beating and stretching
+      the corky inner layer, which is then dried. It catches a spark from flint and
+      steel and smolders slowly. In traditional European medicine, amadou was used
+      as a hemostatic (antihemorrhagic) dressing to stop bleeding. In the 19th century,
+      large-scale amadou industry existed across Central Europe. Today revived for
+      artisanal hat-making (Szilveszter in Hungary is a traditional amadou hat center).
+    lookalikes:
+      - species: "Ganoderma applanatum (artist's bracket)"
+        danger: "safe (inedible)"
+        distinguishing_features: "G. applanatum has white pore surface that bruises brown when scratched (used for art), shiny varnished top surface on newer growth, brown spore print"
+  lifecycle:
+    fruiting_season: "perennial — persistent year-round; spores released spring–summer"
+    fruiting_triggers:
+      - available dead or weakened hardwood host
+    mycelium_type: "white-rot mycelium; penetrates wood"
+    spore_dispersal: "wind; billions of spores per specimen per year"
+  cultivation:
+    commercial: false
+    difficulty: "not applicable (not commercially cultivated)"
+    substrate:
+      - "Some research cultivation on hardwood logs; not commercial"
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable (perennial)"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      Not commercially cultivated. Wild specimens are harvested for amadou craft and
+      for medicinal extract production. Some shamanic/traditional medicine cultures
+      revere this species. Growing interest in sustainable harvesting and craft use.
+  biochemistry:
+    compounds:
+      - "Fomentariol (polyacetylene; antibacterial)"
+      - "Agaric acid / agaricic acid (terpene; hemostatic, antiparasitic)"
+      - "Triterpenoids (lanostane-type)"
+      - "Polysaccharides (beta-glucans; immunomodulatory)"
+      - "Melanins (outer crust)"
+    medicinal_research:
+      - "Traditional use as hemostatic (antihemorrhagic) — amadou applied to wounds"
+      - "Anti-inflammatory terpenoids identified"
+      - "Antimicrobial activity of fomentariol"
+      - "Immunomodulatory beta-glucans (animal studies)"
+      - "Historical use in treatment of bladder and uterine disorders"
+  conservation:
+    status: "Least Concern (widely distributed)"
+    threats: []
+  data_sources:
+    - "MycoBank MB 139632"
+    - "Fries (1849) Summa Vegetabilium Scandinaviae"
+    - "Peintner et al. (1998) Journal of Archaeological Science — Ötzi the Iceman"
+    - "Index Fungorum IF 139632"
