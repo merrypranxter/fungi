@@ -1,0 +1,14 @@
+genus:
+  name: Cantharellus
+  parent: Cantharellaceae
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Cantharellales
+  family: Cantharellaceae
+  species_count: ~80
+  notes: |
+    The chanterelles. Characterized by egg-yellow to orange fruiting bodies with
+    forking pseudogills running down the stipe, and a fruity apricot-like aroma.
+    Ectomycorrhizal with hardwoods and conifers. Not yet successfully cultivated
+    commercially. The golden chanterelle (C. cibarius) is one of the most highly
+    regarded edible mushrooms in European cuisine.

@@ -1,0 +1,151 @@
+species:
+  name: Cantharellus cibarius
+  common_names:
+    - Golden chanterelle
+    - Chanterelle
+    - Egg mushroom (French: girolle)
+    - Pfifferling (German)
+    - Cantarella (Italian)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Cantharellales
+    family: Cantharellaceae
+    genus: Cantharellus
+    species: cibarius
+    binomial: Cantharellus cibarius
+    author: "Fr."
+    year_described: 1821
+    taxonomic_history:
+      - "1753: Linnaeus described Agaricus cantharellus"
+      - "1821: Elias Magnus Fries described the golden chanterelle as Cantharellus cibarius"
+      - "Recent molecular work has split the C. cibarius complex into multiple cryptic species across regions"
+    mycobank_id: "MB 192775"
+  morphology:
+    cap:
+      diameter_cm: "3–12"
+      shape: "convex when young, becoming centrally depressed to vase-shaped; margin wavy and lobed"
+      color: "egg-yolk yellow to orange-yellow; entire fruiting body same golden color"
+      surface: "smooth, dry, matte"
+    gills:
+      attachment: "decurrent (running down stipe)"
+      color: "same golden-yellow as cap"
+      spacing: "forked, blunt-edged ridges (false gills / pseudogills) — not true lamellae"
+    stipe:
+      height_cm: "2–8"
+      diameter_cm: "0.5–2"
+      color: "same golden-yellow as cap, paler at base"
+      texture: "solid, firm"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "ellipsoid to oblong"
+      dimensions_μm: "8–12 × 4.5–6"
+      color_in_mass: "pale yellow to cream"
+      wall: "smooth, thin"
+    spore_print: "pale yellow to cream"
+    flesh:
+      color: "white to pale yellow"
+      texture: "firm, solid"
+      odor: "fruity, apricot-like"
+      taste: "mild, slightly peppery, fruity"
+    notable_morphological_feature: |
+      The defining feature of Cantharellus cibarius is its false gills — thick, forking,
+      blunt-edged ridges that run down the stipe (decurrent), in the same golden-yellow
+      color as the rest of the fruiting body. These ridges are fundamentally different from
+      the sharp-edged, blade-like true gills of most agarics. The entirely golden-yellow
+      coloration of cap, pseudogills, and stipe is distinctive. The fruity apricot odor
+      is another reliable identification feature.
+  habitat:
+    substrate: "forest soil, humus"
+    ecosystem:
+      - temperate deciduous forests (oak, beech)
+      - coniferous forests (pine, spruce, fir)
+      - mixed woodlands
+    associated_hosts:
+      - Quercus (oak)
+      - Fagus (beech)
+      - Pinus (pine)
+      - Picea (spruce)
+      - Abies (fir)
+    mycorrhizal: true
+    saprotrophic: false
+  distribution:
+    native_range: "Europe, North America, Asia, Central America; broadly temperate and boreal"
+    global: true
+    elevation_m: "0–2500"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - sautéed in butter
+      - creamed sauces and soups
+      - risotto and pasta
+      - dried (though loses some aroma)
+      - pickled
+    notes: |
+      One of the most prized wild edible mushrooms in European and North American
+      cuisine. Annual global wild harvest ~100,000 tonnes (primarily Eastern Europe,
+      Pacific Northwest USA, Canada). Rich in vitamin D (highest natural food source
+      after UV-exposed mushrooms), vitamin C, beta-carotene, and potassium.
+      Best cooked fresh; drying diminishes the fruity aroma. Cannot be cultivated
+      commercially due to obligate mycorrhizal habit — all commercial supply is
+      wild-harvested. Pairs exceptionally well with eggs, cream sauces, and poultry.
+    lookalikes:
+      - species: "Omphalotus olearius (jack-o'-lantern mushroom)"
+        danger: "toxic (causes severe GI distress)"
+        distinguishing_features: "Omphalotus has TRUE sharp blade-like gills (not ridges), grows in dense clusters at wood base, glows faintly in dark, orange rather than golden-yellow, no apricot odor"
+      - species: "Hygrophoropsis aurantiaca (false chanterelle)"
+        danger: "toxic/inedible (mildly toxic)"
+        distinguishing_features: "H. aurantiaca has true crowded gills that fork near cap margin, more orange color, grows on conifer debris, distinct unpleasant odor"
+      - species: "Craterellus tubaeformis (yellowleg chanterelle)"
+        danger: "safe (also edible)"
+        distinguishing_features: "C. tubaeformis has brown cap, grey-lilac pseudogills, hollow yellow stipe; grows in sphagnum and wet conifer woods"
+  lifecycle:
+    fruiting_season: "summer through autumn (June–November depending on region)"
+    fruiting_triggers:
+      - adequate rainfall (>50 mm preceding weeks)
+      - warm but not hot temperatures (15–20°C)
+      - humid conditions
+    mycelium_type: "ectomycorrhizal — forms mycorrhizal mantle on tree roots"
+    spore_dispersal: "wind, animals"
+  cultivation:
+    commercial: false
+    difficulty: "not applicable (cannot be cultivated — obligate ectomycorrhizal)"
+    substrate:
+      - "Not cultivatable in artificial substrate"
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "15–22"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      All attempts to cultivate chanterelles artificially have failed. Some researchers
+      have grown mycorrhizal seedlings with Cantharellus mycelium in greenhouse conditions
+      but obtaining consistent fruiting has proven impossible. Commercial supply is
+      entirely wild-harvested, which limits market availability and keeps prices high
+      (€8–25/kg retail in Europe). Annual wild harvest of the C. cibarius complex
+      in Europe alone exceeds 50,000 tonnes.
+  biochemistry:
+    compounds:
+      - "Beta-carotene (high levels — 140–550 μg/100g dry weight)"
+      - "Ergocalciferol / Vitamin D2 (significant levels enhanced by sunlight)"
+      - "Vitamin C (ascorbic acid)"
+      - "Cantharellus yellow pigments (norbaeonycin-related)"
+      - "Ergothioneine (antioxidant amino acid)"
+    medicinal_research:
+      - "High antioxidant activity demonstrated (carotenoids, phenolics)"
+      - "Anti-inflammatory properties in vitro"
+      - "High vitamin D content relevant for bone health"
+      - "Antimicrobial terpenoids identified"
+  conservation:
+    status: "Least Concern; some regional decline noted"
+    threats:
+      - "Forest management practices reducing old-growth habitat"
+      - "Overharvesting in accessible areas"
+      - "Soil compaction and eutrophication"
+      - "Climate change affecting fruiting patterns"
+  data_sources:
+    - "MycoBank MB 192775"
+    - "Fries (1821) Systema Mycologicum"
+    - "Danell & Camacho (1997) Mycological Research — chanterelle cultivation attempts"
+    - "Pfister (1997) Harvard Papers in Botany"
+    - "Index Fungorum IF 192775"

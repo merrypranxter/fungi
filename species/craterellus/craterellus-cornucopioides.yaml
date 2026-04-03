@@ -1,0 +1,135 @@
+species:
+  name: Craterellus cornucopioides
+  common_names:
+    - Black trumpet
+    - Horn of plenty
+    - Trumpet of death (French: trompette de la mort — misleadingly named; edible)
+    - Black chanterelle
+    - Poor man's truffle
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Cantharellales
+    family: Cantharellaceae
+    genus: Craterellus
+    species: cornucopioides
+    binomial: Craterellus cornucopioides
+    author: "(L.) Pers."
+    year_described: 1825
+    taxonomic_history:
+      - "1753: Described as Peziza cornucopioides by Linnaeus"
+      - "1825: Transferred to Craterellus by Christiaan Hendrik Persoon"
+    mycobank_id: "MB 105836"
+  morphology:
+    cap:
+      diameter_cm: "3–10 (opening width)"
+      shape: "deep trumpet or funnel-shaped; hollow all the way through stipe; margin wavy, irregular, inrolled when young"
+      color: "inner surface (cap interior) dark grey to black; outer surface (hymenium) grey-blue to grey-black"
+      surface: "inner surface scaly-fibrous, dark grey; outer hymenial surface smooth to slightly wrinkled, grey to dark grey"
+    gills:
+      attachment: "Not applicable — smooth to slightly wrinkled hymenium on outer surface; no true gills or pronounced ridges"
+      color: "grey to grey-blue (outer hymenial surface)"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "3–10 (continuous with cap, hollow throughout)"
+      diameter_cm: "0.5–2"
+      color: "dark grey to black, continuous with cap"
+      texture: "hollow — entire fruiting body is a thin-walled tube"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "ellipsoid to oblong"
+      dimensions_μm: "11–15 × 7–10"
+      color_in_mass: "white to very pale cream"
+      wall: "smooth, thin"
+    spore_print: "whitish to very pale ochraceous"
+    flesh:
+      color: "thin, dark grey"
+      texture: "thin, elastic, membranous"
+      odor: "pleasant, complex — smoky, earthy, slightly fruity"
+      taste: "complex, smoky, earthy, rich"
+    notable_morphological_feature: |
+      Craterellus cornucopioides is entirely hollow — a thin-walled tube or trumpet
+      shaped fruiting body open from the cap to the stipe base. The outer surface
+      is the hymenium (spore-bearing surface), which is smooth to slightly wrinkled.
+      There are no gills or ridges. The dark coloration makes this species notoriously
+      difficult to spot against the dark leaf litter of beech and oak forests. Despite
+      the French common name "trompette de la mort" (trumpet of death), the species
+      is entirely edible and prized.
+  habitat:
+    substrate: "forest soil, leaf litter"
+    ecosystem:
+      - temperate deciduous forests
+      - beech woodlands
+      - oak forests
+    associated_hosts:
+      - Fagus (beech) — primary association
+      - Quercus (oak)
+      - Castanea (chestnut)
+    mycorrhizal: true
+    saprotrophic: false
+  distribution:
+    native_range: "Europe, North America, East Asia; broadly temperate"
+    global: false
+    elevation_m: "0–1500"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - dried (concentrates and preserves flavor extremely well)
+      - sautéed
+      - powdered as flavoring
+      - in risotto, pasta, sauces
+      - mixed with cream sauces
+    notes: |
+      Despite the alarming common name "trompette de la mort" (trumpet of death),
+      Craterellus cornucopioides is entirely safe and highly prized. The name refers
+      to the dark, morbid appearance and autumn season. Called "poor man's truffle"
+      for its intense flavor resembling truffles when dried. Drying concentrates the
+      complex smoky-earthy aroma remarkably. One of the few wild mushrooms that
+      improves significantly with drying. Very difficult to spot in leaf litter due
+      to dark color.
+    lookalikes:
+      - species: "Craterellus fallax (North American black trumpet)"
+        danger: "safe (also edible)"
+        distinguishing_features: "C. fallax is the North American species, nearly identical; ochre-colored spore deposit vs. white in C. cornucopioides"
+  lifecycle:
+    fruiting_season: "late summer through autumn (July–November)"
+    fruiting_triggers:
+      - moisture after dry period
+      - cool temperatures (8–18°C)
+    mycelium_type: "ectomycorrhizal with deciduous trees"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: false
+    difficulty: "not applicable (obligate ectomycorrhizal; not cultivated)"
+    substrate:
+      - "Not cultivatable"
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "10–20"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      No successful commercial cultivation. All supply is wild-harvested. The species
+      fruits in dense troops and can be locally abundant, making it commercially
+      significant as a wild-harvest species in France, Poland, and the Pacific Northwest
+      of North America.
+  biochemistry:
+    compounds:
+      - "Beta-carotene and other carotenoids"
+      - "Ergosterol (provitamin D2)"
+      - "Polysaccharides (immunomodulatory)"
+      - "Phenolic compounds (antioxidant)"
+    medicinal_research:
+      - "Antioxidant activity demonstrated"
+      - "Antimicrobial activity against food-borne pathogens"
+      - "Limited dedicated medicinal research"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - "Reduction in old beech forest habitat"
+      - "Soil compaction from recreational activity"
+  data_sources:
+    - "MycoBank MB 105836"
+    - "Persoon (1825) Mycologia Europaea"
+    - "Index Fungorum IF 105836"
+    - "Arora (1986) Mushrooms Demystified"

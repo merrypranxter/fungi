@@ -1,0 +1,13 @@
+order:
+  name: Cantharellales
+  parent: Agaricomycetes
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  species_count: ~500
+  notes: |
+    Order of Basidiomycota containing the chanterelles and their relatives.
+    Characterized by fruit bodies with forking, ridge-like pseudogills (rather
+    than true gills), though some members have smooth hymenial surfaces or teeth.
+    Families include Cantharellaceae (chanterelles, trumpets), Hydnaceae (hedgehog
+    fungi), and Clavulinaceae (crested coral fungi). Many species are ectomycorrhizal
+    with trees.
