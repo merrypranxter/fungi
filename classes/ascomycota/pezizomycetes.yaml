@@ -1,0 +1,36 @@
+class:
+  name: Pezizomycetes
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Pezizomycetes
+    established: 2006
+    author: "O.E. Erikss."
+    mycobank_id: "MB 500011"
+  description: |
+    Pezizomycetes is a class of Ascomycota containing the cup fungi, morels,
+    truffles, and earth tongues. With ~1,700 species, members produce operculate
+    asci (asci with a lid-like operculum for spore release) arranged in
+    open, cup-shaped or discoid apothecia. The class includes the most prized
+    edible fungi in the world: morels (Morchella) and truffles (Tuber), which
+    collectively constitute a multi-billion-dollar global market. Many species
+    are ectomycorrhizal with hardwoods and conifers; others are coprophilous
+    (dung-dwelling) or pyrophilous (fire-following).
+  key_characteristics:
+    - Operculate asci (lid opens to forcibly discharge spores)
+    - Ascocarps typically apothecia (open cups, discs, or saddle-shaped)
+    - Morels: honeycombed pileus on a stipe (ascocarp modification)
+    - Truffles: hypogeous (underground) ascocarps
+    - Paraphyses (sterile hyphae) present between asci in hymenium
+    - Asexual states rare or absent
+  orders:
+    - Pezizales
+  ecological_roles:
+    - Ectomycorrhizal with oaks, hazels, poplars, pines (truffles)
+    - Saprotrophic on burned soil (pyrophilous species post-fire succession)
+    - Coprophilous decomposers on dung
+    - Decomposers of woody debris and soil organic matter
+  data_sources:
+    - "MycoBank MB 500011"
+    - "Hansen & Pfister (2006) Systematics of the Pezizomycetes"
+    - "Index Fungorum"

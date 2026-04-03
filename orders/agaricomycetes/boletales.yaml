@@ -1,0 +1,45 @@
+order:
+  name: Boletales
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Boletales
+    established: 1909
+    author: "E.-J. Gilbert"
+    mycobank_id: "MB 90599"
+  description: |
+    Boletales contains ~1,300 described species in 17 families, centered on the
+    boletes—mushrooms with a spongy pore surface (hymenophore of tubes) rather than
+    gills. The order also includes many non-pored forms: waxcaps, earthballs (Scleroderma),
+    false truffles, and gomphidoid species. Boletus edulis (porcini / cep) is one of the
+    most commercially valued wild edible mushrooms globally. The order is predominantly
+    ectomycorrhizal with hardwoods and conifers. Several genera (Gyroporus, Suillus) are
+    strictly host-specific. Boletales also includes the deadly earthball Scleroderma and
+    toxic species that turn blue when cut (oxidation of variegatic acid).
+  key_characteristics:
+    - Tubular hymenophore (pores) in most families; gills in Paxillaceae and Gomphidiaceae
+    - Flesh often staining blue when cut (bolesatine, variegatic acid oxidation)
+    - Predominantly ectomycorrhizal with trees
+    - Spore print usually olive-brown to yellow-brown
+    - Many species host-specific (Suillus with conifers)
+    - Fruiting bodies fleshy, rapidly perishable
+  families:
+    - Boletaceae
+    - Suillaceae
+    - Gomphidiaceae
+    - Paxillaceae
+    - Sclerodermataceae
+    - Gyroporaceae
+    - Calostomataceae
+    - Diplocystidiaceae
+    - Pisolithaceae
+  ecological_roles:
+    - Ectomycorrhizal partners of pines, oaks, beeches, birches, spruces
+    - Critical for forest tree seedling establishment
+    - Saprotrophic species in some families
+    - Earthballs (Scleroderma) occasionally ectendomycorrhizal
+  data_sources:
+    - "MycoBank MB 90599"
+    - "Binder & Hibbett (2006) Molecular systematics of the Boletales"
+    - "Index Fungorum"

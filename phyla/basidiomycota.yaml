@@ -1,0 +1,58 @@
+phylum:
+  name: Basidiomycota
+  common_name: Club fungi
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    established: 1959
+    author: "R.T. Moore"
+    mycobank_id: "MB 90005"
+  description: |
+    Basidiomycota is the second-largest fungal phylum with ~36,000 described species.
+    Defined by the production of sexual spores (basidiospores) externally on
+    club-shaped cells called basidia. The phylum encompasses the most familiar
+    mushrooms, puffballs, brackets, rusts, smuts, and jelly fungi. Basidiomycetes
+    dominate forest ecosystems as ectomycorrhizal partners with trees and as
+    the primary decomposers of lignin in woody debris.
+  distinguishing_features:
+    - Basidiospores borne externally on basidia (typically 4 per basidium)
+    - Basidia arranged in a hymenium on gills, pores, teeth, or smooth surfaces
+    - Dikaryotic secondary mycelium with clamp connections
+    - Fruiting bodies (basidiocarps) highly diverse: agarics, boletes, brackets, puffballs
+    - Dolipore septa (barrel-shaped pores) in most species
+    - Many species form ectomycorrhizal associations with forest trees
+  reproduction:
+    sexual: |
+      Sexual reproduction involves plasmogamy between compatible monokaryons to form
+      a stable dikaryon, followed by karyogamy and meiosis in basidia to produce
+      four haploid basidiospores on sterigmata.
+    asexual: |
+      Asexual reproduction by oidia, chlamydospores, or conidiospores. Less prominent
+      than in Ascomycota. Smuts and rusts produce specialized asexual spore types
+      (urediniospores, teliospores) during complex life cycles.
+  ecological_roles:
+    - Ectomycorrhizal partners with most forest trees (oaks, pines, beeches, birches)
+    - Primary decomposers of lignin via white-rot and brown-rot mechanisms
+    - Saprotrophic decomposers of leaf litter and dung
+    - Plant pathogens (rusts cause ~$1 billion annual crop losses)
+    - Smuts infect cereal grains globally
+    - Carbon and nutrient cycling in forest ecosystems
+  economic_importance:
+    - Agaricus bisporus: most widely cultivated edible mushroom worldwide
+    - Pleurotus ostreatus / eryngii: oyster mushrooms, second most cultivated
+    - Lentinula edodes: shiitake, major Asian culinary and medicinal mushroom
+    - Ganoderma lucidum: reishi, major medicinal mushroom (immunomodulatory)
+    - Puccinia striiformis: yellow rust, major wheat pathogen
+    - Ustilago maydis: corn smut (pathogen; huitlacoche delicacy in Mexico)
+    - Trametes versicolor: turkey tail, antitumor polysaccharides (PSK)
+  number_of_species: ~36000
+  classes:
+    - Agaricomycetes
+    - Ustilaginomycetes
+    - Tremellomycetes
+    - Dacrymycetes
+    - Wallemiomycetes
+  data_sources:
+    - "MycoBank MB 90005"
+    - "Index Fungorum"
+    - "Hibbett et al. (2007) A higher-level phylogenetic classification of Fungi"

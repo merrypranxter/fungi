@@ -1,0 +1,39 @@
+class:
+  name: Chytridiomycetes
+  taxonomy:
+    kingdom: Fungi
+    phylum: Chytridiomycota
+    class: Chytridiomycetes
+    established: 1960
+    author: "Sparrow"
+    mycobank_id: "MB 500015"
+  description: |
+    Chytridiomycetes is the primary class of Chytridiomycota, containing ~700 species
+    of zoosporic fungi. Members inhabit freshwater, marine, and moist soil environments.
+    They are predominantly saprotrophic decomposers of pollen, chitin, keratin,
+    and cellulose, but include important pathogens. Batrachochytrium dendrobatidis
+    (Bd) and B. salamandrivorans (Bsal) have caused unprecedented amphibian declines.
+    Synchytrium endobioticum causes potato wart, a quarantine disease worldwide.
+    Members are critical components of the "mycoloop" in aquatic food webs.
+  key_characteristics:
+    - Posteriorly uniflagellate zoospores
+    - Thallus typically monocentric (single reproductive center)
+    - Zoosporangia contain and release zoospores
+    - Rhizoid system for substrate attachment and nutrient absorption
+    - Cell walls of chitin and glucan
+    - No true mycelium; some species polycentric
+  orders:
+    - Chytridiales
+    - Rhizophydiales
+    - Spizellomycetales
+    - Lobulomycetales
+  ecological_roles:
+    - Decomposers of recalcitrant organic polymers in aquatic systems
+    - Parasites of algae (regulating bloom species)
+    - Pathogens of amphibians (Batrachochytrium)
+    - Link in aquatic mycoloop (fungal biomass consumed by zooplankton)
+    - Parasites of pollen grains (nutrient cycling)
+  data_sources:
+    - "MycoBank MB 500015"
+    - "James et al. (2006)"
+    - "Index Fungorum"

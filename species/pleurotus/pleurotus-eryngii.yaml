@@ -1,0 +1,100 @@
+species:
+  name: Pleurotus eryngii
+  common_names:
+    - King oyster mushroom
+    - Trumpet royale
+    - Eryngi (Japanese)
+    - Cardoncello (Italian)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Pleurotaceae
+    genus: Pleurotus
+    species: eryngii
+    binomial: Pleurotus eryngii
+    author: "(DC.) Quél."
+    year_described: 1872
+    mycobank_id: "MB 119213"
+  morphology:
+    cap:
+      diameter_cm: "4–15"
+      shape: "convex to broadly umbonate; less fan-shaped than P. ostreatus"
+      color: "pale brown to grey-brown"
+      surface: "smooth, dry"
+    gills:
+      attachment: "decurrent"
+      color: "white to cream"
+      spacing: "crowded"
+    stipe:
+      height_cm: "3–10"
+      diameter_cm: "1.5–4"
+      color: "white"
+      position: "central to eccentric"
+      texture: "firm, meaty"
+    spore_print: "white to pale lilac"
+    spores:
+      shape: "cylindrical"
+      dimensions_μm: "10–15 × 4–5"
+      wall: "smooth"
+    flesh:
+      color: "white"
+      texture: "very firm, meaty (especially stipe)"
+      odor: "mild, pleasant"
+      taste: "mild, umami-rich"
+  habitat:
+    substrate: "roots and dead stems of Eryngium (sea holly) and related Apiaceae"
+    ecosystem:
+      - Mediterranean and steppe grasslands
+      - semi-arid regions
+    associated_hosts:
+      - Eryngium campestre
+      - Eryngium maritimum
+      - Ferula (giant fennel)
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Mediterranean Europe, Middle East, Central Asia"
+    global: false
+    cultivation_range: "globally cultivated"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - grilled
+      - sautéed
+      - stir-fried
+      - dried
+    notes: "Prized for meaty, firm texture of the stipe; retains texture well in cooking"
+    lookalikes: []
+  lifecycle:
+    fruiting_season: "autumn to spring (wild); year-round (cultivated)"
+    fruiting_triggers:
+      - moisture
+      - temperature_drop
+  cultivation:
+    commercial: true
+    difficulty: "intermediate"
+    substrate:
+      - hardwood sawdust
+      - wheat straw
+      - cottonseed hulls
+    spawn_type: "grain or sawdust spawn"
+    fruiting_temp_c: "10–18"
+    incubation_temp_c: "22–26"
+    yield_kg_per_kg_dry_substrate: "0.5–0.8"
+    flushes: "2–3"
+    notes: "Lower CO2 levels produce thicker, more compact stipes"
+  biochemistry:
+    compounds:
+      - "Ergosterol (vitamin D precursor)"
+      - "Beta-glucans"
+      - "Eryngeolysin (cytolytic protein)"
+      - "Lovastatin (trace)"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - "Habitat loss of Mediterranean grasslands"
+  data_sources:
+    - "MycoBank MB 119213"
+    - "Index Fungorum"

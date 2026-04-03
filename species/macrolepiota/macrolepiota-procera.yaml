@@ -1,0 +1,95 @@
+species:
+  name: Macrolepiota procera
+  common_names:
+    - Parasol mushroom
+    - Parasol
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Agaricaceae
+    genus: Macrolepiota
+    species: procera
+    binomial: Macrolepiota procera
+    author: "(Scop.) Singer"
+    year_described: 1948
+    taxonomic_history:
+      - "1772: Described by Scopoli as Agaricus procerus"
+      - "1948: Transferred to Macrolepiota by Singer"
+    mycobank_id: "MB 285617"
+  morphology:
+    cap:
+      diameter_cm: "10–30"
+      shape: "egg-shaped and closed when young; expanding to broadly umbonate with distinct central brown umbo"
+      color: "pale off-white to tan background with concentric brown fibrous scales; central umbo dark brown"
+      surface: "scaly; scales formed by cracking of the cap cuticle"
+    gills:
+      attachment: "free, with collar around stipe"
+      color: "white to cream; not discoloring"
+      spacing: "crowded"
+    stipe:
+      height_cm: "15–35"
+      diameter_cm: "1–2"
+      color: "pale with characteristic brown snakeskin-like zig-zag pattern"
+      ring: "large, double (two-layered), freely moveable up and down the stipe"
+      volva: absent
+      base: "slightly bulbous"
+    spore_print: "white"
+    spores:
+      shape: "ellipsoid with apical germ pore"
+      dimensions_μm: "15–20 × 10–13"
+      wall: "smooth, thick, dextrinoid"
+      metachromatic: true
+    flesh:
+      color: "white; not discoloring when cut"
+      texture: "soft in cap; tough and fibrous in stipe"
+      odor: "pleasant, nutty"
+      taste: "excellent, mild"
+  habitat:
+    substrate: "soil; nutrient-poor grasslands, woodland margins, roadside verges"
+    ecosystem:
+      - grasslands
+      - woodland edges
+      - parks
+      - roadsides
+      - olive groves
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Europe, North Africa, Asia, Americas"
+    global: true
+  edibility:
+    status: "choice edible (cap only)"
+    preparation:
+      - "cap breaded and fried (classic European preparation)"
+      - "grilled"
+      - "dried"
+    notes: |
+      The stipe is too tough and fibrous to eat; only the cap is used. The large caps
+      are often breaded and pan-fried like a schnitzel in Central European cuisine.
+      The moveable ring is a key identification feature.
+    lookalikes:
+      - species: "Macrolepiota rachodes (shaggy parasol — now Chlorophyllum rachodes)"
+        danger: "causes GI upset in some people"
+        distinguishing_features: "C. rachodes has flesh that reddens when cut; lacks snakeskin stipe pattern"
+      - species: "Lepiota brunneoincarnata"
+        danger: "deadly toxic (amatoxins)"
+        distinguishing_features: "Much smaller (cap <5 cm); lacks the large size and moveable ring of Macrolepiota"
+  lifecycle:
+    fruiting_season: "late summer to autumn (August–October)"
+    fruiting_triggers:
+      - rainfall
+      - temperature_drop
+    mycelium_type: "white, saprotrophic in soil"
+  cultivation:
+    commercial: false
+    difficulty: "difficult; rarely cultivated"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - "Agricultural intensification and loss of nutrient-poor grasslands"
+      - "Fungicide use in farmland"
+  data_sources:
+    - "MycoBank MB 285617"
+    - "Index Fungorum"

@@ -1,0 +1,49 @@
+genus:
+  name: Cordyceps
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    order: Hypocreales
+    family: Cordycipitaceae
+    genus: Cordyceps
+    established: 1818
+    author: "(Fr.) Link"
+    mycobank_id: "MB 17554"
+  description: |
+    Cordyceps sensu stricto (after Sung et al. 2007 revision) contains ~35 species
+    that parasitize insects and other arthropods, primarily in tropical and temperate
+    forests. Members infect their hosts, consume them from within, and produce a
+    stroma (fruiting body) that erupts from the host cadaver to disperse spores.
+    C. militaris (orange caterpillar fungus) infects lepidopteran pupae and caterpillars
+    and is the most widely cultivated species for traditional medicine and nutraceuticals.
+    It contains cordycepin (3'-deoxyadenosine), an antitumor nucleoside. The famous
+    behavior-manipulating "zombie ant fungus" was reclassified as Ophiocordyceps
+    unilateralis in the family Ophiocordycipitaceae.
+  morphology:
+    stroma:
+      shape: "club-shaped to cylindrical"
+      color: "orange to yellow (C. militaris); white to tan in others"
+      height_cm: "2–10"
+    perithecia:
+      arrangement: "embedded in the stroma surface"
+    asci:
+      shape: "cylindrical, unitunicate"
+    ascospores:
+      shape: "thread-like, multiseptate"
+      dimensions_μm: "200–500 × 1–2"
+      fragmentation: "breakup into part-spores at maturity"
+  habitat:
+    - soil of tropical and temperate forests
+    - associated with insect hosts (caterpillars, pupae, cicadas, ants)
+  distribution: "worldwide; especially species-rich in tropical Asia"
+  edibility: "not eaten; used as health supplement and traditional medicine"
+  species_count: ~35
+  notable_species:
+    - "Cordyceps militaris (orange caterpillar fungus — most cultivated)"
+    - "Cordyceps sinensis (caterpillar fungus — now Ophiocordyceps sinensis)"
+    - "Cordyceps cicadae (cicada parasite)"
+  data_sources:
+    - "MycoBank MB 17554"
+    - "Sung et al. (2007) Phylogenetic classification of Cordyceps"
+    - "Index Fungorum"

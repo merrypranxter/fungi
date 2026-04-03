@@ -1,0 +1,36 @@
+class:
+  name: Tremellomycetes
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Tremellomycetes
+    established: 2006
+    author: "Doweld"
+    mycobank_id: "MB 500010"
+  description: |
+    Tremellomycetes are the jelly fungi and their allies, comprising ~500 species.
+    The class is characterized by tremelloid (gelatinous, brain-like) or yeast-like
+    fruiting bodies and longitudinally septate basidia (epibasidia). Many species
+    are mycoparasites (parasites of other fungi). The class includes the
+    medically important human pathogen Cryptococcus neoformans (teleomorph:
+    Filobasidiella neoformans), which causes life-threatening cryptococcal
+    meningitis in immunocompromised individuals.
+  key_characteristics:
+    - Longitudinally or obliquely septate basidia (tremelloid basidia)
+    - Fruiting bodies often gelatinous or jelly-like, collapsing when dry
+    - Many species are mycoparasites of other basidiomycetes
+    - Yeast states common in several genera (Cryptococcus, Bullera)
+    - Clamp connections present in some species
+  orders:
+    - Tremellales
+    - Filobasidiales
+    - Cystofilobasidiales
+  ecological_roles:
+    - Mycoparasites of crust fungi and corticioid basidiomycetes
+    - Saprotrophic decomposers of woody debris
+    - Human pathogen (Cryptococcus): causes ~180,000 deaths/year globally
+    - Auricularia auricula-judae: widely cultivated culinary mushroom (wood ear)
+  data_sources:
+    - "MycoBank MB 500010"
+    - "Weiss et al. (2004) The Agaricomycotina"
+    - "Index Fungorum"

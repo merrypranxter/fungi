@@ -1,0 +1,115 @@
+species:
+  name: Morchella esculenta
+  common_names:
+    - Yellow morel
+    - Common morel
+    - True morel
+    - Sponge mushroom
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Pezizomycetes
+    order: Pezizales
+    family: Morchellaceae
+    genus: Morchella
+    species: esculenta
+    binomial: Morchella esculenta
+    author: "(L.) Pers."
+    year_described: 1801
+    taxonomic_history:
+      - "1753: Described by Linnaeus as Phallus esculentus"
+      - "1801: Transferred to Morchella by Persoon"
+      - "2011: O'Donnell et al. revealed M. esculenta is a species complex of many cryptic species"
+    mycobank_id: "MB 323665"
+  morphology:
+    cap:
+      shape: "irregularly ovoid to conical; covered with honeycomb-like network of pits and ridges"
+      color: "pale tan to golden-yellow; ridges paler than pits"
+      height_cm: "3–8"
+      width_cm: "2–5"
+      attachment: "attached to stipe at base and along lower cap margin"
+    stipe:
+      height_cm: "2–6"
+      diameter_cm: "1.5–3"
+      color: "white to pale cream"
+      texture: "granular, ribbed at base"
+      interior: "hollow and continuous with cap interior"
+    interior: "fully hollow"
+    spore_print: "pale cream to pale yellow"
+    spores:
+      shape: "ellipsoid, smooth"
+      dimensions_μm: "18–26 × 12–16"
+      oil_droplets: "present (2 large)"
+      paraphyses: "clavate (club-shaped)"
+    flesh:
+      color: "white, thin"
+      texture: "fragile"
+      odor: "pleasant, earthy"
+      taste: "excellent (when cooked)"
+  habitat:
+    substrate: "soil; sometimes on rotting woody debris; disturbed soil"
+    ecosystem:
+      - old apple orchards
+      - elm woodland margins (especially after elm die-back)
+      - riparian woodland
+      - post-fire burn areas
+      - sand dunes and riverbanks
+      - aspen groves
+    mycorrhizal: "possibly weakly ectomycorrhizal with Ulmus (elm) and Malus (apple); debated"
+    saprotrophic: true
+  distribution:
+    native_range: "North America, Europe, Asia"
+    elevation_m: "0–2500"
+  edibility:
+    status: "choice edible when cooked"
+    preparation:
+      - sautéed in butter
+      - stuffed and baked
+      - dried
+      - soups
+    notes: |
+      Must be thoroughly cooked; contains heat-labile toxins (hydrazine derivatives)
+      destroyed by cooking. Raw or undercooked morels cause vomiting and GI symptoms.
+      Spring delicacy highly prized in Europe (France especially) and North America.
+      Dried morels intensify in flavor and are shelf-stable for years.
+    lookalikes:
+      - species: "Gyromitra esculenta (false morel, brain mushroom)"
+        danger: "toxic (gyromitrin — converts to monomethylhydrazine); potentially deadly"
+        distinguishing_features: "Gyromitra has wrinkled/lobed irregular cap (NOT honeycomb); hollow but not continuous; cap attached only at top of stipe"
+      - species: "Verpa bohemica (early morel)"
+        danger: "edible but causes gastric upset in large quantities"
+        distinguishing_features: "Verpa has cap attached only at apex of stipe (skirt-like, free at sides)"
+  lifecycle:
+    fruiting_season: "early to mid spring; March–May in temperate Northern Hemisphere"
+    fruiting_triggers:
+      - soil temperature reaching 10–15°C
+      - rainfall after soil warm-up
+      - day length
+      - post-fire stimulation (fire morel boom)
+    spore_dispersal: "forcible ejection of ascospores from operculate asci; wind"
+  cultivation:
+    commercial: false
+    difficulty: "extremely difficult; some partial success in indoor growth"
+    notes: |
+      Morchella has not been reliably cultivated commercially. Some small-scale
+      indoor cultivation has been demonstrated but yields are unpredictable. Wild
+      harvest remains the primary source. Patches can be stimulated by controlled burns.
+  biochemistry:
+    compounds:
+      - "Hydrazine derivatives (destroyed by thorough cooking)"
+      - "Ergothioneine"
+      - "Polysaccharides (immunostimulatory)"
+      - "Vitamin D2"
+    medicinal_research:
+      - "Polysaccharide extracts show immunostimulatory activity in vitro"
+      - "Antioxidant and anti-inflammatory activity in animal models"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - "Over-harvesting in popular foraging areas"
+      - "Loss of elm habitats (Dutch elm disease)"
+      - "Climate change affecting spring phenology"
+  data_sources:
+    - "MycoBank MB 323665"
+    - "O'Donnell et al. (2011) Multigene phylogenetics of Morchella"
+    - "Index Fungorum"

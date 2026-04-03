@@ -1,0 +1,54 @@
+phylum:
+  name: Mucoromycota
+  common_name: Pin moulds and arbuscular mycorrhizal fungi
+  taxonomy:
+    kingdom: Fungi
+    phylum: Mucoromycota
+    established: 2016
+    author: "Spatafora et al."
+    mycobank_id: "MB 819001"
+  description: |
+    Mucoromycota is a phylum of early-diverging terrestrial fungi comprising
+    ~900 described species. It was recently restructured (2016) to include the
+    former Glomeromycota (arbuscular mycorrhizal fungi) and Mucoromycotina.
+    The phylum is ecologically diverse: Mucorales are fast-growing saprotrophic
+    pin moulds on food, soil, and dung; Glomerales form arbuscular mycorrhizal
+    (AM) symbioses with ~80% of land plant species and are essential for global
+    phosphorus cycling. Mucoromycota reproduce sexually via zygospores—the
+    defining feature—formed by fusion of morphologically similar gametangia.
+  distinguishing_features:
+    - Sexual reproduction by thick-walled zygospores
+    - Coenocytic (aseptate or sparsely septate) hyphae in Mucorales
+    - Asexual reproduction by sporangiospores in columellate sporangia
+    - Arbuscular mycorrhizal species (Glomerales) form arbuscules inside root cells
+    - No flagellated cells at any stage
+    - Fast growth rates among the Mucorales
+  reproduction:
+    sexual: |
+      Zygospores formed by fusion of compatible gametangia (progametangia) in a
+      process of zygogamy. The resulting thick-walled zygospore can remain dormant
+      for extended periods. Heterothallic (requires + and - mating types) in most species.
+    asexual: |
+      Sporangiospores produced within sporangia borne on sporangiophores. Species in
+      Glomerales produce large multinucleate spores (200–800 μm) directly in soil.
+  ecological_roles:
+    - Arbuscular mycorrhizal fungi colonize >80% of land plant species
+    - Critical for global phosphorus and nitrogen cycling
+    - Saprotrophic Mucorales decompose rapidly in soil and food substrates
+    - Post-fire colonizers of burnt soils
+    - Opportunistic human pathogens (mucormycosis) in immunocompromised patients
+  economic_importance:
+    - Rhizopus oligosporus: tempeh fermentation (Indonesia, global)
+    - Mucor miehei: rennet substitute in cheese production
+    - Rhizomucor pusillus: thermostable enzymes for industry
+    - Glomus / Rhizophagus irregularis: commercial AM inoculants for agriculture
+    - Mucormycosis: serious emerging fungal infection, especially post-COVID
+  number_of_species: ~900
+  classes:
+    - Mucoromycetes
+    - Glomeromycetes
+    - Mortierellomycetes
+  data_sources:
+    - "MycoBank MB 819001"
+    - "Spatafora et al. (2016) A phylum-level phylogenetic classification of zygomycete fungi"
+    - "Index Fungorum"

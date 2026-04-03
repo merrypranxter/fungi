@@ -1,0 +1,57 @@
+genus:
+  name: Boletus
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Boletales
+    family: Boletaceae
+    genus: Boletus
+    established: 1753
+    author: "L."
+    mycobank_id: "MB 17488"
+  description: |
+    Boletus sensu stricto (after recent generic revisions) contains approximately
+    30–50 species of large, fleshy, ectomycorrhizal boletes in temperate forests of
+    the Northern Hemisphere. The flagship species B. edulis (porcini, cep, penny bun,
+    Steinpilz) is arguably the most commercially important wild edible mushroom in the
+    world, harvested in quantities exceeding 100,000 tonnes annually in Europe alone.
+    Boletus species are recognized by their reticulate (net-patterned) stipes, poroid
+    hymenophore (pores rather than gills), and firm, white to pale-yellow flesh. Many
+    species blush blue or slowly blue-tinge when cut; B. satanas (Satan's bolete)
+    is acutely toxic causing gastroenteritis.
+  morphology:
+    cap:
+      shape: "hemispheric when young, expanding to broadly convex"
+      color: "brown, tan, reddish-brown depending on species"
+      surface: "dry, smooth to slightly viscid when moist"
+      diameter_cm: "7–30"
+    pores:
+      color: "white to cream when young; yellow-olive at maturity"
+      size: "small, round"
+    stipe:
+      height_cm: "5–20"
+      color: "pale brown to white with fine reticulation"
+      surface: "reticulate (net-like pattern) especially near apex"
+    spore_print: "olive-brown"
+    spores:
+      shape: "fusiform (spindle-shaped)"
+      dimensions_μm: "12–18 × 4–6"
+      wall: "smooth"
+  habitat:
+    - coniferous forests (pine, spruce, fir)
+    - mixed and broadleaf forests (oak, beech, chestnut)
+    - subalpine forests
+  distribution: "Northern Hemisphere temperate; introduced with host trees globally"
+  edibility: "B. edulis: choice edible; B. satanas: toxic"
+  species_count: ~40
+  notable_species:
+    - "Boletus edulis (porcini / cep)"
+    - "Boletus pinophilus (pine bolete)"
+    - "Boletus aereus (dark cep)"
+    - "Boletus reticulatus (summer cep)"
+    - "Boletus satanas (Satan's bolete — toxic)"
+  data_sources:
+    - "MycoBank MB 17488"
+    - "Dentinger et al. (2010) Molecular phylogenetics of porcini"
+    - "Index Fungorum"

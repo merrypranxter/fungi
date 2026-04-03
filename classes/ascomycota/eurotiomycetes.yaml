@@ -1,0 +1,40 @@
+class:
+  name: Eurotiomycetes
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Eurotiomycetes
+    established: 1997
+    author: "O.E. Erikss. & Winka"
+    mycobank_id: "MB 500012"
+  description: |
+    Eurotiomycetes is a class of Ascomycota encompassing ~4,000 species notable for
+    their global medical, industrial, and ecological significance. It includes
+    Aspergillus (industrial enzyme and mycotoxin producer, opportunistic pathogen),
+    Penicillium (antibiotic source, food spoiler and ripening agent), Talaromyces,
+    Histoplasma, Coccidioides, and Paracoccidioides (systemic human pathogens).
+    Members form cleistothecia (closed, spherical ascocarps) or gymnothecia, or
+    lack sexual stages entirely. Many have prominent conidial states and thrive
+    in xerophytic (dry) or thermophilic environments.
+  key_characteristics:
+    - Cleistothecial or gymnothecial ascocarps (closed or loosely organized)
+    - Bitunicate or unitunicate asci depending on order
+    - Prominent conidial (asexual) states dominate life history in many species
+    - Thermophilic and xerophilic adaptations common
+    - Aflatoxin, ochratoxin, and other mycotoxin production in several genera
+    - Dimorphic pathogens (yeast at body temperature, mold at room temperature)
+  orders:
+    - Eurotiales
+    - Onygenales
+    - Coryneliales
+  ecological_roles:
+    - Decomposers of stored grains, fruits, and organic matter
+    - Soil fungi in arid and semi-arid environments
+    - Human pathogens causing pulmonary and systemic mycoses
+    - Industrial producers of enzymes (amylases, proteases, lipases)
+    - Antibiotic producers (Penicillium)
+    - Lichens in some lineages
+  data_sources:
+    - "MycoBank MB 500012"
+    - "Geiser et al. (2006) The Eurotiomycetes"
+    - "Index Fungorum"

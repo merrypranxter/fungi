@@ -1,0 +1,120 @@
+species:
+  name: Boletus edulis
+  common_names:
+    - Porcini
+    - Cep
+    - Penny bun
+    - Steinpilz (German)
+    - Porcino (Italian)
+    - King bolete
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Boletales
+    family: Boletaceae
+    genus: Boletus
+    species: edulis
+    binomial: Boletus edulis
+    author: "Bull."
+    year_described: 1782
+    taxonomic_history:
+      - "1782: Described by Bulliard in Herbier de la France"
+      - "Several varieties and regional forms recognized"
+    mycobank_id: "MB 232132"
+  morphology:
+    cap:
+      diameter_cm: "7–30"
+      shape: "hemispheric to broadly convex; pillow-like"
+      color: "mid-brown to chestnut-brown; paler at margin; bun-like appearance"
+      surface: "smooth to slightly wrinkled; slightly viscid when moist; dry at maturity"
+    pores:
+      color: "white to cream when young; greenish-yellow at maturity"
+      size: "small, round; 2–4 per mm"
+      bruising: "does not blue (distinguishes from toxic boletes)"
+    stipe:
+      height_cm: "7–20"
+      diameter_cm: "3–6"
+      color: "pale brown; white reticulation (net pattern) especially near apex"
+      surface: "reticulate (fine white net pattern)"
+    spore_print: "olive-brown"
+    spores:
+      shape: "fusiform (spindle-shaped)"
+      dimensions_μm: "14–18 × 4.5–6"
+      wall: "smooth, olive-brown"
+    flesh:
+      color: "white; not changing color when cut (important safety feature)"
+      texture: "firm, dense"
+      odor: "pleasant, nutty"
+      taste: "excellent, rich, umami"
+  habitat:
+    substrate: "soil in ectomycorrhizal association with forest trees"
+    ecosystem:
+      - coniferous forests (pine, spruce, fir)
+      - mixed and broadleaf forests (oak, beech, chestnut, birch)
+      - subalpine forests
+    associated_hosts:
+      - Pinus (pine)
+      - Picea (spruce)
+      - Abies (fir)
+      - Quercus (oak)
+      - Fagus (beech)
+      - Castanea (chestnut)
+    mycorrhizal: true
+    saprotrophic: false
+  distribution:
+    native_range: "Europe, North America, Asia"
+    global: true
+    elevation_m: "0–2500"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - raw (fresh in salads)
+      - sautéed
+      - dried (intensifies flavor)
+      - risotto
+      - pasta sauces
+      - soups
+    notes: |
+      One of the most commercially valuable wild mushrooms globally. Annual European
+      wild harvest exceeds 100,000 tonnes. Dried porcini are a pantry staple in
+      Italian, French, and Eastern European cuisines. Umami richness from glutamic acid.
+    lookalikes:
+      - species: "Tylopilus felleus (bitter bolete)"
+        danger: "inedible (bitter taste)"
+        distinguishing_features: "T. felleus has pink pore surface and flesh tastes extremely bitter"
+      - species: "Boletus satanas (Satan's bolete)"
+        danger: "toxic (GI severe)"
+        distinguishing_features: "B. satanas has red pores and stipe base; flesh blues rapidly"
+  lifecycle:
+    fruiting_season: "summer to autumn; peaks August–October in Northern Hemisphere"
+    fruiting_triggers:
+      - rainfall
+      - temperature_drop_from_15_to_12_c
+      - full_moon_correlation_anecdotal
+    mycelium_type: "white, ectomycorrhizal mantle on host roots"
+  cultivation:
+    commercial: false
+    difficulty: "extremely difficult (obligate ectomycorrhizal)"
+    notes: "Cannot be cultivated in isolation; requires living host tree. Some inoculated seedling programs exist."
+  biochemistry:
+    compounds:
+      - "Glutamic acid (umami flavor, high concentration)"
+      - "Ergosterol (vitamin D precursor)"
+      - "Beta-glucans"
+      - "Mannitol"
+      - "Trehalose"
+      - "Atromentin (pigment)"
+    medicinal_research:
+      - "Beta-glucans show immunostimulatory activity"
+      - "Traditional use in Eastern European folk medicine for digestive health"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - "Forest degradation and habitat loss"
+      - "Climate change altering fruiting phenology"
+      - "Over-harvesting in popular regions"
+  data_sources:
+    - "MycoBank MB 232132"
+    - "Index Fungorum"
+    - "Dentinger et al. (2010) Molecular phylogenetics of porcini mushrooms"

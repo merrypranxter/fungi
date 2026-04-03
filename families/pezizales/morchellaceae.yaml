@@ -1,0 +1,43 @@
+family:
+  name: Morchellaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Pezizomycetes
+    order: Pezizales
+    family: Morchellaceae
+    established: 1836
+    author: "Rchb."
+    mycobank_id: "MB 81228"
+  description: |
+    Morchellaceae contains ~80 described species in 5 genera, centered on the
+    true morels (Morchella) and bell morels (Verpa). Morels are among the most
+    highly prized edible fungi in the world, fetching premium prices in European
+    and North American markets. The distinctive honeycombed cap (cap with pits and
+    ridges bearing the hymenium) is unique among fungi. Morchellaceae species are
+    found in spring, fruiting after snowmelt in temperate forests, orchards, and
+    burn areas. Many species are pyrophilous (fire-following). Morchella is
+    suspected to be weakly ectomycorrhizal with certain trees (elms, ash, tulip
+    poplar) but confirmation remains debated.
+  key_characteristics:
+    - Cap with distinctive honeycomb pattern of pits and ridges (Morchella)
+    - Bell-shaped to thimble-shaped cap (Verpa)
+    - Hollow stipe and cap interior
+    - Operculate asci (spore ejection through lid)
+    - White to cream spore print
+    - Fruiting in spring; pyrophilous behavior after wildfire
+    - Cap attached to stipe at base only (distinguishes true morels from false)
+  genera:
+    - Morchella
+    - Verpa
+    - Disciotis
+    - Imaia
+    - Kalapuya
+  ecological_roles:
+    - Weakly ectomycorrhizal or mycorrhizal with hardwoods (debated)
+    - Post-fire pyrophilous successional species
+    - Decomposers in orchards and disturbed soils
+  data_sources:
+    - "MycoBank MB 81228"
+    - "O'Donnell et al. (2011) Phylogenetically distinct clades of Morchella"
+    - "Index Fungorum"

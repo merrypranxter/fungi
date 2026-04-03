@@ -1,0 +1,52 @@
+order:
+  name: Agaricales
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    established: 1900
+    author: "Underw."
+    mycobank_id: "MB 90598"
+  description: |
+    Agaricales is the largest order of Agaricomycetes, comprising ~13,000 described
+    species in 33 families. It encompasses the classic mushroom form: a pileus (cap)
+    bearing lamellae (gills) on its underside, supported by a stipe. The order
+    includes most commercially cultivated mushrooms (Agaricus, Pleurotus, Lentinula,
+    Flammulina), deadly poisonous species (Amanita phalloides, A. ocreata), prized
+    edibles (chanterelles excluded), and many ectomycorrhizal partners of forest trees.
+    Morphological diversity is extreme: from the classic button mushroom to ink caps
+    (Coprinoids) that autodigest their gills, to bioluminescent species.
+  key_characteristics:
+    - Lamellate (gilled) hymenophore in most families
+    - Some families have smooth, waxy, or reduced hymenophore
+    - Typically fleshy, rapidly decaying fruiting bodies
+    - Spore prints range from white to pink to brown to black
+    - Ectomycorrhizal, saprotrophic, and parasitic species
+    - Includes Coprinoid ink caps (autodigestion by deliquescence)
+    - Bioluminescent species in Omphalotus, Panellus, and others
+  families:
+    - Agaricaceae
+    - Amanitaceae
+    - Pleurotaceae
+    - Tricholomataceae
+    - Marasmiaceae
+    - Mycenaceae
+    - Physalacriaceae
+    - Strophariaceae
+    - Psathyrellaceae
+    - Hygrophoraceae
+    - Entolomataceae
+    - Inocybaceae
+    - Cortinariaceae
+    - Crepidotaceae
+    - Bolbitiaceae
+  ecological_roles:
+    - Ectomycorrhizal symbionts of forest trees
+    - Saprotrophic decomposers of litter and woody debris
+    - White-rot lignin decomposers (Pleurotus, Phanerochaete relatives)
+    - Parasites on living wood (Armillaria honey fungus)
+  data_sources:
+    - "MycoBank MB 90598"
+    - "Moncalvo et al. (2002) One hundred seventeen clades of euagarics"
+    - "Index Fungorum"

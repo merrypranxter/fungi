@@ -1,0 +1,42 @@
+order:
+  name: Eurotiales
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Eurotiomycetes
+    order: Eurotiales
+    established: 1897
+    author: "G.W. Martin"
+    mycobank_id: "MB 90692"
+  description: |
+    Eurotiales contains ~600 described species in 3 families and is the order of
+    Aspergillus, Penicillium, and their sexual states (Neosartorya, Talaromyces,
+    Eurotium). Members are predominantly asexual (conidial) in nature, although sexual
+    states (cleistothecia with globose asci) occur in many species. Eurotiales are
+    ubiquitous cosmopolitan molds in soil, decomposing organic matter, stored food,
+    and indoor environments. The order contains the source of penicillin antibiotics
+    (Penicillium chrysogenum), major mycotoxin producers (Aspergillus flavus—aflatoxin;
+    A. ochraceus—ochratoxin), industrial enzyme producers (A. niger), and opportunistic
+    human pathogens (A. fumigatus causing invasive aspergillosis).
+  key_characteristics:
+    - Cleistothecial or gymnothecial sexual state
+    - Prominent conidial (asexual) states dominate
+    - Conidiophores bearing phialides with chains of conidia
+    - Conidia typically 2–10 μm, smooth or roughened
+    - Thermophilic and xerophilic species common
+    - Many produce biologically active secondary metabolites
+  families:
+    - Trichocomaceae
+    - Aspergillaceae
+    - Thermoascaceae
+  ecological_roles:
+    - Decomposers of stored grains, fruits, and organic matter
+    - Soil fungi in arid environments
+    - Producers of mycotoxins (aflatoxin, ochratoxin, patulin)
+    - Industrial fermentation (citric acid, gluconic acid, enzymes)
+    - Antibiotic producers (penicillin)
+    - Opportunistic human pathogens (Aspergillus fumigatus)
+  data_sources:
+    - "MycoBank MB 90692"
+    - "Geiser et al. (2006)"
+    - "Index Fungorum"

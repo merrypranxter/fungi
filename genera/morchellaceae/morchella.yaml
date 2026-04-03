@@ -1,0 +1,59 @@
+genus:
+  name: Morchella
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Pezizomycetes
+    order: Pezizales
+    family: Morchellaceae
+    genus: Morchella
+    established: 1794
+    author: "Dill. ex Pers."
+    mycobank_id: "MB 18008"
+  description: |
+    Morchella (true morels) contains ~80 described species and represents one of the
+    most prized groups of edible fungi worldwide. Morels are distinguished by their
+    unmistakable honeycomb-patterned caps with interconnected ridges and pits, hollow
+    interior, and spring fruiting season. They are found in temperate North America,
+    Europe, and Asia in diverse habitats: old orchards, elm woods, burn sites,
+    riparian forests, and high-elevation conifer forests. Molecular phylogenetics
+    has revealed that "Morchella esculenta" is actually a species complex of many
+    cryptic species. Morels command premium prices ($30–150/kg fresh) in gourmet
+    and restaurant markets. They must be cooked before eating; raw consumption causes
+    gastrointestinal disturbance.
+  morphology:
+    cap:
+      shape: "ovoid to conical with honeycomb network of ridges and pits"
+      color: "yellow, grey, or black depending on species and age"
+      surface: "pitted and ridged (alveolate)"
+      height_cm: "3–12"
+    stipe:
+      height_cm: "2–8"
+      color: "white to cream"
+      texture: "granular, sometimes ribbed"
+      interior: "hollow"
+    interior:
+      cap_and_stipe: "hollow and continuous"
+    spore_print: "pale cream to yellow"
+    spores:
+      shape: "ellipsoid"
+      dimensions_μm: "18–28 × 11–17"
+      wall: "smooth"
+  habitat:
+    - old apple and elm orchards
+    - riparian woodlands
+    - post-fire burn sites (pyrophilous)
+    - aspen groves
+    - mixed hardwood forests
+  distribution: "temperate Northern Hemisphere; some in Southern Hemisphere"
+  edibility: "choice edible when thoroughly cooked; toxic raw"
+  species_count: ~80
+  notable_species:
+    - "Morchella esculenta (yellow morel — species complex)"
+    - "Morchella elata (black morel)"
+    - "Morchella importuna (landscape morel)"
+    - "Morchella angusticeps (narrow black morel)"
+  data_sources:
+    - "MycoBank MB 18008"
+    - "O'Donnell et al. (2011) Multigene phylogenetics of Morchella"
+    - "Index Fungorum"

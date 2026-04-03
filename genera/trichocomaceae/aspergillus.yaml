@@ -1,0 +1,51 @@
+genus:
+  name: Aspergillus
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Eurotiomycetes
+    order: Eurotiales
+    family: Trichocomaceae
+    genus: Aspergillus
+    established: 1729
+    author: "P. Micheli"
+    mycobank_id: "MB 17236"
+  description: |
+    Aspergillus is a genus of ~350 described species and among the most cosmopolitan
+    and economically significant fungi on Earth. The name refers to the aspergillum
+    (a liturgical sprinkler), reflecting the brush-like morphology of the conidiophore
+    with its radiating chains of conidia. A. niger produces citric acid (>2 million
+    tonnes/year industrially) and enzymes including amyloglucosidase, pectinase, and
+    glucoamylase. A. oryzae ferments soy sauce, miso, sake, and shochu (koji fermentation).
+    A. flavus and A. parasiticus produce aflatoxins—the most potent naturally occurring
+    carcinogens. A. fumigatus causes invasive aspergillosis in immunocompromised patients
+    (>100,000 deaths/year globally). Sexual states in the genus are assigned to genera
+    including Neosartorya and Emericella.
+  morphology:
+    conidiophore:
+      structure: "unbranched stipe topped by a swollen vesicle bearing phialides"
+      vesicle_shape: "globose to clavate"
+      phialides: "uniseriate (directly on vesicle) or biseriate (on metulae)"
+    conidia:
+      shape: "globose to ellipsoid"
+      dimensions_μm: "2–10 (species-dependent)"
+      color: "black (A. niger), green (A. fumigatus), yellow-green (A. flavus)"
+      arrangement: "in dry chains from phialides"
+  habitat:
+    - soil worldwide
+    - decaying organic matter
+    - stored grains and food
+    - human respiratory tract (A. fumigatus)
+  distribution: "cosmopolitan; globally ubiquitous"
+  edibility: "not consumed; A. oryzae essential in fermented foods as an organism (not eaten)"
+  species_count: ~350
+  notable_species:
+    - "Aspergillus niger (black mold — citric acid, enzymes)"
+    - "Aspergillus oryzae (koji mold — fermentation)"
+    - "Aspergillus fumigatus (human pathogen)"
+    - "Aspergillus flavus (aflatoxin producer)"
+    - "Aspergillus nidulans (model organism)"
+  data_sources:
+    - "MycoBank MB 17236"
+    - "Samson et al. (2014) Accepted species of Aspergillus"
+    - "Index Fungorum"

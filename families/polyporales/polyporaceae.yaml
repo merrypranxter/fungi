@@ -1,0 +1,47 @@
+family:
+  name: Polyporaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Polyporales
+    family: Polyporaceae
+    established: 1821
+    author: "Chevall."
+    mycobank_id: "MB 81433"
+  description: |
+    Polyporaceae sensu lato contains ~200 species of poroid, bracket, shelf, and
+    stipitate polypore fungi. Members produce tough, corky, or leathery fruiting
+    bodies on dead or living wood and perform white-rot or brown-rot wood decomposition.
+    The family includes Ganoderma (reishi, lingzhi), Trametes versicolor (turkey tail,
+    source of polysaccharide-K / PSK immunotherapy), Fomes fomentarius (tinder fungus,
+    historic firestarter), Laetiporus sulphureus (chicken of the woods, choice edible),
+    and Polyporus squamosus (dryad's saddle). Ganoderma lucidum has been used in
+    East Asian medicine for over 2,000 years and supports a billion-dollar nutraceutical market.
+  key_characteristics:
+    - Poroid hymenophore (pores and tubes on underside)
+    - Fruiting bodies bracket-shaped, shelf-like, fan-shaped, or stipitate
+    - Texture corky, leathery, woody, or fleshy
+    - White-rot or brown-rot wood decay
+    - Perennial brackets in some genera (Ganoderma, Fomes) — up to 80+ year old specimens
+    - Trimitic hyphal system in many genera
+  genera:
+    - Ganoderma
+    - Trametes
+    - Fomes
+    - Fomitopsis
+    - Polyporus
+    - Laetiporus
+    - Meripilus
+    - Pycnoporus
+    - Daedaleopsis
+    - Bjerkandera
+  ecological_roles:
+    - Primary decomposers of dead hardwood and conifer logs
+    - White-rot decomposition releases nutrients from wood
+    - Long-lived brackets provide habitat for insects and birds
+    - Medicinal and immunotherapy applications (Ganoderma, Trametes)
+  data_sources:
+    - "MycoBank MB 81433"
+    - "Binder et al. (2013)"
+    - "Index Fungorum"

@@ -1,0 +1,116 @@
+species:
+  name: Cordyceps militaris
+  common_names:
+    - Orange caterpillar fungus
+    - Cordyceps mushroom
+    - Militaris cordyceps
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    order: Hypocreales
+    family: Cordycipitaceae
+    genus: Cordyceps
+    species: militaris
+    binomial: Cordyceps militaris
+    author: "(L.) Fr."
+    year_described: 1818
+    taxonomic_history:
+      - "1753: Described by Linnaeus as Clavaria militaris"
+      - "1818: Transferred to Cordyceps by Fries"
+    mycobank_id: "MB 111517"
+  morphology:
+    stroma:
+      shape: "club-shaped to cylindrical"
+      color: "vivid orange to orange-red"
+      height_cm: "2–8"
+      diameter_mm: "3–8"
+      surface: "granular-roughened from embedded perithecia"
+    perithecia:
+      arrangement: "embedded in upper portion of stroma"
+      dimensions_μm: "400–600 × 200–400"
+    asci:
+      shape: "cylindrical"
+      dimensions_μm: "400–500 × 3–5"
+    ascospores:
+      shape: "filiform (thread-like), multiseptate"
+      dimensions_μm: "300–500 × 1.5–2.5"
+      fragmentation: "breaking into cylindrical part-spores at maturity (each ~3–5 μm)"
+    conidial_state:
+      name: "Isaria farinosa (anamorph)"
+      conidia_shape: "ellipsoid"
+      conidia_dimensions_μm: "3–6 × 2–3"
+  habitat:
+    substrate: "parasitizes lepidopteran (butterfly and moth) pupae and caterpillars in soil"
+    ecosystem:
+      - temperate and boreal forests
+      - alpine meadows
+      - grasslands
+    host_insects:
+      - Lepidoptera pupae
+      - Lepidoptera caterpillars
+      - occasionally Coleoptera
+    mycorrhizal: false
+    saprotrophic: false
+    nutritional_mode: "entomopathogenic (insect pathogen)"
+  distribution:
+    native_range: "Northern Hemisphere; Europe, North America, East Asia"
+    global: true
+  edibility:
+    status: "edible and used as health supplement; not toxic"
+    preparation:
+      - "dried stroma powder in capsules"
+      - "hot water extract"
+      - "dual extraction tincture"
+      - "steeped in tea or broth"
+    notes: |
+      Used as a substitute for the extremely expensive Ophiocordyceps sinensis (caterpillar
+      fungus from Tibet). C. militaris can be cultivated and contains similar bioactive
+      compounds (cordycepin). Widely sold as a sports performance and energy supplement.
+  lifecycle:
+    infection_cycle: |
+      Conidial spores contact and penetrate the cuticle of a lepidopteran larva or pupa.
+      Mycelium colonizes the host hemolymph, eventually killing it. Orange stroma
+      erupts from the cadaver and produces new ascospores.
+    fruiting_season: "summer to autumn"
+    host_specificity: "primarily Lepidoptera; can infect multiple species"
+  cultivation:
+    commercial: true
+    difficulty: "intermediate"
+    substrate:
+      - "whole pupae of silkworm (Bombyx mori) — traditional method"
+      - "grain rice medium (modern method — most common)"
+      - "liquid fermentation (for extract production)"
+    spawn_type: "liquid mycelium culture"
+    fruiting_temp_c: "18–22"
+    incubation_temp_c: "20–25"
+    relative_humidity_pct: "80–90"
+    light_requirements: "12h light/dark cycle required for stroma development"
+    co2_ppm_fruiting: "<2000"
+    yield: "5–10 g dry stroma per bottle (500 ml substrate)"
+    notes: |
+      Unlike Ophiocordyceps sinensis (which cannot be cultivated), C. militaris grows
+      well on grain or grain + pupae substrates. Annual global production ~1000 tonnes.
+      China dominates commercial cultivation.
+  biochemistry:
+    compounds:
+      - "Cordycepin (3'-deoxyadenosine): antitumor, antiviral, anti-inflammatory nucleoside"
+      - "Cordycepic acid (D-mannitol)"
+      - "Beta-glucans (polysaccharides; immunostimulatory)"
+      - "Adenosine (cardiovascular)"
+      - "Ergosterol"
+      - "Lovastatin (trace)"
+    medicinal_research:
+      - "Cordycepin inhibits mRNA polyadenylation; antitumor in multiple models"
+      - "Antiviral activity against influenza, HIV (in vitro)"
+      - "Improved aerobic capacity and oxygen utilization in athlete studies"
+      - "Anti-inflammatory via adenosine receptor pathway"
+      - "Traditional Chinese medicine: tonifies kidneys and lungs"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 111517"
+    - "Sung et al. (2007)"
+    - "Index Fungorum"
+    - "Tuli et al. (2014) Cordyceps militaris: A new paradigm in health supplements"

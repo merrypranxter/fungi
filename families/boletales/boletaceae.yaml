@@ -1,0 +1,46 @@
+family:
+  name: Boletaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Boletales
+    family: Boletaceae
+    established: 1826
+    author: "Chevall."
+    mycobank_id: "MB 80535"
+  description: |
+    Boletaceae is the largest family of Boletales, containing ~800 described species
+    in 100+ genera. Members bear a spongy, poroid hymenophore (layer of tubes with
+    pores) on the underside of the cap rather than gills. Boletus edulis (porcini / cep /
+    penny bun) is the most prized wild edible bolete globally and represents a
+    multi-hundred-million-dollar annual harvest. The family is predominantly ectomycorrhizal
+    with hardwoods and conifers in temperate forests. Many species blush blue when cut
+    due to oxidation of variegatic acid; some (Boletus satanas, B. pulcherripes) are
+    toxic. Boletaceae spore prints are typically olive-brown to yellow-brown.
+  key_characteristics:
+    - Poroid hymenophore (sponge of tubes and pores) instead of gills
+    - Flesh in many species blue-staining when cut or bruised
+    - Spore print olive-brown to yellow-brown
+    - Stipe often reticulate (network pattern) especially in Boletus sensu stricto
+    - Predominantly ectomycorrhizal
+    - Fleshy, perishable fruiting bodies
+  genera:
+    - Boletus
+    - Suillellus
+    - Neoboletus
+    - Cyanoboletus
+    - Butyriboletus
+    - Caloboletus
+    - Xerocomellus
+    - Leccinum
+    - Aureoboletus
+    - Exsudoporus
+  ecological_roles:
+    - Ectomycorrhizal partners of oaks, pines, spruces, beeches, birches
+    - Critical for forest seedling establishment and nutrient cycling
+    - Carbon sequestration through mycorrhizal networks
+  data_sources:
+    - "MycoBank MB 80535"
+    - "Binder & Besl (2000) Molecular systematics of the Boletaceae"
+    - "Index Fungorum"

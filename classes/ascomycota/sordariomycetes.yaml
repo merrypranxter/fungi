@@ -1,0 +1,44 @@
+class:
+  name: Sordariomycetes
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    established: 1997
+    author: "O.E. Erikss. & Winka"
+    mycobank_id: "MB 500013"
+  description: |
+    Sordariomycetes is a large and diverse class of Ascomycota with ~3,000 described
+    species. Members are characterized by flask-shaped fruiting bodies (perithecia)
+    with an apical pore (ostiole) through which ascospores are forcibly ejected.
+    The class includes Neurospora crassa (model organism for genetics), Cordyceps
+    and Ophiocordyceps (insect-parasitizing fungi), Fusarium (plant pathogens and
+    mycotoxin producers), Hypocrea/Trichoderma (biological control agents), and
+    Claviceps purpurea (ergot). Sordariomycetes occupy diverse ecological niches:
+    plant pathogens, insect pathogens, saprotrophs, endophytes, and mycoparasites.
+  key_characteristics:
+    - Perithecial (flask-shaped) ascocarps with ostiole
+    - Unitunicate (single-walled) asci with apical ring for spore ejection
+    - Asci arranged in a hymenium lining the interior of perithecia
+    - Paraphyses or periphyses often present
+    - Many species with septate ascospores
+    - Conidial states often well-developed
+  orders:
+    - Hypocreales
+    - Sordariales
+    - Xylariales
+    - Microascales
+    - Ophiostomatales
+    - Diaporthales
+    - Magnaporthales
+  ecological_roles:
+    - Insect and arthropod pathogens (Cordyceps, Beauveria)
+    - Plant pathogens causing vascular wilts (Fusarium, Ophiostoma)
+    - Biological control agents (Trichoderma)
+    - Saprotrophic decomposers of dung, wood, and soil
+    - Endophytes in grasses (Epichloë, confers pest resistance)
+    - Ergot pathogen of rye and other grasses (Claviceps)
+  data_sources:
+    - "MycoBank MB 500013"
+    - "Zhang et al. (2006) A polyphasic analysis of Sordariomycetes"
+    - "Index Fungorum"

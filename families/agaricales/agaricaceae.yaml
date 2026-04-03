@@ -1,0 +1,48 @@
+family:
+  name: Agaricaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Agaricaceae
+    established: 1821
+    author: "Chevall."
+    mycobank_id: "MB 80493"
+  description: |
+    Agaricaceae is a large, cosmopolitan family of gilled mushrooms containing ~1,600
+    species in 85+ genera. The family includes Agaricus (button, portobello, field
+    mushrooms), Macrolepiota and Lepiota (parasols and dapperlings), Coprinus
+    (ink caps), Lycoperdon (puffballs), and Calvatia (giant puffballs).
+    Members are predominantly saprotrophic on soil, dung, compost, and decaying
+    plant material. The free gills, dark brown to black spore print, and ring (annulus)
+    on the stipe are characteristic of Agaricus. Agaricaceae includes both choice
+    edibles (Agaricus bisporus) and deadly toxic species (Lepiota brunneoincarnata).
+  key_characteristics:
+    - Gills free from stipe (not attached) in most genera
+    - Spore print white, pink, brown, or black depending on genus
+    - Annulus (ring) often present
+    - Volva absent (distinguishes from Amanitaceae)
+    - Many genera show color reaction with KOH (chrome yellow in Agaricus)
+    - Gastroid (puffball) forms derived from agaricoid ancestors
+  genera:
+    - Agaricus
+    - Macrolepiota
+    - Lepiota
+    - Coprinus
+    - Coprinellus
+    - Coprinopsis
+    - Lycoperdon
+    - Calvatia
+    - Bovista
+    - Cystolepiota
+    - Leucoagaricus
+    - Leucocoprinus
+  ecological_roles:
+    - Saprotrophic decomposers of soil organic matter, dung, compost
+    - Grassland ecosystem decomposers
+    - Litter-layer decomposers in woodlands
+  data_sources:
+    - "MycoBank MB 80493"
+    - "Vellinga (2004) Genera in Agaricaceae"
+    - "Index Fungorum"

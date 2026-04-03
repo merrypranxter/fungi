@@ -1,0 +1,122 @@
+species:
+  name: Amanita phalloides
+  common_names:
+    - Death cap
+    - Death cup
+    - Destroying angel (sometimes misapplied)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Amanitaceae
+    genus: Amanita
+    species: phalloides
+    binomial: Amanita phalloides
+    author: "(Vaill. ex Fr.) Link"
+    year_described: 1833
+    taxonomic_history:
+      - "1727: Illustrated by Vaillant"
+      - "1821: Fries described it in Systema Mycologicum"
+      - "1833: Link formally named it Amanita phalloides"
+    mycobank_id: "MB 207471"
+  morphology:
+    cap:
+      diameter_cm: "5–15"
+      shape: "hemispherical to convex; expanding to broadly umbonate"
+      color: "pale yellow-green to olive-green to yellow-brown; variable; can be pallid white"
+      surface: "smooth, slightly viscid when moist; fibrous radiating streaks visible"
+    gills:
+      attachment: "free"
+      color: "white (NEVER discoloring — critical identification feature)"
+      spacing: "crowded"
+    stipe:
+      height_cm: "7–15"
+      diameter_cm: "1–2"
+      color: "white with pale greenish zones or snakeskin-like pattern"
+      ring: "present, superior, white, membranous, pendant"
+      volva: "present; large, deep, sac-like cup at base (may be buried)"
+    spores:
+      shape: "ellipsoid to subglobose"
+      dimensions_μm: "7–10 × 5.5–7.5"
+      color_in_mass: "white"
+      wall: "smooth, amyloid"
+    spore_print: "white"
+    flesh:
+      color: "white throughout (not changing color when cut)"
+      odor: "faint sweet honey-rose when young; fetid at maturity"
+      taste: "mild, pleasant (DEADLY—do not taste)"
+  habitat:
+    substrate: "soil in ectomycorrhizal association with tree roots"
+    ecosystem:
+      - oak and beech forests (Europe)
+      - mixed hardwood forests
+      - parks and gardens (especially where oaks planted)
+    associated_hosts:
+      - Quercus (oak)
+      - Fagus (beech)
+      - Carpinus (hornbeam)
+      - Castanea (chestnut)
+    mycorrhizal: true
+    saprotrophic: false
+  distribution:
+    native_range: "Europe; accidentally introduced to North America, Australia, New Zealand, South Africa"
+    global: true
+    notes: "Introduced with European oak and chestnut seedlings; now invasive in Southern Hemisphere"
+  edibility:
+    status: "DEADLY TOXIC — responsible for >90% of fatal mushroom poisonings worldwide"
+    toxins:
+      - compound: "Alpha-amanitin"
+        mechanism: "Inhibits RNA polymerase II; prevents mRNA synthesis; causes massive hepatocyte and nephrocyte death"
+        lethal_dose: "~0.1 mg/kg body weight (1/2 cap may be lethal to an adult)"
+        onset_hours: "6–24 hours after ingestion (delayed onset is a critical danger)"
+      - compound: "Beta-amanitin"
+        mechanism: "Similar to alpha-amanitin but less potent"
+      - compound: "Gamma-amanitin"
+        mechanism: "RNA polymerase II inhibitor"
+      - compound: "Phalloidin"
+        mechanism: "Binds and stabilizes actin filaments; primarily toxic in isolated cell systems"
+      - compound: "Phallacidin"
+        mechanism: "Bicyclic heptapeptide; acts synergistically with phalloidin"
+    clinical_course: |
+      Phase 1 (6–24 hrs): Severe GI symptoms (vomiting, diarrhea, abdominal cramps).
+      Phase 2 (24–72 hrs): Apparent recovery — deceptively misleading.
+      Phase 3 (72–96 hrs): Acute liver and kidney failure; jaundice; elevated enzymes.
+      Phase 4: Death or recovery (with supportive care or liver transplant).
+      No specific antidote exists. Silibinin (milk thistle extract) and N-acetylcysteine
+      show benefit in early treatment. Mortality: 10–30% even with treatment.
+    lookalikes:
+      - species: "Amanita caesarea (Caesar's mushroom)"
+        danger: "edible — safe"
+        distinguishing_features: "A. caesarea has orange-yellow cap, yellow gills and stipe; emerges from white egg"
+      - species: "Volvariella volvacea (paddy straw mushroom)"
+        danger: "edible — safe"
+        distinguishing_features: "V. volvacea has pink gills and spore print; found on tropical compost"
+      - species: "Amanita phalloidesvolvata group (immature button stage)"
+        danger: "deadly"
+        distinguishing_features: "Button stage resembles puffball — always cut in half; true puffball has white interior throughout"
+  lifecycle:
+    fruiting_season: "summer to autumn (July–November in Northern Hemisphere)"
+    fruiting_triggers:
+      - rainfall
+      - temperature_drop
+    mycelium_type: "white, ectomycorrhizal mantle on host roots"
+  cultivation:
+    commercial: false
+    notes: "Obligate ectomycorrhizal; cannot be cultivated; no antidote to its toxins"
+  biochemistry:
+    amatoxin_content_mg_per_g_dry_weight:
+      alpha_amanitin: "~0.2–1.0"
+      total_amatoxins: "~0.5–2.0"
+    phallotoxin_content_mg_per_g_dry_weight:
+      phalloidin: "~0.5–1.5"
+    medicinal_research:
+      - "Alpha-amanitin conjugated to antibodies used in experimental targeted cancer therapy (ADC)"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 207471"
+    - "Index Fungorum"
+    - "Enjalbert et al. (2002) Amatoxin poisoning review"
+    - "Wieland (1986) The Peptides of Amanita Phalloides"

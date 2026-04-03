@@ -1,0 +1,93 @@
+species:
+  name: Amanita caesarea
+  common_names:
+    - Caesar's mushroom
+    - Royal amanita
+    - Ovolo (Italian)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Amanitaceae
+    genus: Amanita
+    species: caesarea
+    binomial: Amanita caesarea
+    author: "(Scop.) Pers."
+    year_described: 1801
+    taxonomic_history:
+      - "1772: Described by Scopoli as Agaricus caesareus"
+      - "1801: Transferred to Amanita by Persoon"
+    mycobank_id: "MB 199458"
+  morphology:
+    cap:
+      diameter_cm: "6–20"
+      shape: "hemispherical to convex, becoming broadly umbonate"
+      color: "vivid orange to orange-red; margin striate"
+      surface: "smooth, slightly viscid when moist; no warts (universal veil forms a complete egg, not patches)"
+    gills:
+      attachment: "free"
+      color: "bright yellow (distinguishes from A. muscaria which has white gills)"
+      spacing: "crowded"
+    stipe:
+      height_cm: "8–15"
+      diameter_cm: "1.5–3"
+      color: "bright yellow"
+      ring: "present, large, pendant, yellow"
+      volva: "present; large, white, sac-like (entire egg stage)"
+    spores:
+      shape: "ellipsoid"
+      dimensions_μm: "9–14 × 6–9"
+      color_in_mass: "white"
+      wall: "smooth, inamyloid"
+    spore_print: "white"
+    flesh:
+      color: "white under cap cuticle; yellow beneath orange surface"
+      odor: "pleasant, nutty"
+      taste: "excellent, mild"
+  habitat:
+    substrate: "soil in ectomycorrhizal association"
+    ecosystem:
+      - oak, chestnut, and beech forests
+      - Mediterranean maquis
+      - mixed deciduous forests
+    associated_hosts:
+      - Quercus (oak)
+      - Castanea (chestnut)
+      - Fagus (beech)
+    mycorrhizal: true
+  distribution:
+    native_range: "Southern and Central Europe, North Africa, North America (A. caesarea complex)"
+    global: false
+  edibility:
+    status: "choice edible — highly prized"
+    preparation:
+      - raw (egg stage — sliced as carpaccio)
+      - grilled
+      - sautéed
+    notes: |
+      Prized since Roman antiquity; Roman emperors favored it. "The mushroom of the gods."
+      The egg stage (entire white volva) is considered the finest presentation.
+      Must be 100% certainly identified due to similarity to deadly Amanita species.
+    lookalikes:
+      - species: "Amanita muscaria (fly agaric)"
+        danger: "toxic/psychoactive"
+        distinguishing_features: "A. muscaria has white (not yellow) gills and stipe; red cap with white warts"
+      - species: "Amanita phalloides"
+        danger: "deadly"
+        distinguishing_features: "A. phalloides is green-yellow, not orange; gills and stipe white, not yellow"
+  lifecycle:
+    fruiting_season: "summer to autumn (July–October)"
+    fruiting_triggers:
+      - warm weather
+      - rainfall
+  cultivation:
+    commercial: false
+    notes: "Obligate ectomycorrhizal; not cultivated"
+  conservation:
+    status: "Least Concern in most of range; locally declining due to habitat loss"
+    threats:
+      - "Forest loss and fragmentation"
+  data_sources:
+    - "MycoBank MB 199458"
+    - "Index Fungorum"

@@ -1,0 +1,56 @@
+genus:
+  name: Macrolepiota
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Agaricaceae
+    genus: Macrolepiota
+    established: 1948
+    author: "Singer"
+    mycobank_id: "MB 17648"
+  description: |
+    Macrolepiota contains ~20 species of large, elegant parasol mushrooms found in
+    woodland margins, meadows, and parks in temperate regions worldwide. The genus
+    is distinguished by the large, spreading cap with brown scales on a paler background,
+    a snakeskin-patterned stipe, and a distinctive moveable double ring. Macrolepiota
+    procera (the parasol mushroom) can reach 30 cm in cap diameter and is a highly
+    prized edible across Europe. The genus is strictly saprotrophic, growing in
+    nutrient-poor grasslands and forest margins.
+  morphology:
+    cap:
+      shape: "egg-shaped when young, expanding to broadly umbonate with central umbo"
+      color: "white background with brown fibrous scales; umbo brown"
+      surface: "scaly"
+      diameter_cm: "10–35"
+    gills:
+      attachment: "free, with collar"
+      color: "white to cream"
+      spacing: "crowded"
+    stipe:
+      height_cm: "15–40"
+      color: "white with brown snakeskin pattern"
+      ring: "large, double, moveable"
+      volva: absent
+    spore_print: "white"
+    spores:
+      shape: "ellipsoid, with apical germ pore"
+      dimensions_μm: "14–20 × 9–13"
+      wall: "smooth, thick, dextrinoid"
+  habitat:
+    - woodland margins
+    - meadows
+    - parks
+    - roadsides
+    - nutrient-poor grasslands
+  distribution: "temperate regions worldwide; cosmopolitan"
+  edibility: "choice edible; cap only (stipe too tough to eat)"
+  species_count: ~20
+  notable_species:
+    - Macrolepiota procera (parasol mushroom)
+    - Macrolepiota rachodes (shaggy parasol; now Chlorophyllum rachodes)
+    - Macrolepiota mastoidea (slender parasol)
+  data_sources:
+    - "MycoBank MB 17648"
+    - "Index Fungorum"

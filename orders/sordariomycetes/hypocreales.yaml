@@ -1,0 +1,44 @@
+order:
+  name: Hypocreales
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    order: Hypocreales
+    established: 1931
+    author: "Lindau"
+    mycobank_id: "MB 90688"
+  description: |
+    Hypocreales contains ~4,000 described species in 20+ families and is the most
+    ecologically and economically significant order of Sordariomycetes. Members
+    produce brightly colored (red, orange, yellow, white) perithecia, often embedded
+    in a fleshy stroma. The order encompasses insect-parasitizing fungi
+    (Cordyceps, Ophiocordyceps, Isaria), mycoparasites and biocontrol agents
+    (Trichoderma / Hypocrea), plant pathogens (Fusarium, Gibberella causing
+    head blight and mycotoxin contamination), nematode parasites, and the
+    ergot pathogen Claviceps. Hypocreales are found in nearly every terrestrial
+    and many aquatic environments globally.
+  key_characteristics:
+    - Brightly pigmented perithecia (often red, orange, yellow)
+    - Perithecia typically grouped in or on a stroma
+    - Unitunicate asci with apical ring
+    - Many species produce secondary metabolites (mycotoxins, antibiotics, pigments)
+    - Diverse nutritional strategies: mycoparasites, insect pathogens, plant pathogens, saprotrophs
+    - Conidial states well-developed and often the primary reproductive mode
+  families:
+    - Cordycipitaceae
+    - Clavicipitaceae
+    - Hypocreaceae
+    - Nectriaceae
+    - Bionectriaceae
+  ecological_roles:
+    - Biological control of insect pests (Beauveria, Metarhizium)
+    - Biological control of plant pathogens (Trichoderma)
+    - Plant pathogen (Fusarium head blight, crown rot)
+    - Endophyte in grasses conferring pest resistance (Epichloë)
+    - Ergot pathogen of cereals (Claviceps purpurea)
+    - Insect population regulation in tropical forests (Cordyceps)
+  data_sources:
+    - "MycoBank MB 90688"
+    - "Sung et al. (2007) Phylogenetic classification of Cordyceps and related fungi"
+    - "Index Fungorum"

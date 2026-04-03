@@ -1,0 +1,62 @@
+genus:
+  name: Agaricus
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Agaricaceae
+    genus: Agaricus
+    established: 1753
+    author: "L."
+    mycobank_id: "MB 17140"
+  description: |
+    Agaricus is a large, cosmopolitan genus of ~400 species of gilled mushrooms
+    growing in grasslands, woodlands, and cultivated soils worldwide. It is the
+    most economically important fungal genus globally: A. bisporus alone accounts
+    for ~40% of all mushroom production worldwide. Members are saprotrophic,
+    breaking down soil organic matter, dung, and compost. Characteristic features
+    include free gills, dark brown or purplish-brown spore prints, an annulus on
+    the stipe, and absence of a volva. Diagnostic: flesh yellowing or reddening
+    when cut, and often reacting yellow with KOH (chrome-yellow reaction) in
+    toxic species such as A. xanthodermus.
+  morphology:
+    cap:
+      shape: "convex to broadly umbonate, becoming flat"
+      color: "white, grey-brown, or brown"
+      surface: "smooth or scaly; dry"
+      diameter_cm: "3–20"
+    gills:
+      attachment: "free"
+      color: "pink when young, darkening to chocolate-brown or purplish-black"
+      spacing: "crowded"
+    stipe:
+      height_cm: "3–15"
+      color: "white"
+      ring: "present, membranous"
+      volva: absent
+    spore_print: "dark purplish-brown to chocolate brown"
+    spores:
+      shape: "ellipsoid"
+      dimensions_μm: "4–9 × 3–6"
+      wall: "smooth, thick"
+  habitat:
+    - grasslands
+    - meadows
+    - gardens
+    - cultivated fields
+    - forest margins
+    - dung-enriched soil
+  distribution: cosmopolitan
+  edibility: "variable: many choice edible; some toxic (A. xanthodermus causes GI upset)"
+  species_count: ~400
+  notable_species:
+    - Agaricus bisporus (button / crimini / portobello mushroom)
+    - Agaricus campestris (field mushroom)
+    - Agaricus blazei (Murrill, medicinal; Brazilian)
+    - Agaricus augustus (the prince, choice edible)
+    - Agaricus xanthodermus (yellow-staining mushroom, toxic)
+  data_sources:
+    - "MycoBank MB 17140"
+    - "Callac & Guinberteau (2005) Morphological and molecular analyses of Agaricus"
+    - "Index Fungorum"
