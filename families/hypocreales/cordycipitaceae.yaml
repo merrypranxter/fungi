@@ -1,0 +1,45 @@
+family:
+  name: Cordycipitaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    order: Hypocreales
+    family: Cordycipitaceae
+    established: 2007
+    author: "Sung et al."
+    mycobank_id: "MB 512539"
+  description: |
+    Cordycipitaceae is a family of entomopathogenic (insect-parasitizing) ascomycetes
+    containing ~700 species across genera including Cordyceps, Beauveria, Isaria,
+    and Lecanicillium. Members infect and kill insects, spiders, and other arthropods,
+    producing stromata (often brightly colored: orange, yellow, white) from the host
+    carcass. Cordyceps militaris (orange caterpillar fungus) and Beauveria bassiana are
+    globally used as biopesticides. The family is the source of cyclosporin A
+    (immunosuppressant drug from Tolypocladium inflatum). Ophiocordyceps unilateralis
+    (zombie ant fungus) manipulates host behavior—now classified in the related
+    Ophiocordycipitaceae. Traditional Chinese medicine has used Cordyceps sinensis
+    (caterpillar fungus) for centuries.
+  key_characteristics:
+    - Insect and arthropod pathogens
+    - Stroma erupting from host cadaver, often orange or yellow
+    - Perithecia embedded in or on the stroma surface
+    - Unitunicate asci; thread-like multiseptate ascospores
+    - Conidial states (Beauveria, Isaria) prominent and used as biopesticides
+    - Some species produce bioactive secondary metabolites
+  genera:
+    - Cordyceps
+    - Beauveria
+    - Isaria
+    - Lecanicillium
+    - Tolypocladium
+    - Metacordyceps
+  ecological_roles:
+    - Regulation of insect populations in forests
+    - Biological control of agricultural pests
+    - Nutrient cycling from insect biomass
+    - Traditional medicine (Cordyceps sinensis, C. militaris)
+  data_sources:
+    - "MycoBank MB 512539"
+    - "Sung et al. (2007) Phylogenetic classification of Cordyceps"
+    - "Index Fungorum"

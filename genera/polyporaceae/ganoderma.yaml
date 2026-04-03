@@ -1,0 +1,56 @@
+genus:
+  name: Ganoderma
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Polyporales
+    family: Ganodermataceae
+    genus: Ganoderma
+    established: 1881
+    author: "P. Karst."
+    mycobank_id: "MB 17458"
+  description: |
+    Ganoderma is a genus of ~250 species of shelf and bracket fungi with a glossy,
+    lacquered appearance unique among polypores. The name means "shining skin" in Greek.
+    G. lucidum (reishi / lingzhi) has been used in East Asian traditional medicine for
+    over 2,000 years as the "mushroom of immortality." Modern pharmacology confirms
+    significant immunomodulatory activity from triterpenes (ganoderic acids) and
+    beta-glucans. Ganoderma species produce annual or perennial, woody brackets on
+    dead and living hardwood and conifers, performing white-rot decomposition. The
+    genus accounts for a global nutraceutical and pharmaceutical market exceeding
+    $1 billion USD annually.
+  morphology:
+    cap:
+      shape: "kidney-shaped to fan-shaped bracket"
+      color: "red-brown to orange-brown with lacquered sheen; white margin"
+      surface: "glossy, lacquered"
+      diameter_cm: "5–30"
+    pores:
+      color: "white to cream; bruising brown"
+      size: "very small, round, 4–6 per mm"
+    stipe:
+      presence: "present in G. lucidum (eccentric, lateral); absent in G. applanatum"
+      color: "red-brown, lacquered"
+    spore_print: "brown with double wall and truncated apex"
+    spores:
+      shape: "ovoid to truncated, double-walled"
+      dimensions_μm: "9–13 × 6–8"
+      wall: "outer wall smooth, inner wall ornamented with pillars"
+  habitat:
+    - dead hardwood (oak, maple, plum, cherry)
+    - living trees (wound parasite)
+    - stumps
+    - buried roots
+  distribution: "pantropical and temperate worldwide"
+  edibility: "inedible fresh (too woody and bitter); used as dried extract and tea"
+  species_count: ~250
+  notable_species:
+    - "Ganoderma lucidum (reishi / lingzhi — medicinal)"
+    - "Ganoderma applanatum (artist's conk)"
+    - "Ganoderma tsugae (hemlock reishi)"
+    - "Ganoderma boninense (oil palm pathogen)"
+  data_sources:
+    - "MycoBank MB 17458"
+    - "Hapuarachchi et al. (2018) Ganoderma species identification"
+    - "Index Fungorum"

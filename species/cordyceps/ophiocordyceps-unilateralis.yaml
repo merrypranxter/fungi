@@ -1,0 +1,93 @@
+species:
+  name: Ophiocordyceps unilateralis
+  common_names:
+    - Zombie ant fungus
+    - Carpenter ant Cordyceps
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    order: Hypocreales
+    family: Ophiocordycipitaceae
+    genus: Ophiocordyceps
+    species: unilateralis
+    binomial: Ophiocordyceps unilateralis
+    author: "(Tul.) Petch"
+    year_described: 1931
+    taxonomic_history:
+      - "1865: Described by Tulasne as Torrubia unilateralis"
+      - "1931: Transferred to Ophiocordyceps by Petch"
+      - "2011: Species complex revealed; multiple cryptic species parasitizing different ant hosts"
+    mycobank_id: "MB 510562"
+  morphology:
+    stroma:
+      shape: "slender, cylindrical; single stroma from back of ant's head or neck"
+      color: "orange-brown to tan"
+      height_mm: "10–30"
+      diameter_mm: "1–2"
+    perithecia:
+      arrangement: "embedded in stroma tip"
+    ascospores:
+      shape: "filiform, multiseptate"
+      fragmentation: "breaks into cylindrical part-spores"
+  habitat:
+    substrate: "tissues of Camponotus (carpenter ant) worker ants"
+    ecosystem:
+      - tropical and subtropical forests
+      - lowland rainforests
+    host_specificity: "each cryptic species infects a single Camponotus host species"
+    geographic_range: "tropical forests of Africa, Asia, South America"
+    mycorrhizal: false
+    nutritional_mode: "entomopathogenic"
+  distribution:
+    native_range: "pantropical; highest diversity in tropical forests"
+    global: false
+  edibility:
+    status: "not consumed"
+  behavior_manipulation:
+    mechanism: |
+      After infecting an ant via conidial penetration of the cuticle, the fungus
+      manipulates the ant's nervous system (via secreted compounds and direct
+      mechanical action on muscle fibers) to induce stereotypical behavior:
+      1. The ant leaves its colony and descends to 25 cm above the forest floor.
+      2. The ant bites onto the midrib of a leaf (specific to the northeast side)
+         with abnormal mandible force (zombie bite).
+      3. The ant dies in this position. The stroma erupts from the back of the head.
+      4. The height and position optimizes spore dispersal onto foraging ants below.
+    compounds_implicated:
+      - "Sphingomyelinases (damage muscle tissue)"
+      - "Guanidinobutyric acid (GABA receptor modulator?)"
+      - "Uncharacterized effector proteins"
+    notes: |
+      The mechanism by which the fungus controls the ant's bite behavior without
+      directly invading the brain remains an active research area. The fungus appears
+      to control muscle tissue via fungal cells enmeshed between muscle fibers.
+      Ant colonies have evolved graveyards behavior to remove zombified individuals.
+  lifecycle:
+    infection_cycle: |
+      Conidiospores rain down from the stroma onto foraging ant trails.
+      Spores contact and penetrate ant cuticle. Yeast-like cells replicate in hemolymph.
+      After ~3–9 days, manipulation behavior triggers. Ant dies and bites onto leaf.
+      Stroma erupts from host within 4–10 days, releases new spores.
+    host_kill_time_days: "3–9"
+  cultivation:
+    commercial: false
+    notes: "Cannot be cultivated without living host ants"
+  biochemistry:
+    compounds:
+      - "Cytochalasin D (actin polymerization inhibitor)"
+      - "Sphingomyelinase D"
+      - "Effector proteins (partially characterized)"
+  cultural_significance: |
+    Inspired the fictional Cordyceps fungal pandemic in the video game and TV series
+    "The Last of Us" (2013/2023). Became a popular reference for fungal biology in
+    mainstream culture.
+  conservation:
+    status: "Not evaluated; host ant populations unstudied"
+    threats:
+      - "Tropical deforestation"
+  data_sources:
+    - "MycoBank MB 510562"
+    - "Sung et al. (2007)"
+    - "Hughes et al. (2011) Behavioral mechanisms and morphological symptoms of zombie ants"
+    - "de Bekker et al. (2014) Species-specific ant brain manipulation"

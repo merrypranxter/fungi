@@ -1,0 +1,98 @@
+species:
+  name: Aspergillus niger
+  common_names:
+    - Black mold
+    - Black aspergillus
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Eurotiomycetes
+    order: Eurotiales
+    family: Trichocomaceae
+    genus: Aspergillus
+    species: niger
+    binomial: Aspergillus niger
+    author: "Tiegh."
+    year_described: 1867
+    taxonomic_history:
+      - "1867: Described by van Tieghem"
+      - "A. niger is now recognized as a species complex (A. niger group)"
+    mycobank_id: "MB 204432"
+  morphology:
+    colony:
+      color_obverse: "initially white, rapidly turning black as conidia form"
+      color_reverse: "pale to yellowish"
+      texture: "powdery, dense"
+      growth_rate: "very fast; colony 40–70 mm diameter in 7 days at 25°C"
+    conidiophore:
+      height_μm: "400–3000"
+      vesicle_shape: "globose to subglobose, 40–75 μm diameter"
+      phialides: "biseriate (metulae + phialides)"
+    conidia:
+      shape: "globose to subglobose"
+      dimensions_μm: "3.5–5"
+      color: "black to brownish-black"
+      surface: "echinulate to roughened"
+      arrangement: "in dry chains"
+    sexual_state:
+      name: "Petromyces alliaceus (when present)"
+      cleistothecia: "spherical, 200–400 μm; rare in typical strains"
+  habitat:
+    substrate: "soil, decaying organic matter, stored food, fruit, indoor surfaces"
+    ecosystem:
+      - soil worldwide
+      - post-harvest storage environments
+      - human built environments
+    optimal_temp_c: "35–37"
+    temp_range_c: "6–47"
+    optimal_ph: "3.0–6.0"
+    water_activity_minimum: "0.77"
+  distribution:
+    native_range: "cosmopolitan"
+    global: true
+  edibility:
+    status: "not consumed; industrial workhorse organism"
+  industrial_applications:
+    citric_acid:
+      notes: |
+        A. niger produces >90% of the world's industrially produced citric acid
+        (~2 million tonnes/year) via fermentation of glucose/molasses at low pH.
+        Used globally in food, beverage, pharmaceutical, and industrial sectors.
+    enzymes_produced:
+      - "Amyloglucosidase (starch to glucose conversion)"
+      - "Glucoamylase"
+      - "Pectinase (fruit juice clarification)"
+      - "Cellulase"
+      - "Hemicellulase"
+      - "Xylanase"
+      - "Phytase (animal feed supplement)"
+      - "Glucoamylase (ethanol production)"
+    other_products:
+      - "Gluconic acid"
+      - "Oxalic acid"
+      - "Kojic acid (cosmetics — skin lightening)"
+  medical_relevance:
+    opportunistic_pathogen: true
+    infections:
+      - "Otomycosis (ear canal infection; commonest fungal ear infection)"
+      - "Pulmonary aspergillosis (in severely immunocompromised)"
+      - "Onychomycosis (nail infection)"
+    toxins:
+      - "Ochratoxin A (some strains): nephrotoxic mycotoxin; contaminant of grapes, coffee, cereals"
+      - "Fumonisin B2 (some strains)"
+    safety_classification: "BSL-1 / Risk Group 1 (generally safe for healthy individuals)"
+  cultivation:
+    industrial: true
+    fermentation_mode: "submerged liquid fermentation (most common) or solid-state fermentation"
+    carbon_sources:
+      - sucrose
+      - glucose
+      - molasses
+    key_conditions: "low pH (2.0–3.0) for citric acid production; high aeration"
+  conservation:
+    status: "Not Applicable (ubiquitous environmental organism)"
+  data_sources:
+    - "MycoBank MB 204432"
+    - "Samson et al. (2014) Accepted species of Aspergillus"
+    - "Magnuson & Lasure (2004) Organic acid production by filamentous fungi"
+    - "Index Fungorum"

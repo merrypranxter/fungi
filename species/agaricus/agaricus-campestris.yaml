@@ -1,0 +1,94 @@
+species:
+  name: Agaricus campestris
+  common_names:
+    - Field mushroom
+    - Meadow mushroom
+    - Pink bottom
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Agaricaceae
+    genus: Agaricus
+    species: campestris
+    binomial: Agaricus campestris
+    author: "L."
+    year_described: 1753
+    taxonomic_history:
+      - "1753: Described by Linnaeus as Agaricus campestris in Species Plantarum"
+      - "Epithet: campestris = of the fields"
+    mycobank_id: "MB 199582"
+  morphology:
+    cap:
+      diameter_cm: "5–12"
+      shape: "convex, becoming broadly umbonate"
+      color: "white to off-white, browning with age"
+      surface: "smooth to slightly fibrous or scaly"
+    gills:
+      attachment: "free"
+      color: "bright pink at first; dark brown to near-black at maturity"
+      spacing: "crowded"
+    stipe:
+      height_cm: "3–10"
+      diameter_cm: "1–2"
+      color: "white"
+      ring: "thin, fragile, often disappearing"
+      volva: absent
+    spores:
+      shape: "ellipsoid"
+      dimensions_μm: "6–8 × 4–5"
+      color_in_mass: "dark brown"
+      wall: "smooth"
+    spore_print: "dark brown"
+    flesh:
+      color: "white, slightly pink on cutting"
+      odor: "pleasant, mushroomy"
+      taste: "mild"
+  habitat:
+    substrate: "short-grazed grasslands, lawns, pastures, dung-enriched soil"
+    ecosystem:
+      - meadows
+      - grasslands
+      - parks
+      - lawns
+      - pastures
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Europe, North America, Asia, Australia"
+    global: true
+  edibility:
+    status: "choice edible"
+    preparation:
+      - raw
+      - cooked
+    notes: "Classic wild field mushroom; widely used before commercial cultivation of A. bisporus"
+    lookalikes:
+      - species: "Amanita species"
+        danger: "deadly toxic"
+        distinguishing_features: "Amanita has white gills, volva, ring, white spore print"
+      - species: "Agaricus xanthodermus"
+        danger: "toxic GI irritant"
+        distinguishing_features: "Yellows immediately at base; phenolic odor"
+  lifecycle:
+    fruiting_season: "late summer to autumn"
+    fruiting_triggers:
+      - rainfall
+      - temperature_drop
+  cultivation:
+    commercial: false
+    difficulty: "difficult"
+    notes: "Rarely cultivated commercially; wild harvest preferred"
+  biochemistry:
+    compounds:
+      - "Ergothioneine"
+      - "Beta-glucans"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - "Grassland loss to agriculture and development"
+      - "Pesticide use in farmland"
+  data_sources:
+    - "MycoBank MB 199582"
+    - "Index Fungorum"

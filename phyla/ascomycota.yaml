@@ -1,0 +1,63 @@
+phylum:
+  name: Ascomycota
+  common_name: Sac fungi
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    established: 1866
+    author: "Berk."
+    mycobank_id: "MB 90002"
+  description: |
+    Ascomycota is the largest phylum of Kingdom Fungi, containing approximately
+    64,000 described species and estimated 1.5 million total. Defined by the
+    production of sexual spores (ascospores) inside sac-like cells called asci.
+    The phylum includes yeasts, molds, morels, truffles, cup fungi, and many
+    plant pathogens. Ascomycetes are ecologically critical decomposers, mycorrhizal
+    partners, and endophytes; commercially they are central to fermentation
+    (Saccharomyces), cheese-making (Penicillium), and antibiotic production.
+  distinguishing_features:
+    - Ascospores produced endogenously inside an ascus (typically 8 per ascus)
+    - Asci arranged in a hymenium within fruiting bodies (ascocarps)
+    - Ascocarps range from apothecia (open cups) to perithecia (flask-shaped) to cleistothecia (closed)
+    - Septate hyphae with simple (non-perforate) septa
+    - Crozier formation during ascus development
+    - Conidial (asexual) states often morphologically distinct
+  reproduction:
+    sexual: |
+      Sexual reproduction produces ascospores via plasmogamy, karyogamy, and meiosis
+      within asci. A single mitotic division after meiosis typically yields 8 ascospores.
+      The ascus is the defining sexual structure.
+    asexual: |
+      Asexual reproduction is by conidia (mitospores) borne on conidiophores. Many
+      species have prominent conidial states (anamorph) historically classified
+      separately as "Deuteromycetes" (Fungi Imperfecti).
+  ecological_roles:
+    - Primary decomposers of leaf litter and woody debris
+    - Ectomycorrhizal partners (truffles with oaks, beeches)
+    - Endophytes in nearly all land plant species
+    - Plant pathogens (Dutch elm disease, chestnut blight, apple scab)
+    - Insect pathogens (Beauveria, Metarhizium)
+    - Lichenizing fungi (about 40% of Ascomycota species form lichens)
+  economic_importance:
+    - Saccharomyces cerevisiae: bread, beer, wine fermentation
+    - Penicillium chrysogenum: penicillin antibiotic production
+    - Penicillium roqueforti / camemberti: cheese production
+    - Tuber melanosporum / magnatum: culinary truffles
+    - Morchella spp.: prized edible morels
+    - Aspergillus niger: citric acid, industrial enzymes
+    - Claviceps purpurea: ergot alkaloids (historical toxin, modern pharmaceuticals)
+  number_of_species: ~64000
+  classes:
+    - Pezizomycetes
+    - Sordariomycetes
+    - Leotiomycetes
+    - Eurotiomycetes
+    - Lecanoromycetes
+    - Dothideomycetes
+    - Orbiliomycetes
+    - Saccharomycetes
+    - Schizosaccharomycetes
+  data_sources:
+    - "MycoBank MB 90002"
+    - "Index Fungorum"
+    - "Hibbett et al. (2007) A higher-level phylogenetic classification of Fungi"

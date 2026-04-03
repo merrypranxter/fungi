@@ -1,0 +1,86 @@
+species:
+  name: Penicillium chrysogenum
+  common_names:
+    - Penicillin mold
+    - Blue-green penicillium
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Eurotiomycetes
+    order: Eurotiales
+    family: Trichocomaceae
+    genus: Penicillium
+    species: chrysogenum
+    binomial: Penicillium chrysogenum
+    author: "Thom"
+    year_described: 1910
+    taxonomic_history:
+      - "1910: Described by Charles Thom"
+      - "1928: Alexander Fleming observed antibacterial activity of a contaminating Penicillium colony (likely P. rubens)"
+      - "2011: Accepted species renamed to Penicillium rubens by Visagie et al.; P. chrysogenum retained for related species"
+      - "Note: In the literature, 'Penicillium chrysogenum' remains the commonly used name for the penicillin-producing mold"
+    mycobank_id: "MB 222186"
+  morphology:
+    colony:
+      color_obverse: "blue-green to dark green"
+      color_reverse: "pale to yellow"
+      exudate: "clear to yellow droplets often present"
+      growth_rate: "moderate; 35–45 mm at 25°C in 7 days"
+    conidiophore:
+      branching: "terverticillate (3 levels of branches)"
+      phialides: "in whorls at branch tips"
+    conidia:
+      shape: "ellipsoid to subglobose"
+      dimensions_μm: "3–3.5 × 2.5–3"
+      color: "blue-green"
+      surface: "smooth"
+      arrangement: "in loosely divergent chains"
+    sexual_state: "Talaromyces chrysogenum (cleistothecia rarely produced)"
+  habitat:
+    substrate: "soil, decaying organic matter, stored food, indoor environments"
+    ecosystem:
+      - soil worldwide
+      - post-harvest food storage
+      - bread and dairy
+    optimal_temp_c: "20–25"
+    temp_range_c: "4–37"
+    water_activity_minimum: "0.78"
+  distribution:
+    native_range: "cosmopolitan"
+    global: true
+  edibility:
+    status: "not consumed"
+  industrial_applications:
+    penicillin_production:
+      discovery: |
+        On 3 September 1928, Alexander Fleming noticed that a Penicillium mold had
+        contaminated a Staphylococcus plate and the area around the mold was clear
+        of bacterial growth. He identified the active substance as "penicillin."
+        Fleming published in 1929 but could not purify the compound.
+      development: |
+        In 1940–1945, Howard Florey, Ernst Boris Chain, and Norman Heatley
+        (Oxford) purified penicillin and demonstrated clinical efficacy. Industrial
+        production in World War II saved hundreds of thousands of lives. Fleming,
+        Florey, and Chain shared the 1945 Nobel Prize in Physiology or Medicine.
+      industrial_strain: "NRRL 1951 (highest-yield strain from Peoria, Illinois cantaloupe, 1943)"
+      production_scale: "~60,000 tonnes penicillin/year globally"
+    products:
+      - "Penicillin G (benzylpenicillin) — narrow-spectrum"
+      - "Penicillin V (phenoxymethylpenicillin) — oral form"
+      - "Ampicillin, amoxicillin (semi-synthetic derivatives)"
+      - "Chrysogine (pigment)"
+  medical_relevance:
+    antibiotic_mechanism: |
+      Penicillin inhibits transpeptidase enzymes (penicillin-binding proteins)
+      required for bacterial cell wall peptidoglycan cross-linking. This causes
+      cell lysis in actively growing bacteria. Active against gram-positive bacteria.
+    resistance: "Beta-lactamase producing bacteria cleave the beta-lactam ring, conferring resistance"
+    opportunistic_pathogen: false
+    notes: "Rarely causes infection; Penicillium marneffei (now Talaromyces marneffei) is pathogenic"
+  conservation:
+    status: "Not Applicable"
+  data_sources:
+    - "MycoBank MB 222186"
+    - "Fleming (1929) On the antibacterial action of cultures of a Penicillium"
+    - "Visagie et al. (2014) Identification and nomenclature of the genus Penicillium"
+    - "Index Fungorum"

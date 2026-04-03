@@ -1,0 +1,36 @@
+class:
+  name: Ustilaginomycetes
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Ustilaginomycetes
+    established: 2000
+    author: "R. Bauer et al."
+    mycobank_id: "MB 500009"
+  description: |
+    Ustilaginomycetes are the smut fungi—obligate biotrophic plant pathogens
+    that infect over 4,000 plant species, predominantly grasses and sedges.
+    About 1,400 species are described. Smuts are characterized by masses of
+    dark, sooty teliospores replacing plant tissue, particularly floral organs
+    and seeds. They cause significant losses in cereal crops (corn, wheat, barley,
+    oat, sorghum) globally. Ustilago maydis infects corn ears and is a model
+    organism for fungal-plant interactions and a delicacy (huitlacoche) in Mexico.
+  key_characteristics:
+    - Obligate plant biotrophs; cannot grow on dead organic matter
+    - Infection primarily targets floral organs, ovaries, and seeds
+    - Teliospores (brand spores) dark, thick-walled, produced in sori
+    - No fruiting body; spore masses replace host tissue
+    - Life cycle includes a saprotrophic yeast phase and pathogenic dikaryotic phase
+    - Septa without clamp connections (unlike Agaricomycetes)
+  orders:
+    - Ustilaginales
+    - Urocystidales
+    - Tilletiales
+  ecological_roles:
+    - Obligate pathogens regulating plant community composition
+    - Evolutionary drivers of plant resistance mechanisms
+    - Model systems for plant-pathogen co-evolution research
+  data_sources:
+    - "MycoBank MB 500009"
+    - "Bauer et al. (2001) The systematics of smut fungi"
+    - "Index Fungorum"

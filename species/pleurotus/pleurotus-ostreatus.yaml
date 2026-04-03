@@ -1,0 +1,137 @@
+species:
+  name: Pleurotus ostreatus
+  common_names:
+    - Pearl oyster mushroom
+    - Oyster mushroom
+    - Tree oyster
+    - Hiratake (Japanese)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Pleurotaceae
+    genus: Pleurotus
+    species: ostreatus
+    binomial: Pleurotus ostreatus
+    author: "(Jacq.) P. Kumm."
+    year_described: 1871
+    taxonomic_history:
+      - "1778: Described by Jacquin as Agaricus ostreatus"
+      - "1871: Transferred to Pleurotus by P. Kummer"
+    mycobank_id: "MB 119215"
+  morphology:
+    cap:
+      diameter_cm: "5–25"
+      shape: "fan-shaped to oyster-shaped; often imbricate (in tiered clusters)"
+      color: "grey to brown; paling to buff-white with age"
+      surface: "smooth, moist; margin inrolled when young"
+    gills:
+      attachment: "decurrent (running down the stipe)"
+      color: "white to cream"
+      spacing: "crowded"
+      width_mm: "4–10"
+    stipe:
+      height_cm: "1–4"
+      diameter_cm: "0.5–2"
+      color: "white"
+      position: "lateral or eccentric"
+      ring: absent
+      volva: absent
+    spores:
+      shape: "cylindrical to oblong-ellipsoid"
+      dimensions_μm: "7–12 × 3–4"
+      color_in_mass: "white to lilac-grey"
+      wall: "smooth"
+    spore_print: "white to lilac-grey"
+    flesh:
+      color: "white"
+      texture: "firm, tender"
+      odor: "mild, anise-like"
+      taste: "mild, pleasant"
+  habitat:
+    substrate: "dead and dying hardwood logs, stumps, and standing dead trees"
+    ecosystem:
+      - temperate deciduous forests
+      - urban parks
+    associated_hosts:
+      - Fagus (beech)
+      - Quercus (oak)
+      - Populus (poplar)
+      - Ulmus (elm)
+      - Salix (willow)
+    mycorrhizal: false
+    saprotrophic: true
+    wood_decay_type: "white-rot"
+  distribution:
+    native_range: "Europe, North America, Asia"
+    global: true
+  edibility:
+    status: "choice edible"
+    preparation:
+      - sautéed
+      - stir-fried
+      - soups
+      - dried
+    notes: |
+      Second most widely cultivated mushroom globally after Agaricus bisporus.
+      Rich in protein (25–30% dry weight), beta-glucans, B vitamins, and lovastatin
+      (natural cholesterol-lowering statin). Shown to reduce LDL cholesterol in
+      clinical trials. Also used for mycoremediation of petroleum and PAH contamination.
+    lookalikes:
+      - species: "Crepidotus species"
+        danger: "not toxic but inedible"
+        distinguishing_features: "Crepidotus has rust-brown spore print; brown gills at maturity"
+      - species: "Hohenbuehelia species"
+        danger: "not toxic but inedible/poor flavor"
+        distinguishing_features: "Much smaller; tough texture"
+  lifecycle:
+    fruiting_season: "autumn through spring; multiple flushes per year in mild climates"
+    fruiting_triggers:
+      - temperature_drop
+      - increased_humidity
+      - fresh_air_exchange
+    mycelium_type: "white, vigorous, cottony"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: true
+    difficulty: "beginner"
+    substrate:
+      - straw (wheat, barley, rice)
+      - hardwood sawdust
+      - coffee grounds
+      - cardboard
+      - cottonseed hulls
+    spawn_type: "grain spawn or sawdust spawn"
+    fruiting_temp_c: "10–20"
+    incubation_temp_c: "22–26"
+    relative_humidity_pct: "85–95"
+    co2_ppm_fruiting: "<1000"
+    yield_kg_per_kg_dry_substrate: "0.8–1.2"
+    flushes: "2–4 flushes"
+    notes: |
+      Fastest and easiest edible mushroom to cultivate; ideal for beginners.
+      Fully colonizes straw substrate in 10–14 days; produces first flush in 3–5 weeks.
+      Global production ~5–6 million tonnes/year.
+  biochemistry:
+    compounds:
+      - "Lovastatin (mevastatin precursor; cholesterol-lowering)"
+      - "Beta-glucans (immunomodulatory; receptor-active)"
+      - "Pleuran (specific beta-1,3/1,6-glucan)"
+      - "Lectins (agglutinins)"
+      - "Phenolic antioxidants"
+    medicinal_research:
+      - "Clinical trials show significant LDL cholesterol reduction"
+      - "Antitumor activity of pleuran in animal models"
+      - "Antimicrobial compounds active against Staphylococcus aureus"
+    mycoremediation:
+      - "Degrades petroleum hydrocarbons in contaminated soil"
+      - "Degrades polycyclic aromatic hydrocarbons (PAHs)"
+      - "Degrades chlorinated pesticides (DDT, lindane) via ligninolytic enzymes"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 119215"
+    - "Index Fungorum"
+    - "Sánchez (2010) Cultivation of Pleurotus ostreatus"

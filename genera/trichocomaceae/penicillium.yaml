@@ -1,0 +1,50 @@
+genus:
+  name: Penicillium
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Eurotiomycetes
+    order: Eurotiales
+    family: Trichocomaceae
+    genus: Penicillium
+    established: 1809
+    author: "Link"
+    mycobank_id: "MB 18292"
+  description: |
+    Penicillium is a genus of ~350 described species of soil and food-associated molds,
+    most recognized for the discovery of penicillin by Alexander Fleming in 1928 from
+    P. notatum (now P. chrysogenum / P. rubens). Penicillium species are characterized
+    by brush-like (penicillate) conidiophores bearing whorls of phialides. They are
+    ubiquitous in soil, decaying vegetation, and stored food. Many species cause food
+    spoilage (P. expansum on apples, P. digitatum on citrus) and produce mycotoxins
+    (patulin, ochratoxin A, citrinin). Others are indispensable in cheese production:
+    P. roqueforti (blue cheese), P. camemberti (Camembert, Brie), and P. nalgiovense
+    (salami curing). Sexual states are classified in Talaromyces.
+  morphology:
+    conidiophore:
+      structure: "branched with whorls of phialides (penicillate brush)"
+      branching: "monoverticillate to terverticillate"
+    conidia:
+      shape: "globose to ellipsoid"
+      dimensions_μm: "2–5 (species-dependent)"
+      color: "blue-green, grey-green, or green"
+      arrangement: "in divergent chains from phialides"
+  habitat:
+    - soil
+    - decaying fruits and vegetables
+    - stored grains
+    - indoor environments
+    - cheese (deliberately inoculated)
+  distribution: "cosmopolitan worldwide"
+  edibility: "not consumed; certain species essential as cheese-ripening agents"
+  species_count: ~350
+  notable_species:
+    - "Penicillium chrysogenum (penicillin producer; now P. rubens)"
+    - "Penicillium roqueforti (Roquefort, Gorgonzola, Stilton blue cheese)"
+    - "Penicillium camemberti (Camembert, Brie cheese rind)"
+    - "Penicillium expansum (apple blue mold, patulin producer)"
+    - "Penicillium digitatum (green mold of citrus)"
+  data_sources:
+    - "MycoBank MB 18292"
+    - "Visagie et al. (2014) Identification of Penicillium"
+    - "Index Fungorum"

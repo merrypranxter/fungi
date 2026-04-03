@@ -1,0 +1,63 @@
+genus:
+  name: Amanita
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Amanitaceae
+    genus: Amanita
+    established: 1783
+    author: "Pers."
+    mycobank_id: "MB 17244"
+  description: |
+    Amanita is a genus of ~600 species responsible for the majority of fatal mushroom
+    poisonings worldwide (>90% of deaths). The deadly death cap (A. phalloides) and
+    destroying angel group (A. bisporigera, A. verna, A. ocreata) contain amatoxins
+    (specifically alpha-amanitin) that inhibit RNA polymerase II, causing acute
+    liver and kidney failure. There is no antidote; the only treatment is liver
+    transplant in severe cases. Despite its deadly members, Amanita also contains
+    choice edibles (A. caesarea, prized since Roman times) and the iconic hallucinogenic
+    fly agaric (A. muscaria). All Amanita species are ectomycorrhizal; none are
+    saprotrophic. The genus is the single most important in mushroom safety education.
+  morphology:
+    cap:
+      shape: "egg-shaped when young (button stage) expanding to broadly umbonate"
+      color: "variable: white, yellow, orange, red, brown, green"
+      surface: "smooth to warts/patches (remnants of universal veil)"
+      diameter_cm: "5–25"
+    gills:
+      attachment: "free or narrowly adnexed"
+      color: "white (not darkening with age)"
+      spacing: "crowded"
+    stipe:
+      height_cm: "5–25"
+      color: "white to pale cap color"
+      ring: "present (membranous annulus)"
+      volva: "present (basal cup—critical identification feature)"
+    spore_print: "white"
+    spores:
+      shape: "ellipsoid to globose"
+      dimensions_μm: "7–12 × 6–8"
+      wall: "smooth, amyloid or inamyloid"
+  habitat:
+    - temperate and boreal forests
+    - tropical forests
+    - woodland edges
+  distribution: "worldwide except Antarctica"
+  edibility: |
+    VARIABLE AND EXTREMELY DANGEROUS. Contains some choice edibles (A. caesarea,
+    A. rubescens) and the world's deadliest mushrooms (A. phalloides, A. ocreata,
+    A. bisporigera). NEVER consume without 100% expert identification.
+  species_count: ~600
+  notable_species:
+    - "Amanita phalloides (death cap — most deadly mushroom)"
+    - "Amanita muscaria (fly agaric — hallucinogenic)"
+    - "Amanita caesarea (Caesar's mushroom — choice edible)"
+    - "Amanita rubescens (blusher — edible when cooked)"
+    - "Amanita bisporigera (destroying angel — deadly)"
+    - "Amanita pantherina (panther cap — toxic)"
+  data_sources:
+    - "MycoBank MB 17244"
+    - "Bas (1969) Morphology and subdivision of Amanita"
+    - "Index Fungorum"

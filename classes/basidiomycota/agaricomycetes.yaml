@@ -1,0 +1,45 @@
+class:
+  name: Agaricomycetes
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    established: 2006
+    author: "Doweld"
+    mycobank_id: "MB 500005"
+  description: |
+    Agaricomycetes is the largest and most ecologically diverse class of Basidiomycota,
+    containing approximately 21,000 described species. It encompasses all
+    mushroom-forming basidiomycetes including agarics, boletes, polypores, chanterelles,
+    coral fungi, puffballs, earth stars, stinkhorns, and tooth fungi. Members occupy
+    every major terrestrial ecosystem, functioning as ectomycorrhizal symbionts with
+    forest trees, as wood decomposers (white-rot and brown-rot), and as litter decomposers.
+    The class includes most commercially cultivated and wild-harvested edible mushrooms.
+  key_characteristics:
+    - Basidiocarps (fruiting bodies) morphologically extremely diverse
+    - Hymenium exposed at maturity (gymnocarpic) or enclosed (angiocarpic)
+    - Dolipore septa with parenthesome cap structures
+    - Clamp connections present in most species
+    - Ectomycorrhizal associations dominant in forest tree families
+    - Both white-rot (lignin degraders) and brown-rot (cellulose degraders) species
+  orders:
+    - Agaricales
+    - Boletales
+    - Polyporales
+    - Cantharellales
+    - Russulales
+    - Hymenochaetales
+    - Gomphales
+    - Phallales
+    - Geastrales
+    - Corticiales
+  ecological_roles:
+    - Ectomycorrhizal partners of conifers, oaks, beeches, eucalyptus
+    - White-rot decomposition of lignin (Trametes, Phlebia, Pleurotus)
+    - Brown-rot decomposition of cellulose (Piptoporus, Fomitopsis)
+    - Litter decomposition in forest floors
+    - Dung decomposition (Coprinus, Panaeolus)
+  data_sources:
+    - "MycoBank MB 500005"
+    - "Hibbett et al. (2007)"
+    - "Index Fungorum"

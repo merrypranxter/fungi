@@ -1,0 +1,122 @@
+species:
+  name: Amanita muscaria
+  common_names:
+    - Fly agaric
+    - Fly amanita
+    - Toadstool (iconic image)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Amanitaceae
+    genus: Amanita
+    species: muscaria
+    binomial: Amanita muscaria
+    author: "(L.) Lam."
+    year_described: 1783
+    taxonomic_history:
+      - "1753: Described by Linnaeus as Agaricus muscarius"
+      - "1783: Transferred to Amanita by Lamarck"
+      - "Multiple varieties recognized: var. muscaria (red), var. guessowii (orange-yellow), var. flavivolvata (Americas)"
+    mycobank_id: "MB 198252"
+  morphology:
+    cap:
+      diameter_cm: "8–20"
+      shape: "globose to convex when young; broadly convex to flat at maturity"
+      color: "vivid scarlet to orange-red (fading to orange-yellow with age or washing); var. guessowii is orange-yellow"
+      surface: "viscid when moist; covered with white to cream cottony warts (remnants of universal veil)"
+    gills:
+      attachment: "free"
+      color: "white"
+      spacing: "crowded"
+    stipe:
+      height_cm: "8–20"
+      diameter_cm: "1–2.5"
+      color: "white"
+      ring: "present, superior, membranous, pendant"
+      volva: "present; broken into concentric rings of white cottony scales at bulbous base"
+    spores:
+      shape: "ellipsoid to broadly ellipsoid"
+      dimensions_μm: "8–12 × 6–8"
+      color_in_mass: "white"
+      wall: "smooth, inamyloid"
+    spore_print: "white"
+    flesh:
+      color: "white; yellow just below cap cuticle"
+      odor: "faint, not distinctive"
+      taste: "mild (but TOXIC—do not taste)"
+  habitat:
+    substrate: "soil, in ectomycorrhizal association with tree roots"
+    ecosystem:
+      - birch and pine forests
+      - spruce-fir forests
+      - mixed woodlands
+      - boreal taiga
+      - subalpine forests
+    associated_hosts:
+      - Betula (birch)
+      - Pinus (pine)
+      - Picea (spruce)
+      - Abies (fir)
+    mycorrhizal: true
+    saprotrophic: false
+  distribution:
+    native_range: "Northern Hemisphere temperate and boreal zones"
+    global: true
+    introduced_with: "host tree plantations in Southern Hemisphere (New Zealand, Australia, South Africa)"
+  edibility:
+    status: "toxic / psychoactive"
+    toxins:
+      - compound: "Ibotenic acid"
+        effect: "Neurotoxic; prodrug of muscimol; causes confusion, delirium, convulsions"
+        lethal_dose_mg_per_kg: ">1000 (rarely fatal in adults)"
+      - compound: "Muscimol"
+        effect: "GABA-A receptor agonist; causes sedation, euphoria, hallucinosis, ataxia"
+      - compound: "Muscarine"
+        effect: "Cholinergic agonist (minor in A. muscaria); more significant in Clitocybe"
+    notes: |
+      Deaths are rare but documented (primarily in children and small animals). Symptoms
+      onset 30 min–2 hrs. Traditional entheogenic use documented in Siberian shamanism
+      (Koryak, Chukchi peoples). Amanita muscaria is the inspiration for the iconic
+      red-and-white toadstool in European folklore, Alice in Wonderland, and Nintendo Super Mario.
+    lookalikes:
+      - species: "Amanita caesarea"
+        danger: "choice edible — safe"
+        distinguishing_features: "A. caesarea has a yellow stipe, yellow gills, and a fully enclosed white egg stage volva"
+      - species: "Amanita phalloides (death cap)"
+        danger: "deadly toxic"
+        distinguishing_features: "A. phalloides is greenish-yellow, lacks red color and white warts"
+  lifecycle:
+    fruiting_season: "summer through autumn; winter in mild climates"
+    fruiting_triggers:
+      - rainfall
+      - temperature_drop
+    mycelium_type: "white, ectomycorrhizal mantle on host roots"
+    lifespan_of_fruiting_body_days: "5–14"
+  cultivation:
+    commercial: false
+    difficulty: "extremely difficult (obligate ectomycorrhizal)"
+    notes: "Cannot be cultivated in isolation; requires living host tree"
+  biochemistry:
+    compounds:
+      - "Ibotenic acid (5–10 mg/g dry weight)"
+      - "Muscimol (0.1–0.6 mg/g dry weight)"
+      - "Muscazone"
+      - "Stizolobic acid"
+    medicinal_research:
+      - "Muscimol studied as GABA-A agonist for neurological research"
+      - "Traditional entheogen in Siberian shamanic practices"
+  cultural_significance: |
+    Arguably the most culturally iconic mushroom in the world. Depicted in fairy tales,
+    Christmas decoration, and video game iconography. Featured in Lewis Carroll's
+    Alice's Adventures in Wonderland and theorized as the soma of Rigvedic tradition
+    by R. Gordon Wasson (contested hypothesis).
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 198252"
+    - "Index Fungorum"
+    - "Wasson (1968) Soma: Divine Mushroom of Immortality"
+    - "Chilton & Stamets (1996) Amanita muscaria chemistry"

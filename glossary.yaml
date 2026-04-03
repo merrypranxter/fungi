@@ -1,0 +1,242 @@
+glossary:
+  - term: mycelium
+    etymology: "Greek: mykēs (fungus) + Latin: -ium"
+    definition: |
+      The vegetative body of a fungus, consisting of a network of thread-like hyphae.
+      Mycelium is the primary nutrient-absorbing and growth structure, often hidden
+      within the substrate (soil, wood, dung) with only the fruiting body visible above ground.
+    related_terms: [hyphae, fruiting_body, substrate]
+
+  - term: hyphae
+    etymology: "Greek: hyphē (web)"
+    definition: |
+      Individual filamentous cells that make up the mycelium. Hyphae are tubular,
+      typically 2–10 μm in diameter, and grow by apical extension. In higher fungi
+      they are separated by cross-walls called septa.
+    related_terms: [mycelium, septa, clamp_connection]
+
+  - term: fruiting_body
+    etymology: "Descriptive English"
+    definition: |
+      The reproductive structure of a fungus that produces and disperses spores.
+      Also called a sporocarp or basidiocarp/ascocarp depending on the phylum.
+      What most people refer to colloquially as a "mushroom."
+    related_terms: [basidiocarp, ascocarp, pileus, stipe]
+
+  - term: basidiospore
+    etymology: "Latin: basidium + Greek: spora (seed)"
+    definition: |
+      A sexual spore produced externally on a club-shaped cell called a basidium,
+      characteristic of Basidiomycota. Typically four basidiospores are borne on
+      sterigmata projecting from each basidium.
+    related_terms: [basidium, basidiomycota, spore_print]
+
+  - term: ascospore
+    etymology: "Greek: askos (bag) + spora (seed)"
+    definition: |
+      A sexual spore produced inside a sac-like cell called an ascus, characteristic
+      of Ascomycota. Typically eight ascospores are produced per ascus via meiosis
+      followed by one mitotic division.
+    related_terms: [ascus, ascomycota, crozier]
+
+  - term: pileus
+    etymology: "Latin: pileus (felt cap)"
+    definition: |
+      The cap of a mushroom fruiting body; the expanded, umbrella-like upper portion
+      that bears the spore-producing surface (hymenium) on its underside. Shape,
+      color, and surface texture are key identification features.
+    related_terms: [stipe, lamellae, hymenium]
+
+  - term: stipe
+    etymology: "Latin: stipes (trunk, log)"
+    definition: |
+      The stem or stalk supporting the pileus. May be central, eccentric, or lateral.
+      Can bear a ring (annulus) or be rooted in a cup (volva). Texture, color, and
+      internal structure (hollow vs solid) aid identification.
+    related_terms: [pileus, annulus, volva]
+
+  - term: lamellae
+    etymology: "Latin: lamella (thin plate)"
+    definition: |
+      The gills on the underside of the pileus; thin, blade-like structures radiating
+      from the stipe that bear the hymenium where basidia or asci are formed.
+      Gill color, attachment, and spacing are primary identification characters.
+    related_terms: [pileus, hymenium, basidium]
+
+  - term: volva
+    etymology: "Latin: volva (womb, wrapper)"
+    definition: |
+      A cup-like sheath at the base of the stipe, the remnant of the universal veil
+      that enclosed the entire young fruiting body. Characteristic of Amanita species;
+      its presence is a critical safety feature when identifying mushrooms.
+    related_terms: [stipe, amanita, universal_veil]
+
+  - term: annulus
+    etymology: "Latin: annulus (ring)"
+    definition: |
+      A ring of tissue around the stipe, the remnant of the partial veil that covered
+      the gills in the button stage. May be superior (near cap), median, or inferior
+      (near base). Can be skirt-like, cobweb-like (cortina), or fragile.
+    related_terms: [stipe, partial_veil, cortina]
+
+  - term: rhizomorph
+    etymology: "Greek: rhiza (root) + morphē (form)"
+    definition: |
+      A cord-like aggregate of hyphae resembling a root, used for long-distance
+      nutrient and water transport through soil or wood. Common in Armillaria species,
+      which can form massive rhizomorph networks spanning hectares.
+    related_terms: [mycelium, hyphae, armillaria]
+
+  - term: saprotrophic
+    etymology: "Greek: sapros (rotten) + trophē (nourishment)"
+    definition: |
+      A nutritional mode in which an organism obtains nutrients by decomposing dead
+      organic matter. Saprotrophic fungi are primary decomposers in ecosystems,
+      breaking down cellulose and lignin in wood and leaf litter.
+    related_terms: [mycorrhizal, parasitic, substrate]
+
+  - term: mycorrhizal
+    etymology: "Greek: mykēs (fungus) + rhiza (root)"
+    definition: |
+      A mutually beneficial symbiosis between a fungus and plant roots. The fungus
+      receives photosynthate (sugars) from the plant and provides the plant with
+      water and minerals, especially phosphorus. Over 90% of land plant species
+      form mycorrhizal associations.
+    related_terms: [saprotrophic, ectomycorrhizal, arbuscular_mycorrhizal]
+
+  - term: parasitic
+    etymology: "Greek: parasitos (one who eats at another's table)"
+    definition: |
+      A nutritional mode where the fungus obtains nutrients from a living host,
+      typically causing harm. Fungal parasites infect plants (rusts, smuts, powdery
+      mildews), animals, insects (Cordyceps), and even other fungi (mycoparasitism).
+    related_terms: [saprotrophic, mycorrhizal, cordyceps]
+
+  - term: endophytic
+    etymology: "Greek: endon (within) + phyton (plant)"
+    definition: |
+      Fungi that live within plant tissues without causing apparent disease. Endophytic
+      fungi may confer stress tolerance, pest resistance, or growth benefits to host
+      plants. Nearly all land plants harbor endophytic fungi.
+    related_terms: [mycorrhizal, parasitic, symbiosis]
+
+  - term: basidium
+    etymology: "Greek: basidion (small pedestal)"
+    definition: |
+      A club-shaped cell in Basidiomycota on which basidiospores are produced externally
+      after meiosis. Basidia line the hymenium surface of gills, pores, or teeth.
+      The characteristic cell type defining the phylum Basidiomycota.
+    related_terms: [basidiospore, hymenium, basidiomycota]
+
+  - term: ascus
+    etymology: "Greek: askos (bag, wineskin)"
+    definition: |
+      A sac-like cell in Ascomycota in which ascospores are produced internally after
+      meiosis. Asci are arranged in the hymenium within cup-shaped or flask-shaped
+      fruiting bodies. The characteristic cell type defining Ascomycota.
+    related_terms: [ascospore, hymenium, ascomycota]
+
+  - term: crozier
+    etymology: "Old French: crosse (bishop's staff)"
+    definition: |
+      A hook-shaped hyphal structure in Ascomycota that ensures the correct nuclear
+      arrangement during ascus development. Analogous to the clamp connection in
+      Basidiomycota. Present in most ascomycetes with septate dikaryotic hyphae.
+    related_terms: [ascus, ascomycota, clamp_connection]
+
+  - term: clamp_connection
+    etymology: "Descriptive English"
+    definition: |
+      A bypass loop of hyphal tissue at septa in dikaryotic Basidiomycota hyphae,
+      ensuring that both nuclei are distributed correctly when the cell divides.
+      Clamp connections are diagnostic of the dikaryotic (secondary mycelium) stage.
+    related_terms: [hyphae, basidiomycota, crozier]
+
+  - term: chlamydospore
+    etymology: "Greek: chlamys (cloak) + spora (seed)"
+    definition: |
+      A thick-walled asexual resting spore formed within or at the tip of a hypha,
+      capable of surviving adverse conditions. Common in many soil fungi as a
+      survival structure; not produced by meiosis.
+    related_terms: [hyphae, zygospore, asexual_reproduction]
+
+  - term: zygospore
+    etymology: "Greek: zygon (yoke) + spora (seed)"
+    definition: |
+      A thick-walled sexual resting spore produced by fusion of two morphologically
+      similar gametangia; characteristic of Mucoromycota (e.g., Rhizopus).
+      Can remain dormant for extended periods before germinating.
+    related_terms: [mucoromycota, chlamydospore, sexual_reproduction]
+
+  - term: sclerotium
+    etymology: "Greek: sklēros (hard)"
+    definition: |
+      A hardened, compact mass of fungal hyphae containing food reserves, capable
+      of surviving extreme conditions. Sclerotia can remain dormant for years.
+      Notable examples: ergot (Claviceps), truffle precursors, Wolfiporia cocos.
+    related_terms: [mycelium, hyphae, survival_structure]
+
+  - term: primordia
+    etymology: "Latin: primordium (beginning)"
+    definition: |
+      Early-stage undifferentiated hyphal knots that will develop into fruiting bodies.
+      Primordia formation (pinning) is triggered by environmental cues: temperature
+      drop, increased CO₂ gradient, light exposure, and high humidity.
+    related_terms: [fruiting_body, pinning, mycelium]
+
+  - term: spawn
+    etymology: "Old French: espandre (to shed)"
+    definition: |
+      Mycelium grown on a substrate (grain, sawdust, straw) used to inoculate a
+      fruiting substrate in mushroom cultivation. Analogous to seed in plant agriculture.
+      Common spawn types: grain spawn, sawdust spawn, plug spawn, liquid culture.
+    related_terms: [inoculation, substrate, mycelium]
+
+  - term: substrate
+    etymology: "Latin: substratum (layer beneath)"
+    definition: |
+      The material on which a fungus grows and from which it obtains nutrients.
+      In cultivation: straw, hardwood sawdust, grain, or composted manure. In nature:
+      wood, soil, dung, leaf litter, or living plant/animal tissue.
+    related_terms: [spawn, saprotrophic, mycelium]
+
+  - term: inoculation
+    etymology: "Latin: inoculare (to graft)"
+    definition: |
+      The process of introducing fungal spawn or spores into a prepared substrate to
+      initiate mycelial colonization. Sterile technique is critical to prevent
+      contamination by competitor molds or bacteria.
+    related_terms: [spawn, substrate, colonization]
+
+  - term: colonization
+    etymology: "Latin: colonus (farmer, settler)"
+    definition: |
+      The process by which mycelium grows through and fully occupies a substrate,
+      digesting nutrients and preparing conditions for fruiting. Visually apparent
+      as white, cottony mycelial growth spreading through the substrate.
+    related_terms: [mycelium, inoculation, primordia]
+
+  - term: pinning
+    etymology: "Descriptive English"
+    definition: |
+      The formation of visible pinhead-sized primordia on fully colonized substrate,
+      marking the transition from vegetative growth to reproductive phase. Triggered
+      by fresh air exchange, light, temperature differentials, and humidity.
+    related_terms: [primordia, fruiting_body, flush]
+
+  - term: flush
+    etymology: "Old English: flyscan (to fly)"
+    definition: |
+      A single crop of fruiting bodies produced by a colonized substrate within a
+      short period. Most substrates produce multiple flushes (2–5) before exhaustion.
+      Yield typically peaks in the first or second flush.
+    related_terms: [pinning, fruiting_body, yield]
+
+  - term: bioluminescence
+    etymology: "Greek: bios (life) + Latin: lumen (light)"
+    definition: |
+      The production and emission of visible light by living organisms. About 100
+      species of fungi are bioluminescent, producing a continuous cold green glow
+      via a luciferin–luciferase reaction using hispidin as a precursor. Serves
+      uncertain ecological functions, possibly attracting spore-dispersing insects.
+    related_terms: [fruiting_body, mycelium, spore_dispersal]

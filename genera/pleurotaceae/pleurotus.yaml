@@ -1,0 +1,61 @@
+genus:
+  name: Pleurotus
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Pleurotaceae
+    genus: Pleurotus
+    established: 1871
+    author: "(Fr.) P. Kumm."
+    mycobank_id: "MB 18362"
+  description: |
+    Pleurotus (oyster mushrooms) is a genus of ~40 species of white-rot wood-decay fungi
+    and is the second most widely cultivated mushroom genus globally. P. ostreatus
+    (pearl oyster), P. eryngii (king oyster), P. citrinopileatus (golden oyster),
+    and P. djamor (pink oyster) are major commercial crops. Oyster mushrooms grow
+    in shelf-like tiers on dead or dying hardwood and are characterized by fan-shaped
+    to oyster-shaped caps, decurrent white gills, and a lateral or absent stipe.
+    Pleurotus produces lovastatin (a cholesterol-lowering compound), immunomodulatory
+    beta-glucans, and has demonstrated efficacy in bioremediation of petroleum-contaminated
+    soils. The genus also includes remarkable predatory behavior: P. ostreatus produces
+    toxic droplets and sticky networks to capture and consume soil nematodes.
+  morphology:
+    cap:
+      shape: "fan-shaped to oyster-shaped, often imbricate (tiered)"
+      color: "white, grey, brown, yellow, or pink depending on species"
+      surface: "smooth, moist"
+      diameter_cm: "5–25"
+    gills:
+      attachment: "decurrent (running down stipe)"
+      color: "white to cream"
+      spacing: "crowded"
+    stipe:
+      height_cm: "1–5 (often absent or very short)"
+      color: "white"
+      position: "lateral or eccentric"
+      ring: absent
+      volva: absent
+    spore_print: "white to lilac-grey"
+    spores:
+      shape: "cylindrical to oblong"
+      dimensions_μm: "7–13 × 3–5"
+      wall: "smooth"
+  habitat:
+    - dead hardwood (oak, beech, poplar, willow, elm)
+    - dying trees
+    - urban wood waste
+  distribution: "cosmopolitan; temperate and subtropical forests"
+  edibility: "choice edible; all common Pleurotus species are edible"
+  species_count: ~40
+  notable_species:
+    - "Pleurotus ostreatus (pearl oyster — most cultivated)"
+    - "Pleurotus eryngii (king oyster / trumpet royale)"
+    - "Pleurotus citrinopileatus (golden oyster)"
+    - "Pleurotus djamor (pink oyster)"
+    - "Pleurotus pulmonarius (phoenix oyster)"
+  data_sources:
+    - "MycoBank MB 18362"
+    - "Petersen (1995) Notes on Pleurotus"
+    - "Index Fungorum"

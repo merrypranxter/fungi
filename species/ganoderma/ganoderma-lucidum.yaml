@@ -1,0 +1,117 @@
+species:
+  name: Ganoderma lucidum
+  common_names:
+    - Reishi
+    - Lingzhi
+    - Mushroom of immortality
+    - Varnished conk
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Polyporales
+    family: Ganodermataceae
+    genus: Ganoderma
+    species: lucidum
+    binomial: Ganoderma lucidum
+    author: "(Curtis) P. Karst."
+    year_described: 1881
+    taxonomic_history:
+      - "1781: Described by Curtis as Boletus lucidus"
+      - "1881: Transferred to Ganoderma by P. Karsten"
+      - "Note: G. lucidum sensu stricto may be a European species; Asian reishi often G. lingzhi or G. sichuanense"
+    mycobank_id: "MB 332903"
+  morphology:
+    cap:
+      diameter_cm: "5–30"
+      shape: "kidney-shaped, fan-shaped, or irregular; sessile to stipitate"
+      color: "red-brown to orange-brown, with concentric zones; white growing margin"
+      surface: "highly glossy, lacquered (distinctive feature); concentrically grooved"
+    pores:
+      color: "white to cream; bruising tan-brown"
+      size: "very small, round; 4–6 per mm"
+    stipe:
+      height_cm: "5–20"
+      color: "red-brown to purple-brown; glossy lacquered"
+      position: "lateral to eccentric; sometimes absent in older specimens"
+    spores:
+      shape: "ovoid, double-walled with truncated apex and ornamented inner wall"
+      dimensions_μm: "9–13 × 5.5–7"
+      color_in_mass: "brown"
+      wall: "outer wall smooth; inner wall with pillar-like projections"
+    spore_print: "brown"
+    flesh:
+      color: "white to pale tan; corky to woody"
+      texture: "corky, tough"
+      odor: "faint, not distinctive"
+      taste: "extremely bitter"
+  habitat:
+    substrate: "dead and dying hardwood; stumps; buried roots"
+    ecosystem:
+      - temperate deciduous forests
+      - subtropical forests
+    associated_hosts:
+      - Quercus (oak)
+      - Acer (maple)
+      - Prunus (cherry, plum)
+      - Betula (birch)
+    mycorrhizal: false
+    saprotrophic: true
+    wood_decay_type: "white-rot"
+  distribution:
+    native_range: "East Asia, Europe, North America"
+    global: true
+  edibility:
+    status: "inedible fresh (too woody and bitter); used as dried extract and tea"
+    preparation:
+      - "dried slices steeped as tea"
+      - "powdered extract in capsules"
+      - "dual-extraction tincture (hot water + alcohol)"
+    notes: |
+      Used in Traditional Chinese Medicine for over 2,000 years; referenced in the
+      first Chinese pharmacopeia (Shennong Bencao Jing) as a first-class medicine
+      promoting longevity. Global nutraceutical market >$2 billion USD annually.
+  lifecycle:
+    fruiting_season: "summer to autumn"
+    fruiting_triggers:
+      - temperature
+      - humidity
+    lifespan: "annual to short-lived perennial"
+  cultivation:
+    commercial: true
+    difficulty: "intermediate"
+    substrate:
+      - hardwood sawdust (oak, beech)
+      - oak log inoculation
+    spawn_type: "grain or sawdust spawn"
+    fruiting_temp_c: "20–28"
+    incubation_temp_c: "24–28"
+    co2_ppm_fruiting: "700–1000 (low CO2 promotes cap growth; high CO2 promotes antler form)"
+    yield_kg_per_kg_dry_substrate: "0.05–0.15"
+    notes: |
+      High CO2 during development produces antler-shaped fruiting bodies (high triterpene content).
+      Low CO2 produces typical kidney-shaped caps. China produces >99% of global commercial supply.
+  biochemistry:
+    compounds:
+      - "Ganoderic acids (over 200 triterpenes; bitter taste; anti-inflammatory, antitumor)"
+      - "Beta-D-glucans (polysaccharides; immunomodulatory)"
+      - "Ganoderiol A/B (lanostane-type triterpenes)"
+      - "Lucidenic acids (cytotoxic triterpenes)"
+      - "Adenosine (cardiovascular effects)"
+      - "Ergosterol (vitamin D precursor)"
+    medicinal_research:
+      - "Immunomodulation via beta-glucan receptor (Dectin-1) activation"
+      - "In vitro antitumor activity of polysaccharides and triterpenes"
+      - "Anti-inflammatory activity via NF-kB inhibition"
+      - "Adaptogenic activity; adrenal support"
+      - "Antiviral activity (HIV, herpes) in vitro"
+      - "Hepatoprotective effects in clinical studies"
+    clinical_status: "Traditional medicine; category IV complementary treatment in some countries"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 332903"
+    - "Index Fungorum"
+    - "Boh et al. (2007) Ganoderma lucidum and its pharmaceutically active compounds"
+    - "Hapuarachchi et al. (2018) Multi-locus phylogenetics of Ganoderma"

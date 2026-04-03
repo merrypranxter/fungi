@@ -1,0 +1,41 @@
+family:
+  name: Amanitaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Amanitaceae
+    established: 1899
+    author: "E.-J. Gilbert"
+    mycobank_id: "MB 80495"
+  description: |
+    Amanitaceae is a family of ~600 species centered on the genus Amanita—arguably
+    the most important family in mycology due to the extreme toxicity of several
+    species. Amanita phalloides (death cap) and A. ocreata (destroying angel) account
+    for >90% of fatal mushroom poisonings worldwide, caused by amatoxins that inhibit
+    RNA polymerase II. The family also includes choice edibles (A. caesarea, Caesar's
+    mushroom; A. rubescens, blusher) and the hallucinogenic A. muscaria (fly agaric).
+    All Amanitaceae are ectomycorrhizal with trees. The defining features—universal
+    veil remnants (volva at base, warts on cap), ring (annulus), and free white
+    gills—are critical for safe identification.
+  key_characteristics:
+    - Universal veil produces volva (basal cup) and cap warts or patches
+    - Partial veil produces annulus (ring) on stipe
+    - Gills free, white (not discoloring at maturity)
+    - Spore print white
+    - All species ectomycorrhizal
+    - Amatoxins and phallotoxins in deadly species
+    - Some species contain ibotenic acid and muscimol (psychoactive)
+  genera:
+    - Amanita
+    - Limacella
+    - Catatrama
+  ecological_roles:
+    - Ectomycorrhizal symbionts with broadleaf and conifer trees
+    - Essential for forest tree nutrition (phosphorus, water)
+    - No saprotrophic species; obligate mutualists with host trees
+  data_sources:
+    - "MycoBank MB 80495"
+    - "Bas (1969) Morphology and subdivision of Amanita"
+    - "Index Fungorum"

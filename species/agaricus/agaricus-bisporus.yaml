@@ -1,0 +1,137 @@
+species:
+  name: Agaricus bisporus
+  common_names:
+    - Button mushroom
+    - Crimini mushroom
+    - Portobello mushroom
+    - White mushroom
+    - Champignon de Paris
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Agaricaceae
+    genus: Agaricus
+    species: bisporus
+    binomial: Agaricus bisporus
+    author: "(J.E. Lange) Imbach"
+    year_described: 1946
+    taxonomic_history:
+      - "1906: First described as Psalliota hortensis var. bispora by J.E. Lange"
+      - "1938: Raised to species rank as Psalliota bispora by Lange"
+      - "1946: Transferred to Agaricus bisporus by Imbach"
+    mycobank_id: "MB 285483"
+  morphology:
+    cap:
+      diameter_cm: "5–15"
+      shape: "convex when young, becoming broadly umbonate to flat"
+      color: "white (commercial white strain) or brown (crimini/portobello)"
+      surface: "smooth, dry; silky when young"
+    gills:
+      attachment: "free"
+      color: "bright pink when young; darkening through brown to chocolate-purple-black at maturity"
+      spacing: "crowded"
+    stipe:
+      height_cm: "3–7"
+      diameter_cm: "1–3"
+      color: "white"
+      texture: "smooth, solid"
+      ring: "present, membranous, superior (upper part of stipe)"
+      volva: absent
+    spores:
+      shape: "ellipsoid"
+      dimensions_μm: "5–8 × 4–5.5"
+      color_in_mass: "dark purplish-brown to chocolate brown"
+      wall: "smooth, thick"
+    spore_print: "dark purplish-brown"
+    flesh:
+      color: "white, slightly pinkish when cut"
+      texture: "firm"
+      odor: "pleasant, mushroomy"
+      taste: "mild, pleasant"
+    notable_morphological_feature: |
+      Uniquely among Agaricus, the basidia characteristically produce only 2 spores
+      (bisporic) instead of the typical 4. This feature gives the species its name
+      and results in the commercial strains being often diploid rather than dikaryotic,
+      allowing commercial propagation from a single spore.
+  habitat:
+    substrate: "rich soil, composted manure, dung-enriched grasslands"
+    ecosystem:
+      - grasslands
+      - gardens
+      - cultivated fields
+      - disturbed ground
+    associated_plants: []
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Europe (meadows, grasslands); naturalized globally"
+    global: true
+    elevation_m: "0–2000"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - raw (button stage)
+      - sautéed
+      - grilled
+      - stuffed and baked
+      - dried
+    notes: |
+      The most widely cultivated and consumed mushroom in the world. Three commercial
+      forms: white button (small, immature), crimini (brown-capped, mature), and
+      portobello (fully expanded brown cap, intensified flavor). Contains ergothioneine
+      (potent antioxidant), beta-glucans, B vitamins, selenium, and copper.
+    lookalikes:
+      - species: "Amanita phalloides (death cap)"
+        danger: "deadly toxic"
+        distinguishing_features: "Amanita has white gills (not pink), volva at base, white spore print"
+      - species: "Agaricus xanthodermus (yellow-staining mushroom)"
+        danger: "toxic (GI irritant)"
+        distinguishing_features: "Flesh immediately yellows bright chrome-yellow at base of stipe; unpleasant phenolic odor"
+  lifecycle:
+    fruiting_season: "spring through autumn (wild); year-round (cultivated)"
+    fruiting_triggers:
+      - moisture
+      - temperature_drop
+      - CO2_gradient
+    mycelium_type: "white, ropy, cottony"
+    spore_dispersal: "wind, insects, humans"
+  cultivation:
+    commercial: true
+    difficulty: "intermediate"
+    substrate:
+      - "phase II composted horse manure and straw"
+      - "grain spawn for inoculation"
+      - "peat/chalk casing layer"
+    spawn_type: "grain spawn or sawdust spawn"
+    fruiting_temp_c: "16–18"
+    incubation_temp_c: "22–25"
+    casing_layer: "peat/chalk mix, 3–4 cm"
+    yield_kg_per_m2: "10–30"
+    flushes: "3–5 flushes per crop cycle"
+    cycle_days: "120–180 total crop cycle"
+    notes: |
+      First cultivated in France in the 17th century. Now accounts for ~40% of global
+      mushroom production (~5 million tonnes/year). Primarily cultivated in climate-
+      controlled tunnels or caves. China is the largest producer (~70% global output).
+  biochemistry:
+    compounds:
+      - "Ergothioneine (stable antioxidant amino acid)"
+      - "Beta-glucans (lentinan-related, immunomodulatory)"
+      - "Agaritine (hydrazine derivative; potentially carcinogenic—destroyed by cooking)"
+      - "Lovastatin (trace levels in portobello form)"
+      - "Selenium (high bioavailability)"
+      - "Vitamin D2 (ergocalciferol; enhanced by UV light exposure)"
+    medicinal_research:
+      - "Antitumor activity demonstrated in animal models"
+      - "Immunomodulatory via beta-glucan receptor activation"
+      - "Ergothioneine associated with reduced oxidative stress"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 285483"
+    - "Index Fungorum"
+    - "Lange (1935) Flora Agaricina Danica"
+    - "Flegg & Wood (1985) The Biology and Technology of the Cultivated Mushroom"

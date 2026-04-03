@@ -1,0 +1,51 @@
+phylum:
+  name: Chytridiomycota
+  common_name: Chytrids
+  taxonomy:
+    kingdom: Fungi
+    phylum: Chytridiomycota
+    established: 1973
+    author: "Sparrow ex Barr"
+    mycobank_id: "MB 90008"
+  description: |
+    Chytridiomycota are the most ancient fungal lineage, retaining flagellated
+    zoospores—a primitive feature lost in all other fungal phyla. With ~700
+    described species they are predominantly aquatic or soil-dwelling, thriving
+    in freshwater habitats, wetlands, and wet soils. They are primarily saprotrophic
+    decomposers of pollen, chitin, and keratin, but include devastating pathogens
+    such as Batrachochytrium dendrobatidis (Bd), responsible for chytridiomycosis
+    and the extinction or decline of over 500 amphibian species—the greatest
+    recorded loss of vertebrate biodiversity attributable to a single pathogen.
+  distinguishing_features:
+    - Only fungal phylum producing posteriorly uniflagellate zoospores
+    - Typically unicellular or with simple rhizoid systems (rhizomycelium)
+    - No true mycelium in most species
+    - Cell walls contain chitin
+    - Zoospores lack cell walls; swim by posterior flagellum
+    - Thallus ranges from monocentric to polycentric
+  reproduction:
+    sexual: |
+      Sexual reproduction by fusion of isogametes or anisogametes (zoospores acting
+      as gametes) or by fusion of gametangia to produce resting spores (zygospores).
+    asexual: |
+      Asexual reproduction by zoospores released from zoosporangia. Zoospores are
+      produced in large numbers and disperse through water films.
+  ecological_roles:
+    - Decomposition of recalcitrant materials: pollen grains, chitin, keratin, cellulose
+    - Parasites of algae, plants, and invertebrates in aquatic ecosystems
+    - Key pathogens of amphibians (Batrachochytrium dendrobatidis, B. salamandrivorans)
+    - Parasites of cyanobacteria and phytoplankton (regulate algal blooms)
+    - Important link in aquatic food webs (mycoloop)
+  economic_importance:
+    - Batrachochytrium dendrobatidis: amphibian chytridiomycosis, global conservation crisis
+    - Synchytrium endobioticum: potato wart disease, quarantine pathogen
+    - Olpidium brassicae: vector of lettuce big-vein virus
+  number_of_species: ~700
+  classes:
+    - Chytridiomycetes
+    - Monoblepharidomycetes
+  data_sources:
+    - "MycoBank MB 90008"
+    - "Index Fungorum"
+    - "James et al. (2006) Reconstructing the early evolution of Fungi"
+    - "Scheele et al. (2019) Amphibian fungal panzootic causes catastrophic losses"

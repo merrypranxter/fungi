@@ -1,0 +1,39 @@
+class:
+  name: Mucoromycetes
+  taxonomy:
+    kingdom: Fungi
+    phylum: Mucoromycota
+    class: Mucoromycetes
+    established: 2016
+    author: "Spatafora et al."
+    mycobank_id: "MB 819002"
+  description: |
+    Mucoromycetes is the core class of Mucoromycota, containing ~300 species including
+    the familiar pin moulds (Rhizopus, Mucor, Cunninghamella) and the thermophilic
+    Rhizomucor. Members are characterized by rapid growth, coenocytic hyphae, and
+    asexual reproduction by sporangiospores inside columellate sporangia. Sexual
+    reproduction produces zygospores. Mucoromycetes are ubiquitous in soil, dung,
+    and decaying food. Rhizopus microsporus and R. arrhizus cause mucormycosis in
+    immunocompromised humans. Rhizopus oligosporus is used in traditional tempeh
+    fermentation across Southeast Asia.
+  key_characteristics:
+    - Coenocytic (aseptate to sparsely septate) hyphae
+    - Columellate sporangia borne on sporangiophores
+    - Sporangiospores released by sporangial wall dissolution
+    - Zygospores (sexual) formed by fusion of opposing gametangia
+    - Heterothallic or homothallic mating systems
+    - No flagellated cells
+    - Fast growth; colonies mature in 24–72 hours
+  orders:
+    - Mucorales
+    - Endogonales
+  ecological_roles:
+    - Rapid decomposers of sugary substrates, fruit, bread, soil organic matter
+    - Post-fire colonizers of burned substrates
+    - Opportunistic human pathogens (mucormycosis)
+    - Fermentation agents (tempeh, sufu)
+    - Thermophilic species in composting systems
+  data_sources:
+    - "MycoBank MB 819002"
+    - "Spatafora et al. (2016)"
+    - "Index Fungorum"

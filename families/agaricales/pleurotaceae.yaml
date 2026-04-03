@@ -1,0 +1,40 @@
+family:
+  name: Pleurotaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Pleurotaceae
+    established: 1926
+    author: "Kühner"
+    mycobank_id: "MB 81434"
+  description: |
+    Pleurotaceae contains ~100 species of typically wood-rotting, white-spored mushrooms
+    with eccentric or lateral stipes, or no stipe at all. The family is dominated by
+    Pleurotus (oyster mushrooms)—the second most widely cultivated mushroom genus in the
+    world after Agaricus. Members grow on dead or dying hardwood, performing aggressive
+    white-rot decomposition. Pleurotus ostreatus (pearl oyster) is a choice edible with
+    anti-cholesterol compounds (lovastatin), antitumor beta-glucans, and demonstrated
+    capacity for mycoremediation of petroleum-contaminated soils. The family also contains
+    the remarkable nematode-predating species Pleurotus nidulans.
+  key_characteristics:
+    - Stipe eccentric, lateral, or absent
+    - Cap fan-shaped to oyster-shaped, often imbricate (tiered)
+    - Gills decurrent (running down the stipe)
+    - Spore print white to lilac-grey
+    - Aggressive white-rot wood decay
+    - Typically saprotrophic on dead hardwood; rarely on conifers
+  genera:
+    - Pleurotus
+    - Hohenbuehelia
+    - Resupinatus
+  ecological_roles:
+    - White-rot decomposers of hardwood in forests
+    - Mycoremediation of petroleum, polycyclic aromatic hydrocarbons
+    - Nematode predation (Pleurotus uses sticky networks to capture nematodes)
+    - Commercial food production worldwide
+  data_sources:
+    - "MycoBank MB 81434"
+    - "Petersen (1995) Pleurotus systematics"
+    - "Index Fungorum"

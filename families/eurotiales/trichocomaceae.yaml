@@ -1,0 +1,45 @@
+family:
+  name: Trichocomaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Eurotiomycetes
+    order: Eurotiales
+    family: Trichocomaceae
+    established: 1894
+    author: "E. Fisch."
+    mycobank_id: "MB 81600"
+  description: |
+    Trichocomaceae (sensu lato, including Aspergillaceae) contains ~600 species in
+    the major genera Aspergillus, Penicillium, Talaromyces, and Paecilomyces.
+    These are among the most globally abundant and consequential fungi in medicine,
+    industry, food science, and ecology. Penicillium chrysogenum (now P. rubens)
+    is the source of penicillin, the first mass-produced antibiotic. Aspergillus
+    niger is the workhorse of industrial enzyme and organic acid production.
+    Sexual states (when known) are cleistothecial with globose or pyriform asci
+    lacking an operculum (inoperculate). Conidial states dominate and are the
+    primary reproductive mode encountered in nature and laboratory.
+  key_characteristics:
+    - Cleistothecial or gymnothecial ascocarps
+    - Globose inoperculate asci arranged randomly within ascocarp
+    - Prominent conidiophores bearing chains of conidia
+    - Aspergillus: conidiophores with terminal vesicle bearing phialides
+    - Penicillium: brush-like (penicillate) conidiophores
+    - Conidia typically 2–5 μm, globally dispersed by air
+  genera:
+    - Aspergillus
+    - Penicillium
+    - Talaromyces
+    - Paecilomyces
+    - Eurotium
+    - Neosartorya
+  ecological_roles:
+    - Decomposers of stored organic matter worldwide
+    - Soil fungi in diverse environments
+    - Industrial producers of enzymes, acids, and antibiotics
+    - Opportunistic human pathogens (Aspergillus fumigatus, A. flavus)
+    - Producers of mycotoxins (aflatoxin, ochratoxin, patulin)
+  data_sources:
+    - "MycoBank MB 81600"
+    - "Samson et al. (2014) Polyphasic taxonomy of Aspergillus"
+    - "Index Fungorum"

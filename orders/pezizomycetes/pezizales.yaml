@@ -1,0 +1,44 @@
+order:
+  name: Pezizales
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Pezizomycetes
+    order: Pezizales
+    established: 1897
+    author: "J. Schröt."
+    mycobank_id: "MB 90713"
+  description: |
+    Pezizales is the sole order of Pezizomycetes, containing ~1,700 described species
+    in 18 families. It encompasses cup fungi (Peziza, Sarcoscypha), morels (Morchella),
+    truffles (Tuber, Terfezia), false morels (Gyromitra), and earth tongues (Geoglossum).
+    Members are defined by operculate asci—spores are forcibly ejected through a lid
+    (operculum) in puffs visible to the naked eye. Truffles and morels are among the
+    most economically valuable fungi: black truffles (Tuber melanosporum) and white
+    truffles (T. magnatum) sell for thousands of dollars per kilogram. Many species are
+    pyrophilous (fire-following) or coprophilous (dung-associated).
+  key_characteristics:
+    - Operculate asci (spores ejected through operculum)
+    - Apothecial (cup-shaped, disc-shaped, or saddle-shaped) ascocarps in most families
+    - Hypogeous (underground) fruiting in truffle genera
+    - Honeycombed cap in Morchella (modified apothecium)
+    - Paraphyses often pigmented (orange, red, blue)
+    - Asexual states rare or absent
+  families:
+    - Morchellaceae
+    - Tuberaceae
+    - Pezizaceae
+    - Sarcoscyphaceae
+    - Pyronemataceae
+    - Helvellaceae
+    - Discinaceae
+    - Chorioactidaceae
+  ecological_roles:
+    - Ectomycorrhizal with oaks, hazels, poplars, pines (truffle genera)
+    - Pyrophilous post-fire successional colonizers
+    - Coprophilous decomposers on dung
+    - Saprotrophic decomposers in soils
+  data_sources:
+    - "MycoBank MB 90713"
+    - "Hansen & Pfister (2006)"
+    - "Index Fungorum"

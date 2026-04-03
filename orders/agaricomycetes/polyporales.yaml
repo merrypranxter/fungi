@@ -1,0 +1,44 @@
+order:
+  name: Polyporales
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Polyporales
+    established: 1922
+    author: "Gäum."
+    mycobank_id: "MB 90601"
+  description: |
+    Polyporales contains ~1,800 species and is the central order of wood-decaying
+    bracket fungi (polypores). Members are critical agents of wood decomposition in
+    forests worldwide, performing both white-rot (lignin degradation) and brown-rot
+    (cellulose degradation). The order includes Ganoderma (reishi / lingzhi, major
+    medicinal mushroom), Trametes versicolor (turkey tail, source of PSK immunotherapy),
+    Fomitopsis betulina (birch bracket), and many others. Most lack stalks and grow
+    as shelf-like brackets on dead or living wood. The class bridges forest ecology
+    and pharmaceutical research.
+  key_characteristics:
+    - Bracket, shelf, or crust-like fruiting bodies on wood
+    - Hymenophore typically poroid (pores/tubes); some lamellate or smooth
+    - Typically corky, leathery, or woody texture; perennial in some species
+    - White-rot and brown-rot wood decay mechanisms
+    - Mostly saprotrophic; some weakly parasitic on living trees
+    - Trimitic hyphal system (generative + skeletal + binding hyphae) common
+  families:
+    - Polyporaceae
+    - Fomitopsidaceae
+    - Phanerochaetaceae
+    - Ganodermataceae
+    - Meruliaceae
+    - Irpicaceae
+    - Gelatoporiaceae
+  ecological_roles:
+    - Primary decomposers of woody debris in forests
+    - White-rot species degrade both cellulose and lignin
+    - Brown-rot species degrade cellulose, leaving cubical brown residue
+    - Long-lived brackets provide wildlife habitat (insect fauna, bird nesting)
+    - Medicinal applications (Ganoderma, Trametes, Inonotus obliquus)
+  data_sources:
+    - "MycoBank MB 90601"
+    - "Binder et al. (2013) Molecular phylogeny of the Polyporales"
+    - "Index Fungorum"
