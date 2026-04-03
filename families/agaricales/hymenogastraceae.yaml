@@ -1,0 +1,42 @@
+family:
+  name: Hymenogastraceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Hymenogastraceae
+    established: 1879
+    author: "Poche"
+    mycobank_id: "MB 81043"
+  description: |
+    Hymenogastraceae is a family of gilled mushrooms within Agaricales, revised and
+    expanded through molecular phylogenetics. The family now encompasses several
+    genera previously placed in other families, most notably Psilocybe (formerly
+    Strophariaceae), as well as Galerina (now Strophariaceae) relatives. The family
+    includes species with a wide range of ecologies: saprotrophic lignicoles,
+    grassland saprophytes, and coprophilous species. Most psychoactive mushrooms
+    containing psilocybin belong to Psilocybe within this family. Members typically
+    have brown to purple-brown spore prints, hygrophanous caps, and often display
+    bluing reactions due to psilocin oxidation.
+  key_characteristics:
+    - Brown to dark purple-brown spore prints (distinguishing from most Amanitaceae)
+    - Hygrophanous caps (change color dramatically as moisture changes)
+    - Psilocybin-containing genera (Psilocybe) show vivid blue staining when damaged
+    - Typically small to medium-sized mushrooms
+    - Saprotrophic on soil, wood, dung, or plant debris
+  genera:
+    - Psilocybe
+    - Hymenogaster
+    - Naucoria
+    - Hebeloma (some classifications)
+    - Galerina (some classifications)
+  ecological_roles:
+    - Saprotrophic decomposers of lignin-rich substrates
+    - Grassland decomposers
+    - Coprophilous decomposers on herbivore dung
+  data_sources:
+    - "MycoBank MB 81043"
+    - "Matheny et al. (2006) Major clades of Agaricales: a multilocus phylogenetic overview"
+    - "Index Fungorum"
+    - "Moncalvo et al. (2002) One hundred and seventeen clades of euagarics"

@@ -1,0 +1,150 @@
+species:
+  name: Ophiocordyceps sinensis
+  common_names:
+    - Caterpillar fungus
+    - Yarsagumba (Tibetan/Nepali: yarsa gunbu)
+    - Dong chong xia cao (Chinese: 冬虫夏草 — winter worm, summer grass)
+    - Himalayan Viagra (colloquial)
+    - Cordyceps sinensis (former name, still widely used)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    order: Hypocreales
+    family: Ophiocordycipitaceae
+    genus: Ophiocordyceps
+    species: sinensis
+    binomial: Ophiocordyceps sinensis
+    author: "(Berk.) G.H. Sung et al."
+    year_described: 2007
+    taxonomic_history:
+      - "1843: Described as Sphaeria sinensis by Miles Joseph Berkeley"
+      - "1878: Transferred to Cordyceps sinensis by Saccardo"
+      - "2007: Reclassified as Ophiocordyceps sinensis by Sung et al. based on molecular phylogenetics"
+      - "Cordyceps sinensis remains widely used in commercial/medical literature"
+    mycobank_id: "MB 503002"
+  morphology:
+    cap:
+      diameter_cm: "Not applicable — clavate (club-shaped) stroma"
+      shape: "stroma club-shaped to cylindrical, 4–10 cm long arising from mummified caterpillar host"
+      color: "dark brown to black stroma; host larva pale brown-yellow"
+      surface: "stroma surface roughened with embedded perithecia (flask-shaped ascocarps)"
+    gills:
+      attachment: "Not applicable — ascomycete"
+      color: "Not applicable"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "4–10 (stroma length)"
+      diameter_cm: "0.3–0.7"
+      color: "dark brown to black"
+      texture: "tough, fibrous"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "thread-like (filiform), multiseptate"
+      dimensions_μm: "230–290 × 5–8 (whole ascospore); fragmenting into part-spores ~10 × 5 μm"
+      color_in_mass: "white"
+      wall: "smooth, thin"
+    spore_print: "Not applicable (ascomycete with asci in perithecia)"
+    flesh:
+      color: "white to pale yellow interior"
+      texture: "tough, fibrous stroma"
+      odor: "earthy, slightly musty, distinctive"
+      taste: "bitter, earthy"
+    notable_morphological_feature: |
+      Ophiocordyceps sinensis has one of the most remarkable life cycles in the fungal
+      kingdom. The fungus infects ghost moth larvae (Thitarodes / Hepialus species) in
+      soil at 3000–5000m altitude on the Tibetan Plateau. The mycelium mummifies the
+      larva during winter (the caterpillar-fungus complex resembles a caterpillar).
+      In summer, a club-shaped stroma emerges from the larva's head, producing the
+      perithecia and ascospores. The composite organism — part caterpillar, part fungus —
+      is what is harvested commercially. This gives rise to the Chinese name 冬虫夏草
+      (winter worm, summer grass). Each specimen is individually dug from soil.
+  habitat:
+    substrate: "infects soil-dwelling Thitarodes (ghost moth) larvae"
+    ecosystem:
+      - alpine meadows and grasslands
+      - Tibetan Plateau
+      - high-altitude Himalayan zones
+    associated_hosts:
+      - Thitarodes/Hepialus spp. (ghost moth larvae) — obligate host
+    mycorrhizal: false
+    saprotrophic: false
+  distribution:
+    native_range: "Tibetan Plateau, Himalayan region (China — Qinghai, Tibet, Sichuan, Yunnan; Nepal, Bhutan, India — Sikkim, Uttarakhand)"
+    global: false
+    elevation_m: "3000–5000"
+  edibility:
+    status: "edible (consumed as tonic food and supplement)"
+    preparation:
+      - simmered in soups and broths (whole specimens)
+      - encapsulated as dried powder supplement
+      - steeped in rice wine (cordyceps tincture)
+      - prepared as decoction
+    notes: |
+      The world's most expensive fungus by weight, with premium whole specimens
+      commanding $50,000–100,000+ USD per kilogram (1 kg requires ~3,000–5,000 specimens,
+      each individually hand-collected). Used in Traditional Chinese Medicine for over
+      1,000 years as a lung tonic, kidney tonic, and general adaptogen. Became
+      internationally famous after 1993 Chinese track and field success at World
+      Championships was attributed (partially) to cordyceps supplementation.
+      Note: Most commercial Cordyceps supplements contain the cultivated Cordyceps
+      militaris rather than genuine O. sinensis due to cost and availability constraints.
+    lookalikes:
+      - species: "Cordyceps militaris (scarlet caterpillar club)"
+        danger: "safe (also bioactive)"
+        distinguishing_features: "C. militaris has orange-red stroma, parasitizes pupae rather than larvae, cultivatable commercially; different biochemical profile"
+  lifecycle:
+    fruiting_season: "stroma emerges May–July (summer season at high altitude)"
+    fruiting_triggers:
+      - snowmelt and spring warming at high altitude
+      - surviving winter as mummified larva-fungus complex
+    mycelium_type: "endoparasitic — grows throughout larval body; mummifies host"
+    spore_dispersal: "wind dispersal of ascospores from stroma perithecia"
+  cultivation:
+    commercial: false
+    difficulty: "not applicable (industrial cultivation not feasible — requires Thitarodes host at high altitude)"
+    substrate:
+      - "Cannot be cultivated on artificial substrate — obligate insect parasite requiring specific host and alpine environment"
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      Ophiocordyceps sinensis cannot be cultivated on an industrial scale — it requires
+      its specific Thitarodes moth larvae host at high altitude with precise environmental
+      conditions. Partial cultivation of the mycelial stage (without stroma formation)
+      in fermentation tanks has been achieved in China and is sold as Cs-4 (Paecilomyces
+      hepiali / Hirsutella sinensis mycelium) — however, this is biochemically distinct
+      from the whole fruiting body-caterpillar complex. Wild harvest is declining due
+      to overharvesting and climate change (shrinking alpine grassland and host population
+      decline). IUCN vulnerable assessment has been proposed. The harvest provides
+      critical cash income for Tibetan and Nepali communities.
+  biochemistry:
+    compounds:
+      - "Cordycepin (3'-deoxyadenosine; primary bioactive — adenosine analog)"
+      - "Adenosine (high levels)"
+      - "Cordycepic acid (D-mannitol)"
+      - "CS-4 polysaccharides (beta-glucans; immunomodulatory)"
+      - "Ergosterol and ergosterol peroxide"
+      - "Nucleosides: uridine, uracil, hypoxanthine"
+    medicinal_research:
+      - "Cordycepin inhibits mRNA polyadenylation and has demonstrated antitumor, antifungal, and antiviral activity"
+      - "ATP/adenosine modulation linked to improved athletic performance (oxygen utilization)"
+      - "Immunomodulatory polysaccharides activate macrophages and NK cells"
+      - "Traditional use: lung tonic, kidney yang tonic, sexual tonic — some clinical support"
+      - "Anti-fatigue effects demonstrated in animal models"
+      - "Cordycepin shows antiviral activity against multiple RNA viruses including influenza"
+      - "Note: O. sinensis biochemistry differs from cultivated C. militaris — wild specimens contain more complex metabolite profile"
+  conservation:
+    status: "Near Threatened (IUCN informal assessment); declining populations"
+    threats:
+      - "Climate change reducing high-altitude grassland habitat and host moth populations"
+      - "Overexploitation due to extreme commercial value"
+      - "Habitat degradation from overgrazing"
+      - "Early/illegal harvesting of immature specimens"
+  data_sources:
+    - "MycoBank MB 503002"
+    - "Sung et al. (2007) Studies in Mycology 57 — reclassification"
+    - "Holliday & Cleaver (2008) eCAM — Cordyceps review"
+    - "Yue et al. (2013) Fungal Diversity — ecological studies"
+    - "Index Fungorum IF 503002"

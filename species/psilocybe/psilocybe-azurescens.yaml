@@ -1,0 +1,147 @@
+species:
+  name: Psilocybe azurescens
+  common_names:
+    - Flying saucer mushroom
+    - Azzies
+    - Blue angels
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Hymenogastraceae
+    genus: Psilocybe
+    species: azurescens
+    binomial: Psilocybe azurescens
+    author: "Stamets & Gartz"
+    year_described: 1995
+    taxonomic_history:
+      - "1979: First discovered by a Boy Scout troop near the Columbia River, Oregon"
+      - "1995: Formally described by Paul Stamets and Jochen Gartz"
+      - "Species named for the intense azure (blue) staining reaction"
+    mycobank_id: "MB 414563"
+  morphology:
+    cap:
+      diameter_cm: "3–10"
+      shape: "broadly convex with distinct broad umbo (central bump) when young; expanding to nearly plane with umbo persistent; margin often wavy at maturity"
+      color: "hygrophanous: dark chestnut-brown to caramel when moist; drying to buff to light straw from center outward; center typically remaining darker"
+      surface: "smooth, viscid; gelatinous pellicle present; surface often cracked in dry conditions"
+    gills:
+      attachment: "adnate to adnexed"
+      color: "cream to grey when young; darkening to deep violet-brown to nearly black at maturity; edges paler"
+      spacing: "close to crowded"
+    stipe:
+      height_cm: "9–20"
+      diameter_cm: "0.3–0.6"
+      color: "white; aging to bluish-grey; base strongly bluish-black from bruising"
+      texture: "smooth; silky-fibrous; stiff; hollow at maturity"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "subellipsoid; slightly inequilateral in profile"
+      dimensions_μm: "11.9–14.5 × 6.5–8"
+      color_in_mass: "dark purple-brown"
+      wall: "smooth; thick; with germ pore"
+    spore_print: "dark purple-brown to purple-black"
+    flesh:
+      color: "white; immediately turning vivid, intense blue upon any damage — the most intense bluing of all Psilocybe species"
+      texture: "firm when young"
+      odor: "farinaceous (flour-like)"
+      taste: "slightly bitter, mealy"
+    notable_morphological_feature: |
+      Psilocybe azurescens is the most potent known psilocybin mushroom by dry weight.
+      The combination of large size (for a Psilocybe), strongly umbonate cap, long
+      stipe, and the most intense bluing reaction in the genus make it distinctive.
+      It is strictly coastal, growing among dune grasses. The tall stipe relative
+      to cap size is a useful character. The "flying saucer" name refers to the
+      broadly convex cap with central umbo viewed from above.
+  habitat:
+    substrate: "sandy coastal soils, wood debris, dune grass roots and rhizomes"
+    ecosystem:
+      - coastal sand dunes
+      - beachgrass-stabilized dunes
+      - riparian areas near Columbia River estuary
+      - wood debris in coastal settings
+    associated_hosts:
+      - Ammophila breviligulata (American beachgrass)
+      - Salix (willow) wood debris
+      - Alnus (alder) debris
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Columbia River delta, Oregon–Washington border; southern Oregon coast (USA)"
+    global: false
+    elevation_m: "0–50 (strictly coastal)"
+    notes: |
+      Very restricted native range: primarily the Columbia River estuary area and
+      adjacent Oregon coast. Has been introduced to wood chip beds in urban areas
+      of the Pacific Northwest and reportedly established in parts of Germany and
+      the Netherlands. Outside its native range, it is rare. The restricted coastal
+      habitat and specific substrate preferences limit its natural distribution.
+  edibility:
+    status: "PSYCHOACTIVE — most potent known Psilocybe species; illegal in most jurisdictions"
+    legal_status: |
+      Schedule I controlled substance. Illegal to possess, collect, or cultivate
+      in the USA, EU, and most countries worldwide.
+    notes: |
+      The most potent known Psilocybe, with psilocybin up to 1.78% dry weight,
+      psilocin 0.38%, and baeocystin 0.35%. Combined tryptamine content exceeds
+      all other described Psilocybe species. Effects are characteristically intense
+      and long-lasting (5–8 hours). "Wood lover's paralysis" (temporary, reversible
+      lower body weakness or paralysis) has been reported at high doses of P. azurescens
+      and related wood-chip-inhabiting species; the causative compound is unknown
+      (not psilocybin). This risk distinguishes large-dose consumption of wood-loving
+      Psilocybe from other species.
+    lookalikes:
+      - species: "Galerina marginata"
+        danger: "DEADLY — alpha-amanitin"
+        distinguishing_features: "Galerina: rusty-brown spore print; ring; no bluing; smaller; not on dune grass"
+      - species: "Pholiota species"
+        danger: "mildly toxic"
+        distinguishing_features: "Pholiota: scaly cap; rusty-brown spores; no bluing"
+      - species: "Psilocybe cyanescens"
+        danger: "psychoactive (not dangerous, but important to distinguish)"
+        distinguishing_features: "P. cyanescens: smaller cap, more pronounced wavy margin, less strongly umbonate, not coastal"
+  lifecycle:
+    fruiting_season: "late September to early January; peak October–November; can fruit after frost"
+    fruiting_triggers:
+      - autumn cooling (optimal 10–14°C)
+      - coastal fog and rain
+      - temperature drops following first frost events
+    mycelium_type: "white; rhizomorphic; penetrates sandy substrate and woody debris"
+    spore_dispersal: "wind dispersal; coastal wind assists long-distance spread"
+  cultivation:
+    commercial: false
+    difficulty: "Difficult; requires wood chip substrate and cool temperatures"
+    substrate:
+      - wood chips (alder, willow)
+      - enriched sandy substrate with wood chips
+      - outdoor coastal beds
+    spawn_type: "colonized grain or agar culture transferred to outdoor beds"
+    fruiting_temp_c: "10–18"
+    incubation_temp_c: "21–24"
+    notes: |
+      Can be grown in outdoor wood chip beds in cool temperate climates but requires
+      patience and appropriate substrate. Will not fruit on typical indoor grain/straw
+      substrates reliably. Illegal to cultivate in most jurisdictions.
+  biochemistry:
+    compounds:
+      - "Psilocybin (4-phosphoryloxy-DMT) — 1.78% dry weight (highest known in genus)"
+      - "Psilocin (4-hydroxy-DMT) — 0.38% dry weight"
+      - "Baeocystin — 0.35% dry weight (also highest known)"
+      - "Aeruginascin (putative entourage compound) — minor"
+    medicinal_research:
+      - "Highest known natural psilocybin source; research interest for pharmaceutical extraction"
+      - "Baeocystin content may contribute to distinct qualitative effects vs. P. cubensis"
+      - "Psilocybin mechanism: 5-HT2A receptor agonist; default mode network suppression"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - coastal dune stabilization and beachgrass management
+      - coastal development
+  data_sources:
+    - "MycoBank MB 414563"
+    - "Stamets & Gartz (1995) A new caerulescent Psilocybe from the Pacific Coast of Northwestern America — Integration 6: 21–27"
+    - "Stamets (1996) Psilocybin Mushrooms of the World"
+    - "Ott (1993) Pharmacotheon"
+    - "Index Fungorum"

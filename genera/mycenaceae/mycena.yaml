@@ -1,0 +1,57 @@
+genus:
+  name: Mycena
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Mycenaceae
+    genus: Mycena
+    established: 1821
+    author: "(Pers.) Roussel"
+    mycobank_id: "MB 18337"
+  description: |
+    Mycena is one of the largest genera of gilled fungi, with ~500 described
+    species and many more undescribed. Members are uniformly small, delicate,
+    bell-shaped mushrooms with thin fragile flesh and white spore prints, growing
+    saprotrophically on dead wood, leaf litter, bark, and other plant debris.
+    Mycena is an ecologically vital genus, serving as a primary decomposer of
+    forest litter and fine woody debris in temperate and tropical forests.
+    The genus is famous for including approximately 100 bioluminescent species—
+    the largest group of luminescent fungi in any single genus—including
+    M. chlorophos (tropical ghost mushroom), M. luxaeterna (eternal light Mycena
+    of Brazil), and M. haematopus (bleeding mycena). The biochemical basis of
+    bioluminescence involves hispidin (a styrylpyrone) as a luciferin precursor,
+    oxidized by a luciferase enzyme requiring molecular oxygen.
+  morphology:
+    cap:
+      shape: "conic to campanulate (bell-shaped); rarely expanding"
+      color: "white, grey, pink, lilac, brown, orange — highly variable by species"
+      diameter_cm: "0.2–3 in most species"
+    gills:
+      attachment: "adnate to adnexed; often with decurrent tooth"
+      spacing: "widely spaced; thin"
+    stipe:
+      texture: "slender, hair-like, fragile; hollow"
+    spore_print: "white"
+    distinctive_features:
+      - "Some species exude colored latex: M. haematopus (blood-red), M. crocata (orange)"
+      - "~100 species bioluminescent, including M. chlorophos, M. luxaeterna"
+  species_count: 500
+  key_species:
+    - Mycena chlorophos (ghost mushroom — strongly bioluminescent)
+    - Mycena luxaeterna (eternal light — bioluminescent, Brazil)
+    - Mycena haematopus (bleeding mycena — red latex)
+    - Mycena galericulata (common bonnet — very widespread)
+    - Mycena epipterygia (yellowleg bonnet)
+    - Mycena rorida (dripping bonnet)
+  ecological_roles:
+    - Primary decomposers of forest litter and coarse woody debris
+    - White rot fungi decomposing lignin and cellulose
+    - Key nutrient cycling role in temperate and tropical forests
+    - Pioneer colonizers of freshly dead plant material
+  data_sources:
+    - "MycoBank MB 18337"
+    - "Maas Geesteranus (1992) Mycenas of the Northern Hemisphere"
+    - "Desjardin et al. (2010) Bioluminescent Mycena species of the neotropics"
+    - "Index Fungorum"

@@ -1,0 +1,144 @@
+species:
+  name: Psilocybe cyanescens
+  common_names:
+    - Wavy cap
+    - Potent Psilocybe
+    - Blue halo
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Hymenogastraceae
+    genus: Psilocybe
+    species: cyanescens
+    binomial: Psilocybe cyanescens
+    author: "Wakef."
+    year_described: 1946
+    taxonomic_history:
+      - "1946: Described by Elsie Maud Wakefield from Kew Gardens, England"
+      - "First documented from wood chips in the Royal Botanic Gardens, Kew"
+      - "Late 20th century: Rapid expansion throughout Europe and Pacific Northwest via landscape mulch trade"
+      - "2010: Molecular studies confirm Hymenogastraceae placement"
+    mycobank_id: "MB 296682"
+  morphology:
+    cap:
+      diameter_cm: "2–5"
+      shape: "convex when young; broadly umbonate; developing characteristically wavy, undulating margin at maturity — the defining field character"
+      color: "hygrophanous: rich caramel to cinnamon-brown when moist; drying rapidly to buff, straw, or light ochre from center outward"
+      surface: "smooth, viscid when moist with separable gelatinous pellicle; wavy margin often ribbed/striate"
+    gills:
+      attachment: "adnate to adnate-uncinate"
+      color: "pale grey when young; deep brown-purple to violet-brown at maturity; edges paler"
+      spacing: "crowded to close"
+    stipe:
+      height_cm: "4–8"
+      diameter_cm: "0.3–0.6"
+      color: "white to pale grey-white; base with white rhizomorphic mycelium"
+      texture: "smooth, silky-fibrous; often with longitudinal fibers"
+      ring: "absent (though fibrillose veil traces sometimes visible)"
+      volva: "absent"
+    spores:
+      shape: "subellipsoid to broadly ellipsoid"
+      dimensions_μm: "9–12 × 5–7"
+      color_in_mass: "dark purple-brown"
+      wall: "smooth; thick; with germ pore"
+    spore_print: "dark purple-brown to purple-black"
+    flesh:
+      color: "white; instantly and intensely turning vivid blue when cut or bruised — among the strongest bluing reactions of any Psilocybe"
+      texture: "firm when fresh, fragile"
+      odor: "farinaceous (flour-like)"
+      taste: "mealy, slightly bitter"
+    notable_morphological_feature: |
+      The wavy, undulating cap margin in mature specimens is the most distinctive
+      visual feature and gives the species its common name. The extreme and rapid
+      blue-staining of all parts when damaged is the most reliable chemical indicator.
+      P. cyanescens is strictly lignicolous — it grows on wood chips and mulch,
+      never on dung or soil, distinguishing it from P. cubensis and P. semilanceata.
+  habitat:
+    substrate: "wood chips, mulched garden beds, wood debris, sandy soil rich in woody fragments"
+    ecosystem:
+      - mulched urban garden beds
+      - woodland edges with wood chip paths
+      - parks and amenity plantings
+      - riparian areas with wood debris
+    associated_hosts:
+      - wood chip mulch (various hardwoods and conifers)
+      - Rosa (rose) shrub plantings (common mulched garden)
+      - Salix (willow) wood debris
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Pacific Northwest, North America (Oregon, Washington, British Columbia); UK (original collection, Kew Gardens, 1946)"
+    global: false
+    elevation_m: "0–500"
+    notes: |
+      Has undergone significant range expansion through the 20th century, spreading
+      throughout temperate Europe (Germany, Netherlands, Czech Republic, Austria)
+      and parts of New Zealand and Australia, apparently via the international trade
+      in landscape wood chip mulch. Now locally common in urban parks wherever
+      wood chip mulch is used. Invasive behavior documented.
+  edibility:
+    status: "PSYCHOACTIVE — contains psilocybin and psilocin; illegal in most jurisdictions"
+    legal_status: |
+      Schedule I substance. Illegal in most countries. Grows commonly in public
+      parks, raising occasional public health concerns.
+    notes: |
+      One of the most potent Psilocybe species commonly encountered in nature.
+      Average psilocybin 0.85% dry weight, psilocin 0.36%, baeocystin 0.03%.
+      Effects similar to P. cubensis but reportedly more intense at equivalent doses.
+      Duration 4–6 hours. "Wood lover paralysis" (transient lower limb weakness)
+      reported after consuming large quantities; cause unknown, may be unrelated to
+      psilocybin. Onset ~30 minutes after ingestion.
+    lookalikes:
+      - species: "Galerina marginata"
+        danger: "DEADLY — alpha-amanitin; similar size, color, and habitat on wood"
+        distinguishing_features: "Galerina: rusty-brown spore print, ring on stipe, NO bluing; P. cyanescens: dark purple-brown spore print, NO ring, strong bluing"
+      - species: "Pholiota species"
+        danger: "mildly toxic; gastrointestinal irritant"
+        distinguishing_features: "Pholiota: rusty-brown spores, scaly cap, typically no bluing"
+      - species: "Hypholoma fasciculare (sulphur tuft)"
+        danger: "toxic — gastrointestinal"
+        distinguishing_features: "Sulphur-yellow cap and stipe; bitter taste; purple-brown spore print but yellow gills"
+  lifecycle:
+    fruiting_season: "autumn to early winter (October–January in Northern Hemisphere); can fruit after first frosts"
+    fruiting_triggers:
+      - cooling temperatures (10–16°C)
+      - autumn rainfall
+      - high humidity following dry period
+    mycelium_type: "white; rhizomorphic; penetrates wood chip substrate"
+    spore_dispersal: "wind; passive dispersal via wood chip movement"
+  cultivation:
+    commercial: false
+    difficulty: "Moderate; more demanding than P. cubensis"
+    substrate:
+      - wood chips (oak, alder, beech)
+      - pasteurized wood-based substrate
+      - outdoor wood chip beds (most successful)
+    spawn_type: "colonized grain spawn or agar culture"
+    fruiting_temp_c: "10–18"
+    incubation_temp_c: "21–24"
+    notes: |
+      P. cyanescens can be cultivated but requires lignicolous substrate (wood chips),
+      unlike the dung/straw-tolerant P. cubensis. Outdoor beds in cool climates
+      can produce for multiple seasons. Illegal to cultivate in most jurisdictions.
+  biochemistry:
+    compounds:
+      - "Psilocybin (4-phosphoryloxy-DMT) — 0.85% dry weight (average)"
+      - "Psilocin (4-hydroxy-DMT) — 0.36% dry weight (average)"
+      - "Baeocystin — 0.03% dry weight"
+    medicinal_research:
+      - "Research interest in psilocybin from P. cyanescens as high-potency source"
+      - "Psilocybin clinical trials (see Psilocybe cubensis data sources)"
+      - "Phenylethylamine-based analogs being researched for neuroplasticity"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - reduction in urban wood chip mulch use
+      - pesticide application in parks
+  data_sources:
+    - "MycoBank MB 296682"
+    - "Wakefield (1946) New and interesting British fungi — Transactions of the British Mycological Society"
+    - "Stamets & Gartz (1995) A new caerulescent Psilocybe from the Pacific Coast"
+    - "Gartz (1994) Psilocybin content of P. cyanescens"
+    - "Index Fungorum"

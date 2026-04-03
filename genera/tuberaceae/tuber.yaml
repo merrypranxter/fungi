@@ -1,0 +1,15 @@
+genus:
+  name: Tuber
+  parent: Tuberaceae
+  phylum: Ascomycota
+  class: Pezizomycetes
+  order: Pezizales
+  family: Tuberaceae
+  species_count: ~185
+  notes: |
+    The true truffles. Hypogeous ascomycetes with warty or smooth outer surface
+    (peridium) and marbled interior (gleba) with asci-bearing veins. Obligate
+    ectomycorrhizal symbionts with trees (oak, hazel, poplar, pine). Species
+    identified by spore ornamentation, peridium texture, gleba color, and aroma
+    chemistry. Most economically important genus in mycology. Key species include
+    T. melanosporum, T. magnatum, T. aestivum, T. borchii, and T. brumale.

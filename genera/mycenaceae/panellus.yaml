@@ -1,0 +1,50 @@
+genus:
+  name: Panellus
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Mycenaceae
+    genus: Panellus
+    established: 1879
+    author: "P. Karst."
+    mycobank_id: "MB 18572"
+  description: |
+    Panellus is a genus of ~25 species of small, laterally stipitate or sessile
+    bracket-like mushrooms in Mycenaceae, growing on decaying hardwood logs.
+    The genus is best known for Panellus stipticus, one of the most widely
+    distributed bioluminescent fungi. Panellus species have kidney-shaped to
+    fan-shaped caps, crowded narrow gills, and white spore prints. The bitter,
+    astringent taste (stypticus = astringent) is a common feature used historically
+    as a styptic—to stop bleeding. Bioluminescence in Panellus occurs in the
+    mycelium and gill tissue, powered by a luciferin-luciferase system involving
+    hispidin and related styrylpyrone compounds. Genetic variation within
+    P. stipticus explains why North American populations glow strongly while
+    European populations show minimal or no luminescence.
+  morphology:
+    cap:
+      shape: "kidney-shaped to fan-shaped; sessile or with short lateral stipe"
+      color: "buff, tan, ochre to pale brown"
+      diameter_cm: "1–5"
+    gills:
+      attachment: "crowded; decurrent down stipe"
+      color: "pale buff to cream"
+    stipe:
+      attachment: "lateral or excentric; short or absent"
+    spore_print: "white"
+    bioluminescence: "present in mycelium and gill tissue (North American populations)"
+  species_count: 25
+  key_species:
+    - Panellus stipticus (bitter oyster — bioluminescent)
+    - Panellus ringens (split gill relative)
+    - Panellus pusillus (small Panellus)
+  ecological_roles:
+    - White rot decomposers of hardwood logs
+    - Saprotrophic colonizers of dead oak, beech, birch
+    - Pioneer colonizers of bark-free dead wood
+  data_sources:
+    - "MycoBank MB 18572"
+    - "Burdsall & Miller (1975) Panellus revision"
+    - "Desjardin et al. (2008) Bioluminescence in Panellus"
+    - "Index Fungorum"

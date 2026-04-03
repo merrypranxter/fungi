@@ -1,0 +1,202 @@
+species:
+  name: Claviceps purpurea
+  common_names:
+    - Ergot
+    - Ergot of rye
+    - St. Anthony's Fire fungus
+    - Spurred rye
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    order: Hypocreales
+    family: Clavicipitaceae
+    genus: Claviceps
+    species: purpurea
+    binomial: Claviceps purpurea
+    author: "(Fr.) Tul."
+    year_described: 1853
+    taxonomic_history:
+      - "1815: Fries described the sclerotium as Sclerotium clavus"
+      - "1853: Tulasne transferred it to the new genus Claviceps as C. purpurea"
+      - "1918: Albert Stoll isolated ergotamine — first pure ergot alkaloid"
+      - "1938: Albert Hofmann first synthesized LSD-25 from lysergic acid derived from ergot"
+    mycobank_id: "MB 139659"
+  morphology:
+    cap:
+      diameter_cm: "Not applicable — not a typical agaricoid mushroom"
+      shape: "Not applicable"
+      color: "Not applicable"
+      surface: "Not applicable"
+    gills:
+      attachment: "Not applicable — ascomycete with perithecia"
+      color: "Not applicable"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "Not applicable"
+      diameter_cm: "Not applicable"
+      color: "Not applicable"
+      texture: "Not applicable"
+      ring: "absent"
+      volva: "absent"
+    sclerotium:
+      shape: "elongated, curved, club-shaped or spur-shaped (from which the name 'ergot' derives)"
+      dimensions: "1–5 cm long × 2–5 mm wide"
+      color: "dark purple-black to near-black externally; white to pale grey-white internally"
+      surface: "hard, horny texture when fresh; slightly rough surface"
+      position: "replaces ovary in grass floret; protrudes beyond glumes"
+    stroma:
+      shape: "small club-shaped (clavate) with stipitate base; 1–2 cm tall"
+      color: "pink to violet; fading to straw-colored"
+      perithecia: "flask-shaped; embedded in the stroma head; ostioles opening at surface"
+      timing: "produced from overwintered sclerotia in spring"
+    spores:
+      shape: "ascospores filiform (thread-like), unitunicate"
+      dimensions_μm: "50–75 × 0.5–1"
+      color_in_mass: "pale yellow"
+      wall: "smooth; hyaline"
+    spore_print: "Not applicable — not a gilled fungus; ascospores ejected from perithecia"
+    flesh:
+      color: "white to cream internally (sclerotium); exterior dark purple-black"
+      texture: "hard, brittle when dry; slightly soft when fresh"
+      odor: "faintly musty; sweet-acrid when fresh"
+      taste: "acrid, unpleasant (DO NOT TASTE — toxic)"
+    notable_morphological_feature: |
+      Claviceps purpurea is unique in the fungal kingdom: it parasitizes cereal
+      grass ovaries, replacing the developing grain with a dark purple-black,
+      curved sclerotium called an ergot, prominently protruding from the ear
+      of grain. The sclerotium is not a fruiting body but a survival structure
+      (densely packed mycelium with food reserves and alkaloids). In spring,
+      the overwintered sclerotium germinates to produce small club-shaped
+      stromata bearing perithecia. This life cycle — sclerotium → stroma →
+      perithecia → ascospores → infection — is unique among major fungal pathogens.
+      There are no gills, no cap, and no typical mushroom structure.
+  habitat:
+    substrate: "ovaries of Secale cereale (rye) and other grass species"
+    ecosystem:
+      - rye fields
+      - wheat and barley crops
+      - grass seed production fields
+      - roadside and wild grass populations
+    associated_hosts:
+      - Secale cereale (rye — primary host, most susceptible)
+      - Triticum aestivum (wheat)
+      - Hordeum vulgare (barley)
+      - Phalaris arundinacea (reed canary grass)
+      - Agrostis (bent grasses — wild)
+      - Poa pratensis (Kentucky bluegrass — wild)
+      - Lolium perenne (perennial ryegrass)
+    mycorrhizal: false
+    saprotrophic: false
+  distribution:
+    native_range: "Cosmopolitan; wherever temperate cereal crops are grown"
+    global: true
+    elevation_m: "0–3000; follows cereal cultivation globally"
+    notes: |
+      Now distributed globally, following the spread of cereal agriculture.
+      European rye cultivation historically most affected. Still a significant
+      crop pathogen, though modern grain cleaning and fungicide treatments
+      greatly reduce contamination. Organic and heritage grain operations
+      remain at risk.
+  edibility:
+    status: "DEADLY TOXIC — ergot alkaloids cause ergotism; historically caused mass poisoning"
+    toxins:
+      - compound: "Ergotamine"
+        mechanism: "Vasoconstrictor; alpha-adrenergic agonist and partial serotonin agonist; causes arterial spasm, reducing blood flow to extremities"
+        lethal_dose: "Ergotism dose-dependent; prolonged consumption of contaminated grain; acute lethal dose ergotamine ~500 mg (much lower in susceptible individuals)"
+        onset_hours: "Gangrenous ergotism: days to weeks of chronic ingestion; convulsive ergotism: hours to days"
+      - compound: "Ergotoxine (ergocristine, ergocryptine, ergocornine)"
+        mechanism: "Mixture of ergopeptine alkaloids; vasoconstriction and uterotonic effects; central nervous system excitation"
+        lethal_dose: "Depends on mixture and exposure duration"
+        onset_hours: "12–72 hours for acute effects"
+      - compound: "Ergonovine (ergometrine)"
+        mechanism: "Potent uterotonic (causes uterine contraction); vasoconstriction; dopamine agonist"
+        lethal_dose: "Medically used at 0.2 mg; toxic at higher doses"
+        onset_hours: "Rapid — 1–2 hours"
+      - compound: "Lysergic acid amide (ergine)"
+        mechanism: "Partial LSD-like psychedelic activity; 5-HT2A partial agonist"
+        lethal_dose: "Not typically lethal; primarily psychoactive"
+        onset_hours: "1–2 hours"
+    clinical_course: |
+      Two classical forms of ergotism:
+
+      GANGRENOUS ERGOTISM ("St. Anthony's Fire"):
+      Caused by vasoconstrictive alkaloids (ergotamine, ergotoxine). Days to weeks
+      of chronic contaminated grain consumption causes progressive arterial spasm
+      in peripheral vessels. Symptoms: tingling and burning sensations in extremities
+      (hence "fire"), followed by dry gangrene of feet, hands, nose, ears.
+      Affected limbs turn black and fall off without pain in advanced cases.
+      Historically killed thousands in medieval Europe; last major outbreak
+      in 1951, Pont-Saint-Esprit, France (250+ affected, 5+ deaths).
+
+      CONVULSIVE ERGOTISM:
+      Dominated by CNS symptoms: epileptiform seizures, spasms, hallucinations,
+      mania, psychosis. Historical outbreaks in Germany and Scandinavia.
+      Thought by some historians to underlie the Salem witch trials hysteria (1692).
+
+      ACUTE POISONING:
+      Vomiting, diarrhea, abdominal cramps, thirst, burning mouth. Uterine
+      contractions (spontaneous abortion risk).
+
+      Treatment: Cessation of exposure; vasodilators; supportive care;
+      anticoagulants for vascular complications; no specific antidote.
+    notes: |
+      Paradoxically, ergot alkaloids are medically important. Ergotamine is used
+      to treat acute migraine attacks. Ergonovine (ergometrine) prevents postpartum
+      hemorrhage. Bromocriptine (semi-synthetic ergot derivative) treats Parkinson's
+      disease and hyperprolactinemia. LSD (lysergic acid diethylamide) was first
+      synthesized by Albert Hofmann at Sandoz Laboratories in 1938 from lysergic acid
+      extracted from ergot, accidentally discovering its psychedelic properties in 1943.
+      Ergot thus links medieval catastrophe, modern medicine, and counterculture history.
+    lookalikes:
+      - species: "Grass grains (healthy)"
+        danger: "none"
+        distinguishing_features: "Ergot sclerotia are elongated, curved, dark purple-black, protruding beyond the seed coat"
+  lifecycle:
+    fruiting_season: "sclerotia mature in summer (with grain harvest); stromata produced following spring; secondary conidia produced throughout infection season"
+    fruiting_triggers:
+      - grass flowering (anthesis) — infection requires open florets
+      - mild temperatures (18–25°C)
+      - damp weather during flowering
+    mycelium_type: "biotrophic hyphae within host ovary; honeydew (Sphaelia stage) as sticky conidial mass"
+    spore_dispersal: "conidia in sticky 'honeydew' — dispersed by rain splash, insects, and wind; ascospores wind-dispersed from spring stromata"
+  cultivation:
+    commercial: false
+    difficulty: "Cultivated only as an agricultural pathogen for pharmaceutical production"
+    substrate:
+      - rye fields (deliberate inoculation for alkaloid production)
+    spawn_type: "conidial suspension applied to grass at anthesis"
+    fruiting_temp_c: "Not applicable"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      Claviceps purpurea is commercially cultivated on rye crops in controlled
+      conditions solely for the production of ergot alkaloids for pharmaceutical
+      use (ergotamine, ergonovine, bromocriptine precursors). This is tightly
+      regulated agricultural production, not culinary or recreational cultivation.
+  biochemistry:
+    compounds:
+      - "Ergotamine (vasoconstrictor — antimigraine)"
+      - "Ergonovine/ergometrine (uterotonic — obstetric use)"
+      - "Ergotoxine group: ergocristine, ergocryptine, ergocornine (vasoactive)"
+      - "Lysergic acid (LSD precursor — synthesized by Hofmann 1938)"
+      - "Lysergic acid amide (ergine — partial psychedelic activity)"
+      - "Agroclavine, elymoclavine (simple clavine alkaloids)"
+    medicinal_research:
+      - "Ergotamine: FDA-approved for acute migraine treatment"
+      - "Ergonovine: WHO essential medicine for postpartum hemorrhage"
+      - "Bromocriptine (semi-synthetic): approved for Parkinson's, hyperprolactinemia, type 2 diabetes"
+      - "LSD (lysergic acid diethylamide): first synthesized 1938 by Albert Hofmann; clinical trials ongoing for cluster headaches, depression"
+      - "Ergot alkaloid biosynthesis fully elucidated — model for natural product research"
+  conservation:
+    status: "Not applicable (pathogen)"
+    threats:
+      - modern fungicide treatments reducing sclerotia in crops
+      - grain cleaning and grading technology
+  data_sources:
+    - "MycoBank MB 139659"
+    - "Tulasne & Tulasne (1853) Selecta Fungorum Carpologia"
+    - "Hofmann (1979) LSD: My Problem Child"
+    - "Schiff (2006) Ergot and its alkaloids — American Journal of Pharmacy Education"
+    - "Lorenz (1979) Ergotism: the Satan Loosed in Salem?"
+    - "Tudzynski et al. (2001) Ergot alkaloid biosynthesis in Claviceps purpurea"
+    - "Index Fungorum"

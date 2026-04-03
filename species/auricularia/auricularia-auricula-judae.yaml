@@ -1,0 +1,149 @@
+species:
+  name: Auricularia auricula-judae
+  common_names:
+    - Jelly ear
+    - Wood ear
+    - Judas ear
+    - Jew's ear (historical name, now considered offensive)
+    - Black fungus (Chinese cuisine)
+    - Mu Er (木耳, Chinese)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Auriculariales
+    family: Auriculariaceae
+    genus: Auricularia
+    species: auricula-judae
+    binomial: Auricularia auricula-judae
+    author: "(Bull.) Quél."
+    year_described: 1886
+    taxonomic_history:
+      - "1789: Described as Tremella auricula-judae by Jean Baptiste François Pierre Bulliard"
+      - "1886: Transferred to Auricularia by Lucien Quélet"
+      - "The name auricula-judae (Judas's ear) refers to the legend that Judas Iscariot hanged himself from an elder tree (Sambucus nigra)"
+    mycobank_id: "MB 177063"
+  morphology:
+    cap:
+      diameter_cm: "3–12"
+      shape: "ear-shaped to cup-shaped; attached to wood at narrow point; margin wavy and lobed"
+      color: "translucent brown to amber-brown, paler tan when dry; rubbery gelatinous texture"
+      surface: "outer surface (upper/attached side) smooth with slight veins; inner surface (concave/lower) finely hairy, grey-brown"
+    gills:
+      attachment: "Not applicable — no gills; smooth to slightly veined hymenium on concave inner surface"
+      color: "smooth brown to grey-brown (hymenium on inner surface)"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "Not applicable (sessile — attached directly to wood)"
+      diameter_cm: "Not applicable"
+      color: "Not applicable"
+      texture: "gelatinous, rubbery; dries to a hard horny chip; rehydrates on rewetting"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "cylindrical to allantoid (sausage-shaped / curved)"
+      dimensions_μm: "14–20 × 5–7"
+      color_in_mass: "white"
+      wall: "smooth, thin"
+    spore_print: "white"
+    flesh:
+      color: "translucent brown"
+      texture: "gelatinous, rubbery, elastic; collapses when dry and rehydrates when wet"
+      odor: "mild, barely perceptible"
+      taste: "mild, almost tasteless; prized for texture"
+    notable_morphological_feature: |
+      Auricularia auricula-judae is named for its remarkable resemblance to a human
+      ear — lobed, concave, and ear-shaped. The fruiting body is gelatinous and
+      translucent when fresh, becoming a hard, brittle chip when dried (shrinking to
+      1/10 volume), then fully rehydrating when soaked in water. This elastic, rubbery
+      texture — with no culinary counterpart in non-fungal foods — is the species'
+      most prized characteristic in Asian cooking. Basidia are uniquely transversely
+      septate (phragmobasidia) with 4 sterigmata, producing elongated allantoid spores.
+  habitat:
+    substrate: "dead and decaying hardwood trunks and branches"
+    ecosystem:
+      - temperate deciduous forests
+      - urban parks and hedgerows
+    associated_hosts:
+      - Sambucus nigra (elder) — primary wild host
+      - Fagus (beech)
+      - Ulmus (elm)
+      - Acer (maple)
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Europe, Asia, Americas; cosmopolitan in temperate and subtropical zones"
+    global: true
+    elevation_m: "0–1500"
+  edibility:
+    status: "edible"
+    preparation:
+      - dried and rehydrated for use in Asian cooking
+      - stir-fried
+      - in hot and sour soup (酸辣湯)
+      - in mapo tofu and other Chinese dishes
+      - in salads (blanched)
+    notes: |
+      Auricularia auricula-judae is one of the most important cultivated mushrooms
+      globally, being the fourth most produced mushroom worldwide (~7 million tonnes/year,
+      90% from China). Prized almost entirely for texture rather than flavor — it has
+      a uniquely satisfying gelatinous, crunchy, cartilage-like texture that holds up
+      well in stir-fries. The dried form is a pantry staple in Chinese, Japanese, and
+      Korean cuisines. Sold dried (black fungus) or fresh in Asian grocery stores.
+      Important component of traditional Chinese medicine for blood health. The species
+      is also reported in European cuisines but historically underutilized in the West.
+    lookalikes:
+      - species: "Exidia glandulosa (black witch's butter)"
+        danger: "inedible (not toxic but unappealing)"
+        distinguishing_features: "E. glandulosa is black, brain-like/warty, not ear-shaped, with distinct wart-like glands on surface"
+      - species: "Tremella mesenterica (yellow brain)"
+        danger: "safe (edible)"
+        distinguishing_features: "T. mesenterica is bright yellow, brain-like lobes, entirely different appearance"
+  lifecycle:
+    fruiting_season: "year-round, especially prominent autumn through spring; less common in dry summer"
+    fruiting_triggers:
+      - moisture (rain after dry periods)
+      - mild temperatures
+    mycelium_type: "white, cord-like in substrate wood"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: true
+    difficulty: "beginner"
+    substrate:
+      - hardwood sawdust (oak, beech)
+      - supplemented with wheat bran or rice bran
+      - cottonseed hulls
+    spawn_type: "grain spawn or sawdust spawn"
+    fruiting_temp_c: "15–25"
+    incubation_temp_c: "24–28"
+    notes: |
+      One of the most commercially important cultivated mushrooms globally, with China
+      dominating production (~90% of world supply). Cultivation methods use sterilized
+      or pasteurized sawdust bags. Fruiting is induced by high humidity and temperature
+      slightly lower than incubation. Multiple flushes over 3–6 months. Some strains
+      optimized for large ear size, others for cold tolerance. Two main species are
+      cultivated: A. auricula-judae (black/jelly ear, larger ears, common in Japan
+      and Europe) and A. polytricha (cloud ear / wood ear — smaller, hairier outer
+      surface, dominant in Chinese market).
+  biochemistry:
+    compounds:
+      - "Acidic polysaccharides (anticoagulant — inhibit platelet aggregation)"
+      - "Auricularia auricula-judae polysaccharide (AAJP; immunomodulatory)"
+      - "Ergosterol (provitamin D2)"
+      - "Melanins (dark pigments; antioxidant)"
+      - "Phenolic compounds (gallic acid, protocatechuic acid)"
+    medicinal_research:
+      - "Polysaccharides shown to inhibit platelet aggregation (anticoagulant effect) — significant at high doses, caution with blood thinners"
+      - "Blood glucose-lowering effect demonstrated in animal models"
+      - "Anti-tumor polysaccharides (beta-glucan fraction) in animal studies"
+      - "Traditional Chinese medicine: used for blood disorders, iron-deficiency anemia, and as blood tonic"
+      - "High iron content (relevant for dietary supplement use)"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 177063"
+    - "Quélet (1886) Enchiridion Fungorum"
+    - "Wasser (2011) International Journal of Medicinal Mushrooms"
+    - "Index Fungorum IF 177063"
+    - "Chang & Miles (2004) Mushrooms: Cultivation, Nutritional Value, Medicinal Effect"

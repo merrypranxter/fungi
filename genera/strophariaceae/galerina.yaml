@@ -1,0 +1,56 @@
+genus:
+  name: Galerina
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Strophariaceae
+    genus: Galerina
+    established: 1935
+    author: "Earle"
+    mycobank_id: "MB 17978"
+  description: |
+    Galerina is a genus of ~300 species of small, brown, ring-bearing mushrooms,
+    all saprotrophic on wood, moss, or plant debris. The genus was formerly placed
+    in Cortinariaceae but belongs in Strophariaceae based on molecular evidence.
+    Galerina is notorious for containing several species with amatoxins (especially
+    alpha-amanitin) at concentrations equal to the death cap (Amanita phalloides).
+    Galerina marginata is responsible for multiple fatalities annually, primarily
+    due to confusion with edible honey mushrooms (Armillaria), enoki (Flammulina),
+    or—most dangerously—with Psilocybe species sought for their psychoactive properties.
+    The genus is distinguished by rusty-brown spore prints, small ring on the stipe,
+    and cluster growth on wood. All Galerina species should be treated as potentially
+    deadly; there is no safe-to-eat Galerina species identified by beginners.
+  morphology:
+    cap:
+      shape: "conic to convex to broadly umbonate; bell-shaped when young"
+      color: "honey-brown to tawny; hygrophanous, fading tan when dry"
+      diameter_cm: "1–4"
+    gills:
+      attachment: "adnate to adnexed"
+      color: "pale brown to rusty-brown at maturity"
+    stipe:
+      ring: "present in G. marginata (key feature); membranous"
+    spore_print: "rusty-brown (critical distinction from Psilocybe purple-brown)"
+    bluing: "absent — no blue staining when damaged (distinguishes from Psilocybe)"
+  species_count: 300
+  key_species:
+    - Galerina marginata (deadly galerina — alpha-amanitin)
+    - Galerina autumnalis (syn. G. marginata)
+    - Galerina tibiicystis (large Galerina)
+    - Galerina vittiformis (fibrous Galerina)
+  safety_warning: |
+    ALL Galerina species should be treated as potentially deadly. The rusty-brown
+    spore print (not purple-brown) distinguishes Galerina from Psilocybe—
+    this single test can be life-saving. Never consume any small brown mushroom
+    growing on wood without positive expert identification.
+  ecological_roles:
+    - Saprotrophic wood decomposers
+    - Moss-associated decomposers
+    - Pioneer colonizers of rotting logs and stumps
+  data_sources:
+    - "MycoBank MB 17978"
+    - "Smith & Singer (1964) Monograph of Galerina"
+    - "Enjalbert et al. (2004) Amatoxins in Galerina marginata"
+    - "Index Fungorum"

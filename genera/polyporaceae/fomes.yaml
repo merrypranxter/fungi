@@ -1,0 +1,15 @@
+genus:
+  name: Fomes
+  parent: Polyporaceae
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Polyporales
+  family: Polyporaceae
+  species_count: ~7
+  notes: |
+    Small genus of perennial hoof-shaped polypores. Best known species is Fomes
+    fomentarius (tinder polypore / hoof fungus), one of the most historically
+    significant fungi in human history — used as tinder for fire-making since
+    the Neolithic period and found with Ötzi the Iceman (3300 BCE). Perennial
+    fruiting bodies add a new tube layer annually, allowing age estimation.
+    White-rot saprotrophs primarily on Betula and Fagus.

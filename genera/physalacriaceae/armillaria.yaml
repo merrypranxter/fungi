@@ -1,0 +1,54 @@
+genus:
+  name: Armillaria
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Physalacriaceae
+    genus: Armillaria
+    established: 1871
+    author: "(Fr.) Staude"
+    mycobank_id: "MB 17089"
+  description: |
+    Armillaria (honey fungi) is a genus of ~40 species of wood-decay fungi that
+    are among the largest and most destructive tree pathogens in temperate forests.
+    Armillaria species spread through soil via rhizomorphs—black, shoestring-like
+    cords of mycelium that can extend tens of meters and persist for centuries.
+    The "Humongous Fungus" (A. ostoyae) in the Malheur National Forest, Oregon,
+    covers ~965 hectares and is estimated to be 8,650 years old, making it a
+    candidate for the largest living organism on Earth. Armillaria mellea is
+    edible when thoroughly cooked but contains unstable compounds toxic when raw.
+    All Armillaria produce bioluminescent mycelium (foxfire)—the glowing wood of
+    folklore. The genus is distinguished from deadly Galerina by white (not rusty)
+    spore prints and the prominent white ring.
+  morphology:
+    cap:
+      shape: "convex to broadly umbonate; often with small dark scales"
+      color: "honey-yellow to tawny to brown"
+      diameter_cm: "3–15"
+    gills:
+      attachment: "adnate to shortly decurrent"
+      color: "white to cream (CRITICAL: not rusty-brown — distinguishes from deadly Galerina)"
+    stipe:
+      ring: "present, prominent, white (key feature)"
+    spore_print: "white to pale cream (not rusty — critical safety distinction from Galerina)"
+    bioluminescence: "mycelium in wood glows (foxfire; blue-green in darkness)"
+    rhizomorphs: "black, cord-like, shoestring structures in soil and under bark"
+  species_count: 40
+  key_species:
+    - Armillaria mellea (honey fungus — edible, cosmopolitan)
+    - Armillaria ostoyae (dark honey fungus — largest organism, Oregon)
+    - Armillaria tabescens (ringless honey fungus — no ring)
+    - Armillaria gallica (bulbous honey fungus)
+    - Armillaria cepistipes (bulb-footed honey fungus)
+  ecological_roles:
+    - Necrotrophic parasites of living trees (major forest pathogen)
+    - Saprotrophic decomposers of dead stumps and roots
+    - White rot fungus decomposing lignin and cellulose
+    - Facilitates nutrient cycling following tree death
+  data_sources:
+    - "MycoBank MB 17089"
+    - "Anderson & Ullrich (1979) Armillaria rhizomorph biology"
+    - "Smith et al. (1992) Largest Armillaria organism"
+    - "Index Fungorum"

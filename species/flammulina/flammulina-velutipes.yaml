@@ -1,0 +1,147 @@
+species:
+  name: Flammulina velutipes
+  common_names:
+    - Enoki
+    - Velvet shank
+    - Winter mushroom
+    - Golden needle mushroom (金针菇, Jīnzhēn gū)
+    - Enokitake (榎茸)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Physalacriaceae
+    genus: Flammulina
+    species: velutipes
+    binomial: Flammulina velutipes
+    author: "(Curtis) Singer"
+    year_described: 1951
+    taxonomic_history:
+      - "1782: Described as Agaricus velutipes by William Curtis"
+      - "1871: Transferred to Collybia velutipes by Quélet"
+      - "1951: Reclassified as Flammulina velutipes by Rolf Singer"
+    mycobank_id: "MB 293498"
+  morphology:
+    cap:
+      diameter_cm: "2–10 (wild); 1–2 cm (cultivated)"
+      shape: "convex when young, flattening with age; margin striate"
+      color: "wild: orange-brown to honey-yellow, darker at center; cultivated: cream to white"
+      surface: "smooth, viscid (slimy) when moist"
+    gills:
+      attachment: "adnate to adnexed"
+      color: "white to cream"
+      spacing: "moderately crowded"
+    stipe:
+      height_cm: "2–10 (wild); 8–15 (cultivated elongated)"
+      diameter_cm: "0.3–1"
+      color: "upper stipe pale; lower stipe dark brown to blackish, covered in dense velvety hairs"
+      texture: "tough, fibrous; distinctly velvety (velutinous) — the defining character"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "ellipsoid to cylindrical"
+      dimensions_μm: "7–10 × 3–4"
+      color_in_mass: "white"
+      wall: "smooth, thin"
+    spore_print: "white"
+    flesh:
+      color: "white to cream"
+      texture: "firm in cap; tough and fibrous in stipe"
+      odor: "mild, pleasant"
+      taste: "mild, slightly sweet"
+    notable_morphological_feature: |
+      The wild form of Flammulina velutipes has a dark, distinctly velvety-hairy stipe
+      that is the origin of both the species epithet (velutipes = velvety foot) and
+      the common name velvet shank. The cultivated commercial form is strikingly
+      different: grown in dark, CO2-rich, cold conditions, it produces long, pale cream
+      to white elongated stems with tiny caps — bearing little resemblance to wild
+      specimens. This cultivated form is the familiar enoki of Asian cuisine.
+  habitat:
+    substrate: "dead and living hardwood stumps, trunks, branches"
+    ecosystem:
+      - temperate deciduous forests
+      - urban parks and gardens
+    associated_hosts:
+      - Ulmus (elm) — primary host
+      - Populus (poplar)
+      - Salix (willow)
+      - Celtis (hackberry)
+      - various hardwoods
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Europe, Asia, North America; broadly temperate"
+    global: true
+    elevation_m: "0–2000"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - raw in salads (cultivated form)
+      - hot pot (nabemono) — traditional Japanese use
+      - stir-fried
+      - in soups
+      - sautéed (wild form)
+    notes: |
+      The cultivated enoki form is one of the most popular mushrooms in East Asian
+      cuisine, widely available in supermarkets globally. The long, delicate stems
+      with tiny caps are added to hot pots, soups, and salads. The flavor is mild
+      and the texture is crunchy. The wild form (velvet shank) has a more robust
+      flavor but the tough stipes are usually discarded. Fruiting in cold weather
+      makes this one of the few fresh mushrooms available in winter. Must be cooked
+      to deactivate flammulin (though cultivated forms may have lower levels).
+      Raw consumption in large quantities may cause GI irritation.
+    lookalikes:
+      - species: "Galerina marginata (funeral bell)"
+        danger: "deadly toxic"
+        distinguishing_features: "Galerina has a ring on the stipe, rusty-brown spore print, grows in similar cold-weather habitats on wood; VERY DANGEROUS lookalike — must verify spore print"
+      - species: "Pholiota species"
+        danger: "toxic/inedible"
+        distinguishing_features: "Pholiota has scaly cap and stipe, rusty-brown spore print, ring, and grows in dense clusters"
+  lifecycle:
+    fruiting_season: "autumn through early spring (September–April); peaks in cold weather"
+    fruiting_triggers:
+      - cold temperatures (0–10°C optimal for fruiting)
+      - moisture
+    mycelium_type: "white, fluffy; produces bioluminescent mycelium (faint)"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: true
+    difficulty: "beginner"
+    substrate:
+      - rice straw
+      - hardwood sawdust
+      - corncobs with wheat bran
+    spawn_type: "grain spawn or liquid culture"
+    fruiting_temp_c: "5–15"
+    incubation_temp_c: "20–25"
+    notes: |
+      One of the most commercially cultivated mushrooms in the world, especially
+      in China, Japan, and Korea. The distinctive white elongated enoki form is
+      produced by growing in dark conditions (darkness suppresses cap expansion)
+      at cold temperatures (5–10°C) in high CO2 environments (CO2 suppresses cap
+      development and promotes stem elongation). PVC pipes or bottles are used
+      as growing containers to maintain shape. Can also be grown at higher
+      temperatures and light for the more natural orange-brown form. Multiple
+      flushes possible over 4–6 weeks.
+  biochemistry:
+    compounds:
+      - "Flammulin / Proflamin (ribosome-inactivating protein; antitumor)"
+      - "Velutin (fungal immunomodulatory protein)"
+      - "FVP (Flammulina velutipes polysaccharide; immunomodulatory)"
+      - "Ergothioneine (antioxidant)"
+      - "Ergosterol (provitamin D2)"
+    medicinal_research:
+      - "Flammulin (proflamin) shows anti-tumor activity in animal models"
+      - "FVP polysaccharide activates macrophages and NK cells"
+      - "Antiviral activity against influenza demonstrated in vitro"
+      - "Anticancer peptides identified; inhibit proliferation of several cancer cell lines"
+      - "Biophenols show antioxidant and anti-aging properties"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 293498"
+    - "Singer (1951) Sydowia 5: 447"
+    - "Ng et al. (2012) Phytomedicine — Flammulina medicinal properties"
+    - "Index Fungorum IF 293498"

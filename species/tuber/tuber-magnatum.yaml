@@ -1,0 +1,156 @@
+species:
+  name: Tuber magnatum
+  common_names:
+    - Italian white truffle
+    - Alba white truffle
+    - White Alba truffle
+    - Trifola d'Alba Madonna
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Pezizomycetes
+    order: Pezizales
+    family: Tuberaceae
+    genus: Tuber
+    species: magnatum
+    binomial: Tuber magnatum
+    author: "Picco"
+    year_described: 1788
+    taxonomic_history:
+      - "1788: Described by Vittore Picco in Meleth. Bot."
+      - "Synonyms include Tuber griseum Pers., Vittad. 1831"
+    mycobank_id: "MB 180554"
+  morphology:
+    cap:
+      diameter_cm: "3–15 (occasionally up to 20)"
+      shape: "globose to irregular, often lobed"
+      color: "pale ochraceous-yellow to grey-tan to ochre-brown"
+      surface: "peridium smooth to very finely irregular; lacking the prominent warts of T. melanosporum"
+    gills:
+      attachment: "Not applicable — hypogeous ascomycete"
+      color: "Not applicable"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "Not applicable"
+      diameter_cm: "Not applicable"
+      color: "Not applicable"
+      texture: "Not applicable"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "ellipsoid to ovoid"
+      dimensions_μm: "28–36 × 20–26"
+      color_in_mass: "brown"
+      wall: "thick, with reticulate (net-like) ornamentation — anastomosing ridges forming a partial or complete network"
+    spore_print: "Not applicable (hypogeous)"
+    flesh:
+      color: "gleba cream to hazel-brown, marbled with prominent white veins"
+      texture: "firm when young, softening at maturity"
+      odor: "overwhelmingly aromatic — complex sulfurous, garlicky, fermented, honey notes; dimethyl sulfide and bis(methylthio)methane dominant"
+      taste: "intensely savory, complex, garlicky"
+    notable_morphological_feature: |
+      Tuber magnatum is unique among valuable truffles in having a smooth (not warty)
+      peridium and cream to hazel-colored gleba with prominent white veins. The spore
+      ornamentation is reticulate (netlike ridges) rather than spiny as in T. melanosporum.
+      Asci are globose to broadly pyriform, 60–100 μm, containing 1–4 ascospores.
+      The aroma is considered the most complex and intense of all truffle species,
+      with over 40 identified volatile compounds including unique sulfur compounds
+      not found in black truffles. Produces distinctive volatile profile with
+      dimethyl sulfide and bis(methylthio)methane as key components.
+  habitat:
+    substrate: "alluvial soils — clay-loam, well-drained river valley soils; slightly acidic to neutral pH (6.5–8)"
+    ecosystem:
+      - riparian forests along river valleys
+      - mixed broadleaf forests
+      - poplar and willow groves
+    associated_hosts:
+      - Quercus (oak) — primary
+      - Populus (poplar) — important host
+      - Salix (willow)
+      - Tilia (linden)
+      - Corylus avellana (hazel)
+    mycorrhizal: true
+    saprotrophic: false
+  distribution:
+    native_range: "Northern Italy (Piedmont — especially Alba, Asti; Tuscany, Emilia-Romagna, Marche, Umbria); Istria (Croatia, Slovenia)"
+    global: false
+    elevation_m: "100–800"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - shaved raw directly onto dishes (pasta, risotto, eggs, fondue)
+      - never cooked (heat destroys delicate aroma)
+      - infused in olive oil or butter
+      - briefly grated into simple preparations
+    notes: |
+      Regarded as the single most prized culinary ingredient in the world. The annual
+      white truffle auction in Alba (November) has seen prices exceeding €330,000/kg
+      for exceptional specimens (2021 record). Typical market price €3,000–10,000/kg.
+      Harvest season is strictly October–December. Unlike black truffle, white truffle
+      loses its aroma rapidly after harvest (best consumed within 5–7 days).
+      Cannot be cooked — the volatile aroma compounds evaporate with heat.
+      Traditionally used in northern Italian cuisine: tajarin pasta, fonduta (fondue),
+      fried eggs, carpaccio. A single truffle can perfume an entire room.
+    lookalikes:
+      - species: "Tuber borchii (bianchetto/marzuolo)"
+        danger: "safe (edible, less valuable)"
+        distinguishing_features: "T. borchii is smaller, has white to reddish-brown gleba, spores with more elaborate ornamentation; pungent garlic odor; spring fruiting"
+      - species: "Tuber aestivum (summer truffle)"
+        danger: "safe (edible, less valuable)"
+        distinguishing_features: "T. aestivum has black warty peridium; darker gleba with white veins; much milder aroma; different season"
+  lifecycle:
+    fruiting_season: "October–December (peak: November)"
+    fruiting_triggers:
+      - spring-summer rainfall (critical for development)
+      - temperate autumn temperatures
+      - specific soil microbiome conditions
+    mycelium_type: "ectomycorrhizal — creates characteristic brûlé (bare zone) around host trees"
+    spore_dispersal: "mycophagy — consumed by wild boar, deer, squirrels; trained dogs used in harvest"
+  cultivation:
+    commercial: false
+    difficulty: "not applicable (true cultivation has never been successfully achieved)"
+    substrate:
+      - "Not cultivatable — obligate ectomycorrhizal; no industrial cultivation exists"
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      Despite decades of research and enormous commercial incentive, Tuber magnatum
+      has never been successfully cultivated on an industrial scale. Unlike T. melanosporum,
+      attempts to inoculate host trees with T. magnatum mycelium in orchards have
+      largely failed to produce consistent fruiting. The complex soil microbiome,
+      specific water regime, and unknown triggers are believed to be responsible.
+      A few isolated reports exist of limited truffle formation in experimental settings
+      in Italy, but commercial cultivation remains impossible. This is a major reason
+      for its extreme price. All commercial supply is wild-harvested by licensed truffle
+      hunters (trifolao) with trained dogs in the Langhe and Monferrato regions of
+      Piedmont, Italy.
+  biochemistry:
+    compounds:
+      - "Bis(methylthio)methane (dominant aroma compound)"
+      - "Dimethyl sulfide (volatile)"
+      - "2-Methyl-1-propanethiol (aroma)"
+      - "3-(Methylthio)-1-propanol (aroma)"
+      - "Androstenol (steroid; possible pheromone role in animal attraction)"
+      - "Ergosterol (provitamin D2)"
+      - "Trehalose (carbohydrate; up to 10% dry weight)"
+    medicinal_research:
+      - "High antioxidant capacity demonstrated (phenolic compounds)"
+      - "Antimicrobial activity against several pathogenic bacteria"
+      - "Anandamide-related compounds present (minor)"
+      - "Limited medicinal research compared to black truffle due to supply constraints"
+  conservation:
+    status: "Not formally assessed (IUCN); wild populations considered vulnerable"
+    threats:
+      - "Habitat loss (riparian forest conversion)"
+      - "Climate change (altered rainfall patterns)"
+      - "Overharvesting with mechanical methods"
+      - "Illegal early harvesting of immature specimens"
+      - "Water table changes (drainage, irrigation)"
+  data_sources:
+    - "MycoBank MB 180554"
+    - "Picco (1788) Meleth. Bot."
+    - "Büntgen et al. (2011) Science — climate and truffle production"
+    - "Splivallo et al. (2007) Phytochemistry — white truffle volatiles"
+    - "Index Fungorum IF 180554"
+    - "Pacioni (1991) Fungi Europaei vol. Tuber"

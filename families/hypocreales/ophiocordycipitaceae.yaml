@@ -1,0 +1,14 @@
+family:
+  name: Ophiocordycipitaceae
+  parent: Hypocreales
+  phylum: Ascomycota
+  class: Sordariomycetes
+  order: Hypocreales
+  species_count: ~450
+  notes: |
+    Family of entomopathogenic (insect-parasitizing) ascomycetes in the order
+    Hypocreales. Separated from Cordycipitaceae based on molecular phylogenetics.
+    Contains the important genera Ophiocordyceps (including O. sinensis — caterpillar
+    fungus — and O. unilateralis — zombie ant fungus) and Elaphocordyceps. Most
+    species are specialists, each targeting a specific insect host. The type species
+    O. sinensis is the world's most expensive fungus by weight.

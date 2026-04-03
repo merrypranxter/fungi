@@ -1,0 +1,12 @@
+family:
+  name: Meripilaceae
+  parent: Polyporales
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Polyporales
+  species_count: ~50
+  notes: |
+    Family of polypore and crust fungi in Polyporales. Contains large, compound
+    bracket-forming genera including Grifola (maitake) and Meripilus. White-rot
+    saprotrophs, though some species (Grifola frondosa) have a facultatively
+    parasitic habit on living hardwood roots.

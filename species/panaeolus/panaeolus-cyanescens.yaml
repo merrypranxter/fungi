@@ -1,0 +1,141 @@
+species:
+  name: Panaeolus cyanescens
+  common_names:
+    - Blue meanie
+    - Pan cyan
+    - Coprophilous Psilocybe (misapplied)
+    - Hawaiian (horticulturally)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Bolbitiaceae
+    genus: Panaeolus
+    species: cyanescens
+    binomial: Panaeolus cyanescens
+    author: "(Berk. & Broome) Sacc."
+    year_described: 1887
+    taxonomic_history:
+      - "1871: Described by Berkeley and Broome as Agaricus cyanescens"
+      - "1887: Transferred to Panaeolus by Saccardo"
+      - "Various synonyms: Copelandia cyanescens — the 'Copelandia' epithet still widely used"
+    mycobank_id: "MB 215327"
+  morphology:
+    cap:
+      diameter_cm: "1.5–5"
+      shape: "conic to convex to campanulate (bell-shaped); rarely expanding flat; retaining shape through maturity"
+      color: "grey-white to pale buff when young; drying to cream or white with grey tones; center sometimes light brown"
+      surface: "smooth to slightly viscid when very moist; dry and chalky-looking when mature; surface may crack in dry conditions showing white flesh"
+    gills:
+      attachment: "adnate; densely mottled (characteristic Panaeolus feature — spores mature unevenly)"
+      color: "grey when immature; mottled grey-black at maturity as patches of spores mature; edges pallid"
+      spacing: "crowded; narrow"
+    stipe:
+      height_cm: "7–12"
+      diameter_cm: "0.4–0.8"
+      color: "pale grey to white; developing blue-green bruising from base upward when handled"
+      texture: "pruinose (white powdery) near apex; fibrous; hollow"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "ellipsoid to limoniform (lemon-shaped); with broad germ pore"
+      dimensions_μm: "12–15 × 8–11"
+      color_in_mass: "jet black"
+      wall: "smooth; thick; with apical pore"
+    spore_print: "jet black (diagnostic for Panaeolus)"
+    flesh:
+      color: "white; rapidly turning vivid blue when damaged — among most intense bluing in any dung-inhabiting mushroom"
+      texture: "thin, fragile"
+      odor: "faint, slightly earthy"
+      taste: "mild"
+    notable_morphological_feature: |
+      The mottled gill appearance (dark spore patches alongside lighter immature areas)
+      is the hallmark of genus Panaeolus. P. cyanescens is distinguished from other
+      Panaeolus by the strong blue-staining reaction (cyanescens = turning blue).
+      The black spore print distinguishes it from Psilocybe species (dark purple-brown).
+      Grows exclusively on cattle and horse dung in tropical and subtropical regions.
+  habitat:
+    substrate: "cattle dung, horse dung, and dung-enriched tropical soils"
+    ecosystem:
+      - tropical and subtropical cattle pastures
+      - horse paddocks
+      - enriched grasslands with livestock grazing
+      - compost in tropical climates
+    associated_hosts:
+      - Bos taurus (cattle dung)
+      - Equus caballus (horse dung)
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Pantropical — native to tropical regions of Asia, Africa, South America, Pacific Islands"
+    global: true
+    elevation_m: "0–1500"
+    notes: |
+      Cosmopolitan in tropical and subtropical regions wherever cattle and horses are
+      kept. Common in Hawaii, tropical Americas, sub-Saharan Africa, Southeast Asia,
+      India, Thailand. Extends into warm-temperate regions (Florida, Gulf Coast USA,
+      Mediterranean). Introduced with livestock to many regions.
+  edibility:
+    status: "PSYCHOACTIVE — highly potent; contains psilocybin and psilocin; illegal in most jurisdictions"
+    legal_status: |
+      Psilocybin/psilocin: Schedule I substances in most countries. Illegal to possess
+      or cultivate. Some traditional ceremonial use in Central America.
+    notes: |
+      Panaeolus cyanescens can exceed P. cubensis in psilocybin content: up to 2.95%
+      psilocybin dry weight, making it one of the most potent naturally occurring
+      psilocybin mushrooms. Also contains psilocin, baeocystin, and urea.
+      The high potency relative to small size makes dosage estimation critical.
+      Effects onset 30–60 min; duration 4–6 hours. Nausea common.
+      The "blue meanie" name refers to the intense blue staining.
+    lookalikes:
+      - species: "Panaeolus papilionaceus"
+        danger: "non-psychoactive; not toxic"
+        distinguishing_features: "No bluing; often larger; no significant psychoactive compounds"
+      - species: "Psilocybe cubensis"
+        danger: "psychoactive (similar but less potent)"
+        distinguishing_features: "P. cubensis: purple-brown (not black) spore print; ring present; grows directly in/on dung"
+      - species: "Conocybe filaris"
+        danger: "DEADLY — alpha-amanitin"
+        distinguishing_features: "C. filaris: rust-brown spore print; ring; no mottled gills; no bluing"
+  lifecycle:
+    fruiting_season: "year-round in tropics; spring to autumn in subtropical regions; triggered by fresh rainfall on dung"
+    fruiting_triggers:
+      - fresh rainfall
+      - warm temperatures (24–30°C)
+      - freshly deposited herbivore dung
+    mycelium_type: "white; colonizes dung rapidly"
+    spore_dispersal: "wind; spores also dispersed through dung-feeding insects and rainfall splash"
+  cultivation:
+    commercial: false
+    difficulty: "Moderate; requires dung-based substrate and warm temperatures"
+    substrate:
+      - pasteurized cattle dung
+      - horse dung and straw mix
+      - enriched brown rice flour
+    spawn_type: "spore syringe or agar culture"
+    fruiting_temp_c: "24–30"
+    incubation_temp_c: "27–30"
+    notes: |
+      Cultivated similarly to P. cubensis but requires higher temperatures and
+      typically dung-based substrates. More sensitive to contamination than P. cubensis.
+      Illegal to cultivate in most jurisdictions.
+  biochemistry:
+    compounds:
+      - "Psilocybin (4-phosphoryloxy-DMT) — up to 2.95% dry weight; typically 0.5–2.0%"
+      - "Psilocin (4-hydroxy-DMT) — present; up to 0.5%"
+      - "Baeocystin — minor psychoactive compound"
+      - "Urea — present as metabolic byproduct"
+    medicinal_research:
+      - "High psilocybin content makes P. cyanescens a notable natural source compound"
+      - "Psilocybin mechanism shared with Psilocybe spp.: 5-HT2A agonism"
+      - "Growing interest in psilocybin for depression, addiction, and PTSD treatment"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 215327"
+    - "Guzmán et al. (1998) Nuevas especies y nuevos registros de Psilocybe"
+    - "Stijve & Kuyper (1985) Occurrence of psilocybin in various higher fungi"
+    - "Allen et al. (1991) Ethnomycological notes on Panaeolus cyanescens"
+    - "Index Fungorum"

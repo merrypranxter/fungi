@@ -1,0 +1,13 @@
+order:
+  name: Hymenochaetales
+  parent: Agaricomycetes
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  species_count: ~600
+  notes: |
+    Order of Basidiomycota characterized by the presence of setae (pointed,
+    thick-walled, dark brown sterile cells in the hymenium) in many genera,
+    and typically brown or rusty-yellow coloration. Contains bracket fungi,
+    crust fungi, and some agarics. Key genera include Inonotus (chaga-related),
+    Phellinus, Hymenochaete. Important wood-decay fungi causing white rot and
+    brown rot. Inonotus obliquus (chaga) is the most medicinally important member.

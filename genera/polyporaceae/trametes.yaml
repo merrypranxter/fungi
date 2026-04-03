@@ -1,0 +1,15 @@
+genus:
+  name: Trametes
+  parent: Polyporaceae
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Polyporales
+  family: Polyporaceae
+  species_count: ~80
+  notes: |
+    Genus of thin, leathery, bracket-forming polypore fungi. White-rot saprotrophs
+    on hardwood. Characterized by thin, flexible fruiting bodies with fine pores on
+    the underside. Key species: T. versicolor (turkey tail — most studied medicinal
+    polypore), T. pubescens, T. hirsuta, T. gibbosa. Trametes versicolor contains
+    PSK (polysaccharide K) and PSP — the most commercially significant medicinal
+    mushroom compounds globally.

@@ -1,0 +1,14 @@
+family:
+  name: Hymenochaetaceae
+  parent: Hymenochaetales
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Hymenochaetales
+  species_count: ~600
+  notes: |
+    Main family of the order Hymenochaetales. Contains wood-rot bracket fungi
+    and crust fungi. Distinguished by presence of setae in hymenium of most
+    genera, brown hyphal pigmentation, and often brown pore surfaces. Key genera:
+    Inonotus (chaga), Phellinus, Hymenochaete, Onnia. Many species are parasitic
+    on living trees. Inonotus obliquus produces the commercially harvested sclerotium
+    (chaga conk) used in traditional medicine.

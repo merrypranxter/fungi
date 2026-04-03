@@ -1,0 +1,58 @@
+genus:
+  name: Psilocybe
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Hymenogastraceae
+    genus: Psilocybe
+    established: 1871
+    author: "(Fr.) P. Kumm."
+    mycobank_id: "MB 18980"
+  description: |
+    Psilocybe is a genus of ~225 described species of small, brown, saprotrophic
+    mushrooms, of which approximately 116 species contain the psychoactive compounds
+    psilocybin and psilocin. The genus was formerly placed in Strophariaceae but
+    molecular phylogenetics firmly place it in Hymenogastraceae. The psilocybin-
+    containing species are concentrated in humid temperate grasslands (P. semilanceata),
+    tropical dung habitats (P. cubensis), and temperate lignicolous habitats
+    (P. cyanescens, P. azurescens). The most reliable identification feature is
+    intense blue-staining of flesh when damaged—a result of psilocin oxidation by
+    atmospheric oxygen. Psilocybin has significant therapeutic potential, with clinical
+    trials showing efficacy for treatment-resistant depression, PTSD, and end-of-life
+    anxiety. All psilocybin-containing Psilocybe species are Schedule I controlled
+    substances in most jurisdictions.
+  morphology:
+    cap:
+      shape: "conic to campanulate to convex; often with distinct umbo or papilla"
+      color: "hygrophanous: caramel to cinnamon-brown when moist; pallid straw when dry"
+      diameter_cm: "0.5–10 depending on species"
+    gills:
+      attachment: "adnate to adnexed"
+      color: "grey to grey-brown at first; purple-brown to blackish at maturity"
+    stipe:
+      texture: "fibrous, often twisting; bluing when damaged"
+    spore_print: "dark purple-brown to purple-black"
+    bluing: "vivid blue coloration within seconds of damage (diagnostic for most species)"
+  species_count: 225
+  key_species:
+    - Psilocybe cubensis (common psychedelic mushroom)
+    - Psilocybe semilanceata (liberty cap — most widespread)
+    - Psilocybe cyanescens (wavy cap — highly potent)
+    - Psilocybe azurescens (most potent known species)
+    - Psilocybe mexicana (teonanácatl — used in Mazatec ceremony)
+  ecological_roles:
+    - Saprotrophic decomposers of organic matter
+    - Coprophilous species on herbivore dung
+    - Grassland and lignicolous decomposers
+  legal_status: |
+    Psilocybin and psilocin are Schedule I controlled substances under the
+    United Nations 1971 Convention on Psychotropic Substances. Possession,
+    cultivation, and sale are illegal in most countries. Oregon (USA) legalized
+    therapeutic use in 2020; several cities have decriminalized possession.
+  data_sources:
+    - "MycoBank MB 18980"
+    - "Guzmán (1983) The genus Psilocybe"
+    - "Stamets (1996) Psilocybin Mushrooms of the World"
+    - "Index Fungorum"

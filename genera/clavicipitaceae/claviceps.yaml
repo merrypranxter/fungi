@@ -1,0 +1,58 @@
+genus:
+  name: Claviceps
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    order: Hypocreales
+    family: Clavicipitaceae
+    genus: Claviceps
+    established: 1823
+    author: "Tul."
+    mycobank_id: "MB 17637"
+  description: |
+    Claviceps is a genus of ~50 species of parasitic ascomycetes that infect the
+    ovaries of grasses and sedges, replacing the developing grain with a hard,
+    dark, alkaloid-laden sclerotium called an ergot (from Old French "argot" =
+    cock's spur). Claviceps purpurea, the rye ergot, is the most notorious species
+    and has had a profound impact on human history. Ergot alkaloids—including
+    ergotamine, ergonovine, and lysergic acid amides—cause ergotism, formerly
+    known as "St. Anthony's Fire." Outbreaks devastated medieval Europe with
+    gangrenous and convulsive forms. Albert Hofmann synthesized LSD (lysergic acid
+    diethylamide) from lysergic acid derived from ergot in 1938. Several ergot
+    alkaloids have important medical uses: ergotamine (migraines), ergonovine
+    (obstetric hemorrhage), and ergocryptine (Parkinson's disease).
+  morphology:
+    sclerotium:
+      shape: "elongated, curved, club-shaped or spur-shaped"
+      color: "dark purple-black externally; white to pale grey internally"
+      dimensions: "1–5 cm long × 2–5 mm wide"
+    stroma:
+      shape: "small club-shaped, stipitate; pink-violet to cream"
+      perithecia: "embedded in stroma head, flask-shaped"
+    ascospores:
+      shape: "filiform (thread-like)"
+      dimensions_μm: "50–75 × 0.5–1"
+  host_range:
+    primary: "Secale cereale (rye)"
+    secondary:
+      - Triticum (wheat)
+      - Hordeum (barley)
+      - Phalaris (canary grass)
+      - Poa (bluegrass)
+      - Agropyron (wheatgrass)
+  species_count: 50
+  key_species:
+    - Claviceps purpurea (rye ergot — most toxic)
+    - Claviceps africana (sorghum ergot — major crop pathogen)
+    - Claviceps fusiformis (pearl millet ergot)
+    - Claviceps paspali (dallis grass ergot)
+  ecological_roles:
+    - Biotrophic parasites of grass ovaries
+    - Vectors for horizontal gene transfer of alkaloid biosynthesis genes
+    - Historically devastating pathogen of cereal crops
+  data_sources:
+    - "MycoBank MB 17637"
+    - "Tudzynski et al. (2001) Ergot alkaloid biosynthesis"
+    - "Schiff (2006) Ergot and its alkaloids"
+    - "Index Fungorum"

@@ -1,0 +1,151 @@
+species:
+  name: Psilocybe semilanceata
+  common_names:
+    - Liberty cap
+    - Magic mushroom
+    - Witch's hat
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Hymenogastraceae
+    genus: Psilocybe
+    species: semilanceata
+    binomial: Psilocybe semilanceata
+    author: "(Fr.) P. Kumm."
+    year_described: 1871
+    taxonomic_history:
+      - "1838: Described by Fries as Agaricus semilanceatus"
+      - "1871: Transferred to Psilocybe by Paul Kummer"
+      - "2010: Molecular studies confirm placement in Hymenogastraceae"
+    mycobank_id: "MB 218523"
+  morphology:
+    cap:
+      diameter_cm: "0.5–2.5"
+      shape: "acutely conical to campanulate (bell-shaped); persistently pointed with distinctive papilla (nipple-like apex) — the defining feature"
+      color: "hygrophanous: dark caramel to chestnut-brown when moist; drying to pale straw-yellow or cream; margin often darker"
+      surface: "smooth, viscid when moist; gelatinous pellicle easily peeled; often with translucent striations on margin when wet"
+    gills:
+      attachment: "adnate to adnexed"
+      color: "grey when young; darkening to grey-purple to dark brown-purple at maturity; gill edges remain paler"
+      spacing: "crowded; 15–27 gills reaching stipe"
+    stipe:
+      height_cm: "4–10"
+      diameter_cm: "0.1–0.3"
+      color: "white to pale grey; often with wavy undulations; base with white mycelial threads"
+      texture: "smooth, fibrous; very slender, wiry"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "subellipsoid to subrhomboid in face view; slightly inequilateral in profile"
+      dimensions_μm: "10.5–15 × 6.5–8.5"
+      color_in_mass: "dark purple-brown to purple-black"
+      wall: "smooth; thick-walled with germ pore"
+    spore_print: "dark purplish-brown to purple-black"
+    flesh:
+      color: "white; rapidly turning vivid blue when damaged (especially at base of stipe)"
+      texture: "very thin, fragile"
+      odor: "faint, earthy-floury"
+      taste: "mild, slightly farinaceous"
+    notable_morphological_feature: |
+      The combination of the persistent acute papilla (nipple) at the apex of the
+      conical cap and the strong, rapid blue-staining reaction when flesh is
+      damaged are the two most reliable identification features. The liberty cap
+      name refers to the distinctive shape, resembling the Phrygian (liberty) cap
+      of the French Revolution. The gelatinous pellicle over the cap is a useful
+      supplementary feature. P. semilanceata NEVER grows directly on dung—it
+      grows in grass roots—distinguishing it from the coprophilous P. cubensis.
+  habitat:
+    substrate: "soil among grass roots; root litter of grasses (ryegrass, fescue)"
+    ecosystem:
+      - acidic upland pastures
+      - hillside sheep-grazed meadows
+      - lawns and parks with old, unimproved grassland
+      - hay meadows
+    associated_hosts:
+      - Lolium perenne (perennial ryegrass)
+      - Festuca (fescue grasses)
+      - Agrostis (bent grasses)
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Northern Europe (Scotland, Ireland, Netherlands, Scandinavia); temperate zone"
+    global: true
+    elevation_m: "0–1500; most common in upland pastures 100–500 m"
+    notes: |
+      The most widespread psychoactive mushroom in temperate zones. Found throughout
+      Europe (most abundant in UK, Netherlands, Poland), North America (Pacific Northwest,
+      northeast USA), Chile and Argentina, New Zealand, and scattered temperate regions.
+      Strongly associated with cool, moist, oceanic climates.
+  edibility:
+    status: "PSYCHOACTIVE — contains psilocybin and psilocin; illegal in most jurisdictions"
+    legal_status: |
+      Schedule I controlled substance (psilocybin/psilocin) under the UN 1971 Convention.
+      Illegal to possess, collect, or sell in most countries. Netherlands (2008) banned
+      fresh mushrooms; Oregon (2020) legalized therapeutic use; several cities have
+      decriminalized personal possession.
+    notes: |
+      P. semilanceata is considered the most potent common Psilocybe in terms of
+      psilocybin concentration (0.2–2.37% dry weight; average ~1%). Effects include
+      visual distortions, synesthesia, time distortion, and profound mood changes
+      lasting 4–6 hours. Nausea common at onset. No reported fatalities from direct
+      pharmacological toxicity. Psychological distress ("bad trips") and accidents
+      are the primary risks.
+    lookalikes:
+      - species: "Panaeolus semiovatus"
+        danger: "non-psychoactive; not toxic"
+        distinguishing_features: "Larger; ring on stipe; black spore print; no papilla; no bluing"
+      - species: "Conocybe tenera"
+        danger: "non-toxic but related to deadly Conocybe filaris"
+        distinguishing_features: "Rust-brown spore print (not purple-brown); no bluing; no papilla"
+      - species: "Galerina marginata"
+        danger: "DEADLY — contains alpha-amanitin"
+        distinguishing_features: "Rusty-brown spore print; ring on stipe; no bluing; wood substrate"
+  lifecycle:
+    fruiting_season: "late summer to late autumn (August–December in Northern Hemisphere); peak September–November"
+    fruiting_triggers:
+      - night temperatures dropping below 10°C
+      - rainfall following dry period
+      - high humidity (>80%)
+      - cool maritime conditions
+    mycelium_type: "white, thread-like; saprotrophic among grass roots"
+    spore_dispersal: "wind dispersal; spores can travel thousands of kilometres"
+  cultivation:
+    commercial: false
+    difficulty: "Very difficult; not cultivated commercially"
+    substrate:
+      - rye grain
+      - enriched agar
+    spawn_type: "spore syringe"
+    fruiting_temp_c: "8–15"
+    incubation_temp_c: "20–25"
+    notes: |
+      P. semilanceata is notoriously difficult to cultivate. Unlike P. cubensis, it
+      is not naturally coprophilous and does not fruit readily on dung or straw
+      substrates. No reliable commercial cultivation technique exists. It is illegal
+      to cultivate in most jurisdictions.
+  biochemistry:
+    compounds:
+      - "Psilocybin (4-phosphoryloxy-DMT) — primary psychoactive compound; 0.2–2.37% dry weight"
+      - "Psilocin (4-hydroxy-DMT) — active form after dephosphorylation; 0.02–0.2% dry weight"
+      - "Baeocystin (N-methyl-4-phosphoryloxytryptamine) — minor psychoactive; 0.01–0.1%"
+      - "Norbaeocystin — minor related compound"
+    medicinal_research:
+      - "Psilocybin shows efficacy in treatment-resistant depression (Carhart-Harris et al., 2016)"
+      - "Phase II/III clinical trials for major depressive disorder ongoing (Compass Pathways)"
+      - "Potential application in PTSD, OCD, alcohol and tobacco addiction"
+      - "Neural plasticity effects: psilocybin promotes dendritic spine growth"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - intensive grassland management (fertilization destroys habitat)
+      - reseeding of pastures with modern grass mixes
+      - herbicide application to old meadows
+  data_sources:
+    - "MycoBank MB 218523"
+    - "Guzmán (1983) The genus Psilocybe — Beihefte zur Nova Hedwigia"
+    - "Stamets (1996) Psilocybin Mushrooms of the World"
+    - "Beug & Bigwood (1982) Psilocybin and psilocin levels in P. semilanceata"
+    - "Ohenoja et al. (1987) Psilocybin content in Finnish collections"
+    - "Index Fungorum"

@@ -1,0 +1,52 @@
+genus:
+  name: Conocybe
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Bolbitiaceae
+    genus: Conocybe
+    established: 1871
+    author: "Fayod"
+    mycobank_id: "MB 17711"
+  description: |
+    Conocybe is a large genus of ~200+ species of small, delicate mushrooms,
+    typically cone-shaped (the name means "cone head"), with cinnamon to
+    rust-brown spore prints. Members are predominantly saprotrophic in lawns,
+    gardens, and wood-chip beds. Though many species are small and superficially
+    unremarkable "little brown mushrooms" (LBMs), the genus contains at least
+    one deadly species: Conocybe filaris (deadly conocybe), which contains
+    alpha-amanitin at concentrations comparable to Amanita phalloides. The
+    presence of a ring (annulus) on the stipe is a key diagnostic character
+    for C. filaris, unusual within the genus. Children and pets are particularly
+    at risk from C. filaris growing in domestic lawns. Molecular studies
+    have revealed Conocybe to be polyphyletic; some species have been
+    transferred to Pholiotina.
+  morphology:
+    cap:
+      shape: "conic to convex; rarely expanding; retaining bell shape"
+      color: "honey-brown to cinnamon to tawny; hygrophanous"
+      diameter_cm: "0.5–3 in most species"
+    gills:
+      attachment: "adnate to free"
+      color: "cinnamon to rust-brown at maturity"
+    stipe:
+      texture: "very slender, fragile; smooth to pruinose"
+      ring: "absent in most species; present in C. filaris (key danger feature)"
+    spore_print: "rust-brown to cinnamon-brown"
+  species_count: 200
+  key_species:
+    - Conocybe filaris (deadly conocybe — alpha-amanitin)
+    - Conocybe tenera (common dunce cap — harmless)
+    - Conocybe apala (white dunce cap)
+    - Conocybe lactea (white cone head)
+  ecological_roles:
+    - Saprotrophic decomposers of lawns and garden soils
+    - Wood chip and compost colonizers
+    - Dung and enriched substrate decomposers
+  data_sources:
+    - "MycoBank MB 17711"
+    - "Hausknecht (2009) Monograph of Conocybe"
+    - "Index Fungorum"
+    - "Enjalbert et al. (2004) Amatoxin content of Conocybe filaris"

@@ -1,0 +1,45 @@
+family:
+  name: Discinaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Pezizomycetes
+    order: Pezizales
+    family: Discinaceae
+    established: 1900
+    author: "Benedix"
+    mycobank_id: "MB 80630"
+  description: |
+    Discinaceae is a family of cup fungi and false morels in the order Pezizales.
+    The family is notably distinct from the true morel family (Morchellaceae) and
+    contains several genera with convoluted, brain-like, or saddle-shaped apothecia,
+    including the notorious Gyromitra (false morels). Unlike true morels (Morchella),
+    which have a honeycomb-pitted cap attached to the stipe, Discinaceae have wrinkled,
+    saddle-shaped, or brain-like caps with variable attachment. Several species are
+    lethally toxic, notably Gyromitra esculenta, which contains gyromitrin—a volatile
+    toxin that hydrolyzes to monomethylhydrazine (MMH). Paradoxically, G. esculenta
+    has been eaten as a traditional delicacy in Scandinavia and Eastern Europe for
+    centuries, though fatalities are documented. The family also contains edible species
+    (Discina perlata, some Gyromitra spp.).
+  key_characteristics:
+    - Apothecia convoluted, brain-like, saddle-shaped, or discoid (not honeycombed)
+    - Cap attachment varies from free to partially fused
+    - Hollow stipe in most species
+    - Ascospores typically fusiform with polar oil droplets
+    - Many species produce gyromitrin or related hydrazine compounds
+    - Associated with conifers, often spring-fruiting
+    - Asci operculate (lid-like opening for spore release)
+  genera:
+    - Gyromitra
+    - Discina
+    - Pseudorhizina
+    - Neogyromitra
+  ecological_roles:
+    - Saprotrophic decomposers of conifer wood and debris
+    - Spring forest floor decomposers
+    - Ectomycorrhizal associations suspected in some species
+  data_sources:
+    - "MycoBank MB 80630"
+    - "O'Donnell et al. (1997) Phylogeny of Pezizales"
+    - "Index Fungorum"
+    - "Benedix (1969) Discinaceae family description"

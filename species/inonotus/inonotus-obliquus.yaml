@@ -1,0 +1,148 @@
+species:
+  name: Inonotus obliquus
+  common_names:
+    - Chaga
+    - Birch conk
+    - Birch canker polypore
+    - Clinker polypore
+    - Cinder conk
+    - Chaga mushroom
+    - Chaga (Чага — Russian)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Hymenochaetales
+    family: Hymenochaetaceae
+    genus: Inonotus
+    species: obliquus
+    binomial: Inonotus obliquus
+    author: "(Ach. ex Pers.) Pilát"
+    year_described: 1942
+    taxonomic_history:
+      - "1801: Described as Boletus obliquus by Erik Acharius"
+      - "1942: Transferred to Inonotus by Albert Pilát"
+      - "The commercially harvested 'chaga' is actually the sterile sclerotium (mycelial mass), not the true fruiting body"
+    mycobank_id: "MB 167988"
+  morphology:
+    cap:
+      diameter_cm: "25–40 (sterile sclerotium/conk)"
+      shape: "irregular, knobbly, amorphous mass protruding from birch trunk; not a typical bracket"
+      color: "exterior: jet black, deeply cracked charcoal-like crust; interior: rusty orange-brown"
+      surface: "deeply cracked black exterior resembling burnt charcoal"
+    gills:
+      attachment: "Not applicable — sterile sclerotium (true fruiting body forms under bark and is rarely seen)"
+      color: "Not applicable"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "Not applicable"
+      diameter_cm: "Not applicable"
+      color: "Not applicable"
+      texture: "interior of sclerotium: hard, cork-like, rusty orange-brown color"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "broadly ellipsoid to subglobose (from true fruiting body)"
+      dimensions_μm: "7–10 × 5–7"
+      color_in_mass: "yellowish"
+      wall: "smooth to slightly thickened"
+    spore_print: "Not applicable (sterile sclerotium is harvested; true fruiting body rare)"
+    flesh:
+      color: "rusty orange-brown to golden brown interior of sclerotium"
+      texture: "hard, cork-like, dense"
+      odor: "mild, slightly woody, vanilla-like"
+      taste: "mild, slightly bitter, earthy"
+    notable_morphological_feature: |
+      The commercially harvested 'chaga' is not technically a fruiting body but a
+      sterile sclerotium — a dense mycelial mass that erupts from infected birch
+      (Betula) trees following infection. The exterior is jet-black due to massive
+      melanin accumulation (giving the charcoal-like crust appearance) while the
+      interior is rusty orange-brown. The true basidiomycete fruiting body (which
+      produces spores) forms as a thin layer under the bark and is rarely seen before
+      the tree dies. The black sclerotium can grow for 10–20 years on a living birch.
+  habitat:
+    substrate: "living birch trees (parasitic); occasionally alder, elm, beech"
+    ecosystem:
+      - boreal forests
+      - temperate deciduous forests
+      - birch woodlands
+    associated_hosts:
+      - Betula (birch) — primary and virtually exclusive host
+    mycorrhizal: false
+    saprotrophic: false
+  distribution:
+    native_range: "Boreal and temperate zone — Russia (Siberia), Scandinavia, Canada, Northern USA, Northern China, Japan, Korea"
+    global: false
+    elevation_m: "0–2000"
+  edibility:
+    status: "inedible (used exclusively as medicinal decoction/tea)"
+    preparation:
+      - hot-water decoction (chaga tea) — traditional primary method
+      - dual-extract (hot water + alcohol)
+      - dried and powdered for supplements
+      - tincture in alcohol
+    notes: |
+      Inonotus obliquus is not consumed as food due to its hard, woody texture.
+      It is exclusively used as a medicinal preparation, typically as a hot-water
+      decoction (tea) that extracts the water-soluble polysaccharides and melanin
+      complexes. Used in traditional Siberian and Russian folk medicine for centuries
+      (first documented medical use: 16th century Russia). Used in traditional
+      Finnish folk medicine as well (called pakuri). Has extraordinary antioxidant
+      capacity — the ORAC value is among the highest measured for any natural
+      substance. Commercial market has grown enormously since 2010s wellness boom.
+    lookalikes:
+      - species: "Phellinus igniarius (false tinder polypore)"
+        danger: "safe (inedible)"
+        distinguishing_features: "Phellinus has a true hoof-shaped bracket fruiting body with pores; different host trees (not exclusively birch)"
+  lifecycle:
+    fruiting_season: "sclerotium present year-round on living birch; grows continuously for 10–20 years"
+    fruiting_triggers:
+      - infection of birch tree through wounds
+    mycelium_type: "white to pale yellow mycelium inside birch wood; causes white rot"
+    spore_dispersal: "wind (true fruiting body spores)"
+  cultivation:
+    commercial: false
+    difficulty: "not applicable (not commercially cultivated)"
+    substrate:
+      - "Wild-harvested only; cannot be cultivated in substrate to produce the sclerotium"
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      Inonotus obliquus cannot be commercially cultivated to produce the sclerotium form
+      — it requires living birch trees as host. Some mycelial cultivation in fermentation
+      tanks is possible, but the biochemical profile differs significantly from the wild
+      sclerotium (which accumulates unique melanins from the birch-fungus interaction).
+      All commercial chaga supply is wild-harvested, primarily from Russia (Siberia),
+      Canada, and Scandinavia. Sustainable harvest protocols recommend leaving 20–30%
+      of the conk to allow tree survival and fungal regrowth.
+  biochemistry:
+    compounds:
+      - "Betulinic acid (triterpenoid derived from birch betulin; antitumor, anti-HIV)"
+      - "Inotodiol (lanostane triterpenoid; antitumor)"
+      - "Betulin (precursor to betulinic acid; anti-inflammatory)"
+      - "Lanosterol and ergosterol derivatives"
+      - "Melanins and melanin-glucan complexes (extraordinary antioxidant)"
+      - "Polysaccharides (beta-glucans; immunomodulatory)"
+      - "Polyphenols and phenolic acids (gallic acid, protocatechuic acid)"
+      - "Superoxide dismutase (SOD; antioxidant enzyme)"
+    medicinal_research:
+      - "Betulinic acid shows antitumor activity via apoptosis induction in multiple cancer cell lines"
+      - "Inotodiol shows antitumor activity in animal models"
+      - "Extreme antioxidant capacity (ORAC ~52,000 μmol TE/g — among highest measured)"
+      - "Traditional Russian use: prescribed as anti-cancer treatment in early 20th century medicine"
+      - "Immunomodulatory polysaccharides activate macrophages and NK cells"
+      - "Anti-inflammatory effects demonstrated in animal models"
+      - "Caution: may interact with blood thinners and immunosuppressants (anticoagulant polysaccharides)"
+  conservation:
+    status: "Not formally assessed; local populations threatened by overharvesting"
+    threats:
+      - "Overharvesting due to high commercial demand"
+      - "Birch forest decline from climate change"
+      - "Unsustainable harvesting practices (removing entire conk kills the fungus)"
+  data_sources:
+    - "MycoBank MB 167988"
+    - "Pilát (1942) Atlas Hub"
+    - "Géry et al. (2018) Critical Reviews in Food Science and Nutrition — chaga review"
+    - "Shashkina et al. (2006) Applied Biochemistry and Microbiology"
+    - "Index Fungorum IF 167988"

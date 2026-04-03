@@ -1,0 +1,43 @@
+family:
+  name: Bolbitiaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Bolbitiaceae
+    established: 1948
+    author: "Singer"
+    mycobank_id: "MB 80507"
+  description: |
+    Bolbitiaceae is a family of small to medium-sized gilled mushrooms in the order
+    Agaricales. The family includes genera such as Bolbitius (dung roundheads),
+    Conocybe (dunce caps), and Panaeolus (mottlegills). Many members are coprophilous
+    (dung-loving) or grow in nutrient-rich grasslands. The family is notable for
+    containing several psychoactive species in Panaeolus (notably P. cyanescens) and
+    deadly toxic species in Conocybe (C. filaris contains alpha-amanitin). The
+    characteristic mottled or spotted gills of Panaeolus result from uneven spore
+    maturation, a distinctive feature. Spore prints range from rusty-brown (Conocybe)
+    to jet black (Panaeolus).
+  key_characteristics:
+    - Spore prints ranging from rusty-cinnamon-brown to black
+    - Many species coprophilous (found on dung or enriched soil)
+    - Panaeolus: mottled gills from uneven spore ripening
+    - Conocybe: conical cap, thin stipe, small ring in some species
+    - Small to medium sized, fragile mushrooms
+    - Many species ephemeral (fruiting and collapsing in hours)
+  genera:
+    - Bolbitius
+    - Conocybe
+    - Panaeolus
+    - Panaeolina
+    - Agrocybe (some classifications)
+  ecological_roles:
+    - Coprophilous decomposers of herbivore dung
+    - Saprotrophic in nutrient-rich grasslands and gardens
+    - Wood chip and compost decomposers
+  data_sources:
+    - "MycoBank MB 80507"
+    - "Mos (2016) Bolbitiaceae systematics review"
+    - "Index Fungorum"
+    - "Singer (1948) New genera of fungi"

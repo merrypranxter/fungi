@@ -1,0 +1,148 @@
+species:
+  name: Trametes versicolor
+  common_names:
+    - Turkey tail
+    - Many-colored polypore
+    - Kawaratake (Japanese: 瓦茸)
+    - Yunzhi (Chinese: 云芝)
+    - Coriolus versicolor (older name still used in medical literature)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Polyporales
+    family: Polyporaceae
+    genus: Trametes
+    species: versicolor
+    binomial: Trametes versicolor
+    author: "(L.) Lloyd"
+    year_described: 1921
+    taxonomic_history:
+      - "1753: Described as Boletus versicolor by Linnaeus"
+      - "1821: Placed in Polyporus by Fries"
+      - "1881: Placed in Coriolus by Quélet — name still used in pharmaceutical literature"
+      - "1921: Transferred to Trametes by Curtis Gates Lloyd"
+    mycobank_id: "MB 296613"
+  morphology:
+    cap:
+      diameter_cm: "3–10 (individual bracket)"
+      shape: "semicircular to fan-shaped bracket; thin, flexible, leathery; often in overlapping rows"
+      color: "concentric zones of varying colors: white, cream, grey, tan, brown, rust, blue-green; outer margin always paler"
+      surface: "finely hairy (tomentose) with velvet-like texture; distinct concentric color zones"
+    gills:
+      attachment: "Not applicable — polypore with tubes and pores"
+      color: "white to cream pores; 3–5 pores per mm (very fine)"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "Not applicable (sessile bracket)"
+      diameter_cm: "Not applicable"
+      color: "white basal attachment"
+      texture: "leathery, tough, flexible when fresh; firm when dried"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "cylindrical to allantoid (slightly curved)"
+      dimensions_μm: "5–6 × 1.5–2"
+      color_in_mass: "white"
+      wall: "smooth, thin"
+    spore_print: "white"
+    flesh:
+      color: "white to cream"
+      texture: "thin, tough, leathery; two distinct layers — dense upper (context) and porous lower (tube layer)"
+      odor: "mild, pleasant, slightly fungal"
+      taste: "mild, inedible due to toughness (not toxic)"
+    notable_morphological_feature: |
+      Trametes versicolor is among the most visually striking fungi in temperate
+      forests — the concentric colored zones on the bracket surface can range through
+      white, cream, tan, brown, rust-red, grey, and blue-green, all on a single
+      specimen. The species epithet versicolor (many-colored) refers to this. The
+      underside bears extremely fine white pores (3–5/mm), and the bracket is thin,
+      fan-shaped, and flexible. Turkey tail grows in large overlapping tiers on
+      dead hardwood. A key test: the zones are both different colors AND different
+      textures (alternating velvet and smooth zones).
+  habitat:
+    substrate: "dead hardwood logs, stumps, branches; occasionally on living stressed trees"
+    ecosystem:
+      - temperate deciduous forests
+      - mixed woodlands
+      - disturbed forest margins
+      - urban parks
+    associated_hosts:
+      - Quercus (oak)
+      - Fagus (beech)
+      - Betula (birch)
+      - Populus (poplar)
+      - most hardwood species
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Circumglobal in temperate and tropical zones; one of the most widespread polypores"
+    global: true
+    elevation_m: "0–3000"
+  edibility:
+    status: "inedible (too tough; used exclusively as medicinal supplement)"
+    preparation:
+      - decocted as tea
+      - extracted as hot-water or dual-extract supplement
+      - encapsulated powder
+    notes: |
+      Not consumed as food due to leathery, inedible texture. Widely used as a
+      medicinal supplement in traditional Chinese medicine (yunzhi) and Japanese
+      medicine (kawaratake). PSK (polysaccharide K / krestin) extracted from
+      Trametes versicolor mycelium was the first approved mushroom-derived cancer
+      adjunct treatment (Japan, 1977). PSP (polysaccharide peptide) is the related
+      compound used in Chinese medicine research. Tea preparation is traditional;
+      commercial dual-extract supplements combine hot-water and alcohol fractions.
+    lookalikes:
+      - species: "Stereum hirsutum (false turkey tail)"
+        danger: "safe (inedible)"
+        distinguishing_features: "Stereum has NO pores on undersurface — completely smooth, waxy underside; not related to turkey tail"
+      - species: "Trametes hirsuta"
+        danger: "safe (inedible)"
+        distinguishing_features: "T. hirsuta has fewer color zones, predominantly grey-white, coarser hairs, and larger pores (2–3/mm)"
+  lifecycle:
+    fruiting_season: "year-round; persists and grows throughout the year; spores released spring–autumn"
+    fruiting_triggers:
+      - available decaying hardwood
+      - moisture
+    mycelium_type: "white-rot — degrades lignin; white mycelium"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: true
+    difficulty: "intermediate"
+    substrate:
+      - hardwood sawdust (oak, poplar)
+      - wheat straw
+      - supplemented with bran
+    spawn_type: "grain spawn or liquid culture"
+    fruiting_temp_c: "20–28"
+    incubation_temp_c: "25–30"
+    notes: |
+      Commercially cultivated primarily for medicinal extract production (PSK, PSP)
+      rather than whole fruiting body consumption. In Japan and China, cultivation
+      on hardwood logs and sawdust bags is standard. The fermented mycelial biomass
+      is used for PSK extraction. Fruiting body cultivation for supplements is also
+      practiced. Relatively fast colonizer; multiple harvests possible.
+  biochemistry:
+    compounds:
+      - "PSK — Polysaccharide K / Krestin (protein-bound beta-1,4-glucan with beta-1,3-glucan; primary bioactive)"
+      - "PSP — Polysaccharide Peptide (related compound from Chinese strains)"
+      - "Ergosterol (provitamin D2)"
+      - "Phenolic compounds (antioxidant)"
+      - "Coriolan (beta-glucan; antitumor)"
+    medicinal_research:
+      - "PSK (Krestin) approved as pharmaceutical adjuvant in cancer treatment in Japan (1977) — used with chemotherapy for gastric, colorectal, lung cancer"
+      - "Multiple randomized controlled trials showing improved survival rates with PSK in gastric cancer patients"
+      - "PSP used in China as adjuvant therapy, showing improvement in immune function in cancer patients"
+      - "Randomized trial (2012, Weil Cornell Medical) showing Trametes versicolor improves immune function in breast cancer patients post-chemotherapy"
+      - "Prebiotic effect: enhances Lactobacillus and Bifidobacterium populations in gut microbiome"
+      - "Anti-HIV activity of PSP demonstrated in vitro"
+  conservation:
+    status: "Least Concern (extremely abundant globally)"
+    threats: []
+  data_sources:
+    - "MycoBank MB 296613"
+    - "Lloyd (1921) Synopsis of the Stipitate Steroids"
+    - "Kidd (2000) Alternative Medicine Review — PSK and PSP review"
+    - "Torkelson et al. (2012) ISRN Oncology — clinical trial"
+    - "Index Fungorum IF 296613"
