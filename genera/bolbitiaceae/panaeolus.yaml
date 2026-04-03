@@ -1,0 +1,51 @@
+genus:
+  name: Panaeolus
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Bolbitiaceae
+    genus: Panaeolus
+    established: 1871
+    author: "(Fr.) Quél."
+    mycobank_id: "MB 18560"
+  description: |
+    Panaeolus is a genus of ~13–20 species of small to medium-sized mushrooms,
+    predominantly coprophilous (dung-inhabiting), characterized by the diagnostic
+    mottled or spotted appearance of their gills. This mottled appearance arises
+    because spores in Panaeolus mature asynchronously—patches of gills bear
+    mature black spores while adjacent patches bear immature grey spores,
+    creating a variegated pattern unique to this genus. The genus contains
+    several psychoactive species, particularly Panaeolus cyanescens (Pan cyan,
+    blue meanie) which can exceed Psilocybe cubensis in psilocybin content.
+    All species produce black spore prints. Distribution is pantropical to
+    temperate, with most species occurring on livestock dung or enriched
+    grassland soils. Panaeolus is separated from Panaeolina by having
+    roughened spores.
+  morphology:
+    cap:
+      shape: "conic to campanulate; not expanding much; often bell-shaped"
+      color: "grey to buff to brown, hygrophanous"
+      diameter_cm: "1–6 depending on species"
+    gills:
+      attachment: "adnate; densely mottled due to uneven spore ripening"
+      color: "grey to black; mottled appearance diagnostic"
+    stipe:
+      texture: "slender, fibrous; rigid"
+    spore_print: "black (jet black — diagnostic for genus)"
+  species_count: 13
+  key_species:
+    - Panaeolus cyanescens (blue meanie — psychoactive)
+    - Panaeolus papilionaceus (common in pastures)
+    - Panaeolus semiovatus (ringed mottlegill)
+    - Panaeolus cinctulus (banded mottlegill — mildly psychoactive)
+  ecological_roles:
+    - Coprophilous decomposers on herbivore dung
+    - Saprotrophic in enriched grasslands
+    - Pasture ecosystem decomposers
+  data_sources:
+    - "MycoBank MB 18560"
+    - "Gerhardt (1996) Panaeolus monograph"
+    - "Guzmán et al. (1998) Psilocybin species in Panaeolus"
+    - "Index Fungorum"

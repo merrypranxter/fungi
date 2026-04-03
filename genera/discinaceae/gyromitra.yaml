@@ -1,0 +1,51 @@
+genus:
+  name: Gyromitra
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Pezizomycetes
+    order: Pezizales
+    family: Discinaceae
+    genus: Gyromitra
+    established: 1849
+    author: "Fr."
+    mycobank_id: "MB 18129"
+  description: |
+    Gyromitra is a genus of ~13 species of cup fungi (ascomycetes) with
+    irregularly lobed, brain-like, or saddle-shaped apothecia resembling morels
+    at a distance. The name means "turban cap" (Greek: gyros = round, mitra =
+    turban). Several species superficially resemble true morels (Morchella) but
+    can be distinguished by the wrinkled/folded (not honeycombed) cap and the
+    partial to irregular attachment of the cap to the stipe. Gyromitra contains
+    deadly and near-deadly species: G. esculenta produces gyromitrin (a volatile
+    hydrazine precursor), while others (G. infula) may be toxic in quantity.
+    The name G. esculenta ("edible") is deeply ironic given its toxicity record.
+    Gyromitra species fruit in spring, coinciding with true morels, which
+    significantly increases the risk of misidentification by foragers.
+  morphology:
+    cap:
+      shape: "convoluted, brain-like lobes; saddle-shaped in some species"
+      color: "reddish-brown to chestnut to dark brown"
+      attachment: "partially free from stipe (cap lobes not fused — unlike Morchella)"
+      hollow: true
+    stipe:
+      texture: "stout, chambered (hollow with internal partitions)"
+    spores:
+      shape: "fusiform (spindle-shaped) with two terminal oil droplets"
+      dimensions_μm: "17–22 × 8–10"
+    asci: "operculate, 8-spored"
+  species_count: 13
+  key_species:
+    - Gyromitra esculenta (false morel — deadly)
+    - Gyromitra infula (hooded false morel — toxic)
+    - Gyromitra gigas (giant false morel — less toxic)
+    - Gyromitra caroliniana (Carolina false morel — North America)
+  ecological_roles:
+    - Saprotrophic decomposers of conifer wood and soil
+    - Spring forest floor saprophytes
+    - Potentially ectomycorrhizal with conifers (some evidence)
+  data_sources:
+    - "MycoBank MB 18129"
+    - "Beyer & Rödiger (1893) Gyromitra taxonomy"
+    - "Pyysalo (1976) Gyromitrin chemistry"
+    - "Index Fungorum"

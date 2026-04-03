@@ -1,0 +1,44 @@
+family:
+  name: Cortinariaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Cortinariaceae
+    established: 1838
+    author: "R. Heim"
+    mycobank_id: "MB 80581"
+  description: |
+    Cortinariaceae is a large family of predominantly ectomycorrhizal gilled mushrooms,
+    dominated by the massive genus Cortinarius (~2,000+ species), the largest genus of
+    gilled fungi. The family is characterized by the universal presence of a cortina—a
+    cobweb-like partial veil of silky fibers that stretches between the cap margin and
+    stipe when young, leaving rusty fibrous remnants on the stipe. All members produce
+    rusty-brown to ochraceous-brown spore prints. Cortinariaceae are critical forest
+    ecosystem engineers as ectomycorrhizal partners with conifers and hardwoods.
+    The family contains the deadly orellanine-producing species (C. rubellus, C. orellanus)
+    that cause nephrotoxic syndrome with a catastrophically delayed onset of 2–3 weeks—
+    making them the most treacherous of all poisonous fungi.
+  key_characteristics:
+    - Cortina (cobweb veil) diagnostic at all life stages
+    - Rusty-brown to ochre spore print (never white or black)
+    - Predominantly ectomycorrhizal
+    - Warted or ornamented spores in many species
+    - Highly diverse: caps dry or viscid, all colors
+    - Often with distinctive odors (earthy, radish-like, honey-like)
+  genera:
+    - Cortinarius
+    - Thaxterogaster (gastroid forms)
+    - Phlegmacium (subgenus)
+    - Dermocybe (subgenus)
+    - Telamonia (subgenus)
+  ecological_roles:
+    - Ectomycorrhizal partners for conifers (pine, spruce, fir)
+    - Ectomycorrhizal partners for hardwoods (oak, beech, birch)
+    - Critical role in forest nutrient cycling and tree establishment
+  data_sources:
+    - "MycoBank MB 80581"
+    - "Garnica et al. (2016) Systematics of Cortinariaceae"
+    - "Niskanen et al. (2022) Cortinarius nomenclature review"
+    - "Index Fungorum"

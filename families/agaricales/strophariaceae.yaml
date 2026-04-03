@@ -1,0 +1,47 @@
+family:
+  name: Strophariaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Strophariaceae
+    established: 1946
+    author: "Singer & A.H. Sm."
+    mycobank_id: "MB 81787"
+  description: |
+    Strophariaceae is a large family of gilled mushrooms in Agaricales, revised
+    significantly through molecular phylogenetics. The family includes well-known
+    genera such as Stropharia, Hypholoma, Pholiota, and importantly Galerina—the
+    deadly funeral bell mushroom. Previously, Galerina was placed in Cortinariaceae,
+    but molecular studies firmly place it in Strophariaceae. The family encompasses
+    wood decomposers, grassland saprophytes, and dung colonizers. Several economically
+    important species occur here, including Cyclocybe aegerita (poplar mushroom),
+    cultivated as an edible. The deadly Galerina marginata contains alpha-amanitin
+    identical to the death cap (Amanita phalloides) and has caused numerous fatalities
+    when confused with edible species.
+  key_characteristics:
+    - Purple-brown to dark brown spore prints in most genera
+    - Rusty-brown spore prints in Galerina
+    - Cortina (cobweb veil) or membranous ring often present
+    - Wood-inhabiting (many genera, especially Galerina and Pholiota)
+    - Chrysocystidia (golden-walled cystidia) present in many genera
+    - Saprotrophic, primarily lignicoles and litter decomposers
+  genera:
+    - Galerina
+    - Stropharia
+    - Hypholoma
+    - Pholiota
+    - Cyclocybe
+    - Leratiomyces
+    - Deconica
+  ecological_roles:
+    - Lignicolous decomposers of dead wood (logs, stumps, wood chips)
+    - Grassland saprotrophs
+    - Dung and compost decomposers
+    - Important decomposers of coarse woody debris in forests
+  data_sources:
+    - "MycoBank MB 81787"
+    - "Matheny et al. (2006) Major clades of Agaricales"
+    - "Index Fungorum"
+    - "Jacobsson & Larsson (2007) Taxonomy of Strophariaceae"

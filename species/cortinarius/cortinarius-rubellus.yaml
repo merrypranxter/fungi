@@ -1,0 +1,154 @@
+species:
+  name: Cortinarius rubellus
+  common_names:
+    - Deadly webcap
+    - Fool's webcap
+    - Deadly cort
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Cortinariaceae
+    genus: Cortinarius
+    species: rubellus
+    binomial: Cortinarius rubellus
+    author: "Cooke"
+    year_described: 1887
+    taxonomic_history:
+      - "1887: Described by Cooke"
+      - "Synonym: Cortinarius speciosissimus Kühner & Romagn. — widely used in toxicology literature"
+      - "2022: Niskanen et al. confirm C. rubellus as correct name"
+    mycobank_id: "MB 120022"
+  morphology:
+    cap:
+      diameter_cm: "3–8"
+      shape: "conical to campanulate; expanding to broadly umbonate with persistent broad umbo"
+      color: "orange-brown to rust-red to tawny; vivid coloration"
+      surface: "dry; fibrillose (covered with fine silky fibers); radially streaked"
+    gills:
+      attachment: "adnate to sinuate"
+      color: "young: pale ochraceous; maturing to deep rust-brown"
+      spacing: "moderately spaced"
+    stipe:
+      height_cm: "6–12"
+      diameter_cm: "0.8–1.5"
+      color: "orange-brown; same color as cap"
+      texture: "fibrous; cortina remnants visible as rusty-brown fibrous zone on mid-stipe"
+      ring: "absent (cortina: cobweb-like fibers present in young specimens, leaving rusty fibrous zone)"
+      volva: "absent"
+    spores:
+      shape: "ellipsoid; distinctly warted"
+      dimensions_μm: "8–11 × 5–6.5"
+      color_in_mass: "rusty-brown"
+      wall: "warted/roughened — important microscopic feature"
+    spore_print: "rusty-brown to ochre-brown"
+    flesh:
+      color: "pale yellowish to pale ochre; no color change"
+      texture: "firm"
+      odor: "mild, slightly earthy or radish-like"
+      taste: "mild (NEVER TASTE — DEADLY)"
+    notable_morphological_feature: |
+      The cobweb-like cortina (partial veil of silky fibers) stretched between
+      cap margin and stipe is the defining character of all Cortinarius species.
+      In C. rubellus, the uniformly orange-rust coloration, conical-umbonate cap,
+      and association with conifer forests are key features. Orellanine is not
+      detectable by taste or odor. The 2–3 week delay before symptoms appear
+      makes C. rubellus the most treacherous of all toxic fungi.
+  habitat:
+    substrate: "soil; ectomycorrhizal with conifer roots"
+    ecosystem:
+      - spruce forests (Picea)
+      - pine forests (Pinus)
+      - mixed conifer-hardwood forests
+      - boreal and montane forest zones
+    associated_hosts:
+      - Picea abies (Norway spruce)
+      - Pinus sylvestris (Scots pine)
+      - Pinus muricata (bishop pine — NA)
+    mycorrhizal: true
+    saprotrophic: false
+  distribution:
+    native_range: "Northern Europe (Scandinavia, Scotland, Central Europe); northern North America"
+    global: false
+    elevation_m: "0–2000"
+    notes: |
+      Primarily boreal and montane. Most poisonings documented from Scandinavia,
+      Scotland, France, and Central Europe. The Nicholas Evans case (2008): the author
+      of The Horse Whisperer and three family members were poisoned while foraging in
+      Scotland; three required kidney transplants.
+  edibility:
+    status: "DEADLY TOXIC — orellanine causes irreversible renal failure; most delayed-onset mycotoxin known"
+    toxins:
+      - compound: "Orellanine (bipyridine N,N'-dioxide)"
+        mechanism: "Nephrotoxic; inhibits phosphatases and tyrosine kinases in renal proximal tubule cells; causes irreversible tubular necrosis and interstitial nephritis"
+        lethal_dose: "~1–6 mg/kg body weight; as few as 30–50 g fresh mushroom may cause permanent renal failure"
+        onset_hours: "36 hours to 3 WEEKS (2–21 days) — catastrophically delayed; the longest onset of any mycotoxin"
+      - compound: "Orelline and cortinarin A, B, C"
+        mechanism: "Structurally related nephrotoxic bipyridyl compounds"
+        lethal_dose: "Lower potency than orellanine"
+        onset_hours: "Similar delayed onset"
+    clinical_course: |
+      The orellanine syndrome (orellanismus) is the most deceptive of all mycotoxicoses.
+
+      Days 1–3: Typically completely asymptomatic, or mild flu-like symptoms.
+      Days 3–14: Onset of polydipsia (intense thirst), polyuria, then headache,
+        nausea, vomiting, abdominal and flank pain.
+      Days 14–21+: Acute renal failure becomes apparent; elevated creatinine,
+        BUN; oliguria or anuria. By the time symptoms appear, irreversible
+        tubular necrosis has occurred.
+      Outcome: Without dialysis/transplant — fatal. With treatment:
+        ~50% of severe cases require permanent dialysis or kidney transplant.
+        Some recovery possible in mild exposure. Orellanine is heat-stable —
+        cooking does NOT reduce toxicity.
+
+      Treatment: Supportive; haemodialysis; renal transplantation.
+      No antidote exists. Orellanine can be detected in urine for weeks.
+    notes: |
+      C. rubellus (syn. C. speciosissimus) and C. orellanus are the primary
+      orellanine-containing species. ALL Cortinarius species must be considered
+      suspect. No Cortinarius should be eaten by anyone other than world-class experts.
+      The extreme delay means victims often cannot recall what they ate.
+    lookalikes:
+      - species: "Cortinarius triumphans (birch webcap)"
+        danger: "not orellanine-toxic but inedible"
+        distinguishing_features: "C. triumphans: viscid cap; grows with birch; paler coloration"
+      - species: "Cantharellus cibarius (chanterelle)"
+        danger: "edible — dangerous confusion in autumn"
+        distinguishing_features: "Chanterelle: forking false ridges (not true gills); fruity odor; no cortina; no ring zone; no rusty spore print"
+      - species: "Dermocybe species"
+        danger: "inedible; some toxic"
+        distinguishing_features: "Dermocybe: thinner flesh; more vivid red/crimson pigments in gills; smaller"
+  lifecycle:
+    fruiting_season: "summer to autumn (July–October); peak August–September"
+    fruiting_triggers:
+      - rainfall in conifer forests
+      - late summer cooling
+    mycelium_type: "ectomycorrhizal mantle on conifer roots"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: false
+    difficulty: "Not applicable — obligate ectomycorrhizal"
+    substrate: []
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable"
+    incubation_temp_c: "Not applicable"
+    notes: "Never cultivate. All Cortinarius inedible. No antidote for orellanine."
+  biochemistry:
+    compounds:
+      - "Orellanine (2,2'-bipyridine-3,3',4,4'-tetraol N,N'-dioxide) — primary nephrotoxin"
+      - "Orelline — related bipyridyl compound"
+      - "Cortinarins A, B, C — related nephrotoxins"
+    medicinal_research:
+      - "Orellanine structure elucidated by Antkowiak & Gessner (1979)"
+      - "Orellanine being investigated as a selective renal cell carcinoma therapeutic (targeted toxin)"
+      - "Mechanism of tubular toxicity studied as model for xenobiotic nephrotoxicity"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 120022"
+    - "Danel et al. (2001) Cortinarius orellanus poisoning — review of toxicology"
+    - "Antkowiak & Gessner (1979) Orellanine — structure determination"
+    - "Niskanen et al. (2022) Cortinarius name stabilization"
+    - "Index Fungorum"

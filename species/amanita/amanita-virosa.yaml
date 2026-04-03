@@ -1,0 +1,170 @@
+species:
+  name: Amanita virosa
+  common_names:
+    - Destroying angel
+    - European destroying angel
+    - Death angel
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Amanitaceae
+    genus: Amanita
+    species: virosa
+    binomial: Amanita virosa
+    author: "(Fr.) Bertill."
+    year_described: 1866
+    taxonomic_history:
+      - "1821: Described by Fries as Agaricus virosus"
+      - "1866: Transferred to Amanita by Bertillon"
+      - "Note: A. bisporigera (North America) and A. verna (spring destroying angel) are closely related species; some authorities treat them as separate, others as regional variants"
+    mycobank_id: "MB 207654"
+  morphology:
+    cap:
+      diameter_cm: "5–11"
+      shape: "conical to campanulate (bell-shaped) when young; expanding to broadly convex or nearly plane with age; rarely fully flattening"
+      color: "pure, gleaming white throughout; never developing any color even in age"
+      surface: "smooth to slightly silky; dry or slightly tacky when moist; no warts or universal veil remnants on cap (entire veil forms the volva)"
+    gills:
+      attachment: "free"
+      color: "pure white; not discoloring"
+      spacing: "crowded; white edge"
+    stipe:
+      height_cm: "9–15"
+      diameter_cm: "0.8–2"
+      color: "pure white; with cottony or shaggy white surface below ring"
+      texture: "slightly fibrous; shaggy-woolly appearance; firm"
+      ring: "present; skirt-like, pendant, superior; white; often falling or clinging to cap margin with age"
+      volva: "present; deep, cup-shaped or sac-like (not friable or warty as in A. muscaria); white; typically buried 2–6 cm deep in soil"
+    spores:
+      shape: "globose to subglobose"
+      dimensions_μm: "8–12 × 8–11"
+      color_in_mass: "white"
+      wall: "smooth; amyloid (turning blue-black in Melzer's reagent)"
+    spore_print: "white"
+    flesh:
+      color: "pure white throughout; not changing color when cut"
+      texture: "firm when young; soft at maturity"
+      odor: "faint when young; increasingly unpleasant and fetid at maturity"
+      taste: "mild, pleasant (NEVER TASTE — DEADLY)"
+    notable_morphological_feature: |
+      The uniformly pure white appearance of every part — cap, gills, stipe, ring,
+      and volva — is the most dramatic feature of Amanita virosa and gives rise to
+      its common name "destroying angel." The deep, sac-like volva (cup at base)
+      is often buried and can be overlooked unless the base is carefully excavated.
+      The combination of all-white coloration, sac-like volva, pendant ring, free
+      white gills, and white spore print is diagnostic. The absence of any yellowing
+      in KOH (unlike Agaricus) is a confirmatory chemical test.
+  habitat:
+    substrate: "soil; ectomycorrhizal association with tree roots"
+    ecosystem:
+      - mixed deciduous and coniferous forests
+      - birch and oak woodlands
+      - spruce and pine forests
+      - forest edges and woodland paths
+    associated_hosts:
+      - Betula (birch)
+      - Quercus (oak)
+      - Picea (spruce)
+      - Pinus (pine)
+      - Fagus (beech)
+    mycorrhizal: true
+    saprotrophic: false
+  distribution:
+    native_range: "Northern Europe (Scandinavia, British Isles, Central Europe); northern North America"
+    global: false
+    elevation_m: "0–1800"
+    notes: |
+      A. virosa is the primary European destroying angel. Closely related species
+      occupy similar ecological niches in North America (A. bisporigera — North
+      American destroying angel) and spring fruiting (A. verna — spring amanita).
+      All these white Amanita species are considered equally lethal.
+  edibility:
+    status: "DEADLY TOXIC — responsible for numerous fatal poisonings; one of the most toxic organisms known"
+    toxins:
+      - compound: "Alpha-amanitin"
+        mechanism: "Inhibits RNA polymerase II; blocks mRNA transcription; causes irreversible death of hepatocytes (liver cells) and kidney tubule cells"
+        lethal_dose: "~0.1 mg/kg body weight; a single cap (7–10 g fresh) may contain sufficient alpha-amanitin to kill an adult"
+        onset_hours: "6–24 hours delay after ingestion — critically deceptive"
+      - compound: "Beta-amanitin"
+        mechanism: "Inhibitor of RNA polymerase II and III; additive toxicity with alpha-amanitin"
+        lethal_dose: "Lower potency than alpha-amanitin"
+        onset_hours: "6–24 hours"
+      - compound: "Phalloidin"
+        mechanism: "Stabilizes actin filaments in cells; primarily active in liver"
+        lethal_dose: "Less relevant in oral poisoning (poorly absorbed)"
+        onset_hours: "Variable"
+    clinical_course: |
+      Phase 1 (0–6 hrs): Often asymptomatic or very mild GI discomfort.
+      Phase 2 (6–24 hrs): Sudden onset severe GI syndrome — profuse watery diarrhea
+        (often cholera-like), severe vomiting, abdominal cramps, intense thirst.
+        Dehydration and electrolyte imbalance.
+      Phase 3 (24–72 hrs): Apparent clinical improvement — the "false recovery" phase.
+        Patient may feel better; liver and kidney damage continuing silently.
+      Phase 4 (72–96+ hrs): Acute liver failure (hepatic encephalopathy, jaundice,
+        coagulopathy) and acute kidney failure. Elevated liver enzymes (AST, ALT),
+        rising bilirubin, and clotting factor depletion indicate liver destruction.
+      Phase 5: Death from multi-organ failure (untreated) or prolonged ICU
+        management; liver transplant may be required in severe cases.
+      Mortality: 10–30% with modern medical treatment; historically near 100%.
+      Treatment: Silibinin (milk thistle) and N-acetylcysteine show benefit if given
+      early. Repeated activated charcoal. Penicillin G and cimetidine may block
+      hepatic uptake. No specific antidote. Liver transplantation for end-stage failure.
+    notes: |
+      "Destroying Angel" refers to the pure white, angelic appearance concealing
+      lethal potency. A. virosa content of alpha-amanitin (~1.4–2.1 mg/g dry weight)
+      is comparable to or slightly higher than A. phalloides. The species is
+      responsible for many fatal poisonings in Europe, particularly in Eastern
+      European immigrant communities with different mushroom traditions. The all-white
+      appearance is deeply confusing for foragers expecting deadly mushrooms to look
+      dangerous or discolored.
+    lookalikes:
+      - species: "Agaricus campestris (field mushroom)"
+        danger: "edible — safe"
+        distinguishing_features: "A. campestris: pink to chocolate-brown gills (never white); no volva; bruises yellow weakly; prefers open grassland"
+      - species: "Agaricus xanthodermus (yellow-staining mushroom)"
+        danger: "mildly toxic (GI)"
+        distinguishing_features: "Yellows instantly with KOH or scratching; pink gills becoming brown; no volva"
+      - species: "Volvariella volvacea (paddy straw mushroom)"
+        danger: "edible — safe"
+        distinguishing_features: "V. volvacea: pink gills and pink spore print; no ring; associated with rice straw"
+      - species: "Lycoperdon (puffballs) — button stage"
+        danger: "edible if all-white inside"
+        distinguishing_features: "Always slice puffballs vertically — if all-white solid inside = true puffball (edible); if any outline of a developing mushroom visible = Amanita egg (DEADLY)"
+  lifecycle:
+    fruiting_season: "summer to autumn (July–October); peak August–September in Northern Europe"
+    fruiting_triggers:
+      - summer warmth and moisture
+      - rainfall following warm dry periods
+    mycelium_type: "white ectomycorrhizal mantle on host tree roots"
+    spore_dispersal: "wind; spores viable for extended periods"
+  cultivation:
+    commercial: false
+    difficulty: "Not applicable — obligate ectomycorrhizal; cannot be cultivated"
+    substrate: []
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable"
+    incubation_temp_c: "Not applicable"
+    notes: |
+      Obligate ectomycorrhizal with forest trees. Cannot be cultivated on artificial
+      substrate. No antidote exists for amatoxin poisoning.
+  biochemistry:
+    compounds:
+      - "Alpha-amanitin (~1.4–2.1 mg/g dry weight) — RNA polymerase II inhibitor"
+      - "Beta-amanitin — secondary amatoxin"
+      - "Phalloidin and phallotoxins — actin stabilizers"
+      - "Virotoxins — monocyclic heptapeptides unique to A. virosa"
+    medicinal_research:
+      - "Alpha-amanitin used in antibody-drug conjugates (ADCs) for targeted cancer therapy research"
+      - "Amatoxin chemistry extensively studied as model for RNA polymerase inhibitors"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 207654"
+    - "Bertillon (1866) Dictionnaire encyclopédique des sciences médicales"
+    - "Wieland (1986) The Peptides of Amanita Phalloides"
+    - "Enjalbert et al. (2002) Amatoxin poisoning treatment review"
+    - "Benjamin (1995) Mushrooms: Poisons and Panaceas"
+    - "Index Fungorum"

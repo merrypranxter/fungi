@@ -1,0 +1,45 @@
+family:
+  name: Mycenaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Mycenaceae
+    established: 1879
+    author: "Roze"
+    mycobank_id: "MB 81306"
+  description: |
+    Mycenaceae is a family of small, delicate gilled mushrooms in Agaricales,
+    centered on the large genus Mycena (~500 species). Members are typically
+    small, bell-shaped to conical, and saprotrophic on dead wood, leaf litter,
+    and plant debris. The family is notable for containing many bioluminescent
+    species: Mycena chlorophos, M. luxaeterna, M. haematopus, and Panellus stipticus
+    produce visible light through a luciferin-luciferase biochemical system involving
+    hispidin compounds. Mycenaceae have white spore prints, thin fragile flesh, and
+    often exude colored latex or juice when broken. Many species are too small or
+    bitter to be of culinary interest, but they are ecologically vital as decomposers
+    of forest litter and coarse woody debris.
+  key_characteristics:
+    - Small, bell-shaped to conical fruiting bodies
+    - White spore print
+    - Saprotrophic on wood, leaf litter, plant debris
+    - Some species bioluminescent (mycelium and/or fruiting bodies)
+    - Many species with cystidia bearing crystalline encrustations
+    - Gills typically adnate to adnexed, widely spaced
+    - Often produce colored exudate when cut (Mycena haematopus: blood-red)
+  genera:
+    - Mycena
+    - Panellus
+    - Roridomyces
+    - Favolaschia
+    - Resinomycena
+  ecological_roles:
+    - Saprotrophic decomposers of forest litter and woody debris
+    - Wood decay specialists (white rot)
+    - Pioneer colonizers of dead wood
+  data_sources:
+    - "MycoBank MB 81306"
+    - "Moncalvo et al. (2002) Phylogeny of Agaricales"
+    - "Desjardin et al. (2010) Bioluminescent Mycena species"
+    - "Index Fungorum"

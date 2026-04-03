@@ -1,0 +1,43 @@
+family:
+  name: Omphalotaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Omphalotaceae
+    established: 2002
+    author: "Bresinsky"
+    mycobank_id: "MB 28600"
+  description: |
+    Omphalotaceae is a family of gilled fungi in Agaricales, established to
+    accommodate several genera previously distributed among other families.
+    The family includes the jack-o'-lantern mushrooms (Omphalotus), which are
+    toxically bioluminescent—their gills emit a faint green glow in darkness.
+    Omphalotaceae are characterized by orange to yellow caps, white spore prints,
+    saprotrophic growth at the base of trees or on buried roots, and the production
+    of toxic sesquiterpene compounds (illudins). The family also includes Marasmius
+    in some classifications. Members are important wood decomposers and are
+    well known for causing confusion with edible chanterelles (Cantharellus),
+    making identification education critically important for foragers.
+  key_characteristics:
+    - Orange to yellow fruiting bodies (in Omphalotus)
+    - True gills (not forking ridges), distinguishing from Cantharellus
+    - Gills bioluminescent in Omphalotus (faint green glow)
+    - White spore print
+    - Cluster-fruiting at tree bases or on buried roots
+    - Sesquiterpene toxins (illudin S and M) in Omphalotus
+    - Saprotrophic wood decomposers
+  genera:
+    - Omphalotus
+    - Marasmius (some classifications)
+    - Gymnopus (some classifications)
+  ecological_roles:
+    - White rot decomposers of dead wood
+    - Parasites on weakened trees (Omphalotus on roots)
+    - Forest floor litter decomposers
+  data_sources:
+    - "MycoBank MB 28600"
+    - "Bresinsky (2002) Omphalotaceae family circumscription"
+    - "Moncalvo et al. (2002) Phylogeny of euagarics"
+    - "Index Fungorum"

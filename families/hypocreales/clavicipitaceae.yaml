@@ -1,0 +1,46 @@
+family:
+  name: Clavicipitaceae
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Sordariomycetes
+    order: Hypocreales
+    family: Clavicipitaceae
+    established: 1835
+    author: "Lindau"
+    mycobank_id: "MB 80545"
+  description: |
+    Clavicipitaceae is a family of ascomycetes in the order Hypocreales, containing
+    parasitic and entomopathogenic fungi of enormous ecological and pharmacological
+    significance. The family includes the genus Claviceps (ergot fungi), which parasitizes
+    cereal grasses and produces sclerotia containing powerful alkaloids including
+    ergotamine, ergonovine, and lysergic acid—the biosynthetic precursor to LSD.
+    Ergotism caused by contaminated rye flour devastated medieval Europe (St. Anthony's
+    Fire) and may have contributed to historical witch trial hysteria. Other genera
+    include Epichloë (endophytes in grasses), Balansia, and Atkinsonella. The family
+    was circumscribed prior to molecular phylogenetics and some genera have been
+    transferred; the core Claviceps group is firmly established.
+  key_characteristics:
+    - Parasites of grasses and sedges (Claviceps) or insects/arthropods (Cordyceps relatives)
+    - Sclerotia (ergots) replacing plant ovaries in Claviceps
+    - Perithecia embedded in stromata
+    - Filiform (thread-like) ascospores
+    - Production of ergot alkaloids (lysergic acid derivatives)
+    - Endophytic species in grasses (Epichloë)
+    - Bright-colored (yellow, orange, red) stromata
+  genera:
+    - Claviceps
+    - Epichloë
+    - Balansia
+    - Atkinsonella
+    - Metarhizium (some classifications)
+  ecological_roles:
+    - Parasites of grass ovaries (Claviceps)
+    - Grass endophytes conferring pest resistance (Epichloë)
+    - Biological control agents of insect pests (Metarhizium)
+    - Key role in cereal crop disease (ergot blight)
+  data_sources:
+    - "MycoBank MB 80545"
+    - "Spatafora et al. (2007) Systematics of Hypocreales"
+    - "Index Fungorum"
+    - "Schardl et al. (2004) Grass endophytes — Clavicipitaceae"

@@ -1,0 +1,140 @@
+species:
+  name: Galerina marginata
+  common_names:
+    - Deadly galerina
+    - Funeral bell
+    - Autumn skullcap
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Strophariaceae
+    genus: Galerina
+    species: marginata
+    binomial: Galerina marginata
+    author: "(Batsch) Kühner"
+    year_described: 1935
+    taxonomic_history:
+      - "1789: Described by Batsch as Agaricus marginatus"
+      - "1935: Transferred to Galerina by Kühner"
+      - "G. autumnalis (NA) and G. venenata now synonymized under G. marginata"
+    mycobank_id: "MB 295461"
+  morphology:
+    cap:
+      diameter_cm: "1–4"
+      shape: "conic to convex to broadly umbonate; rarely fully expanding"
+      color: "hygrophanous: tawny honey-brown when moist; drying pale tan to buff from center outward"
+      surface: "smooth; viscid when moist; margin striate when wet"
+    gills:
+      attachment: "adnate to adnexed"
+      color: "pale brown to rusty-cinnamon at maturity"
+      spacing: "close to crowded"
+    stipe:
+      height_cm: "2–10"
+      diameter_cm: "0.2–0.5"
+      color: "pale brown above ring; darker fibrous brown below"
+      texture: "fibrous; smooth above ring; finely fibrillose below"
+      ring: "present; membranous; often striate; may deteriorate with age — KEY FEATURE"
+      volva: "absent"
+    spores:
+      shape: "ellipsoid; slightly roughened"
+      dimensions_μm: "8–10 × 5–6.5"
+      color_in_mass: "rusty-brown"
+      wall: "slightly warted to roughened"
+    spore_print: "rusty-brown (CRITICAL: NOT purple-brown like Psilocybe)"
+    flesh:
+      color: "pale brown; no color change when damaged"
+      texture: "thin, fragile"
+      odor: "farinaceous (mealy)"
+      taste: "mealy (NEVER TASTE — DEADLY)"
+    notable_morphological_feature: |
+      Galerina marginata is the most dangerous lookalike for edible and psychoactive
+      species. It grows in dense clusters on wood, has a ring, and resembles honey
+      mushrooms (Armillaria), enoki (Flammulina), and Psilocybe species. The rusty-brown
+      spore print (never purple-brown) is the critical distinction from deadly-confusion
+      Psilocybe species. NO bluing reaction occurs when flesh is damaged.
+  habitat:
+    substrate: "decaying wood — logs, stumps, buried woody debris, wood chips"
+    ecosystem:
+      - coniferous forests
+      - deciduous forests
+      - urban wood chip beds
+      - woodland margins
+    associated_hosts:
+      - Pinus (pine logs)
+      - Picea (spruce)
+      - Betula (birch)
+      - various hardwood stumps
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Cosmopolitan — northern temperate zone; widespread North America, Europe, Asia"
+    global: true
+    elevation_m: "0–2500"
+  edibility:
+    status: "DEADLY TOXIC — contains alpha-amanitin equal to death cap"
+    toxins:
+      - compound: "Alpha-amanitin"
+        mechanism: "Inhibits RNA polymerase II; causes irreversible hepatocellular and renal tubular necrosis"
+        lethal_dose: "~0.1 mg/kg; a small cluster of caps may be lethal"
+        onset_hours: "6–24 hours delay — deceptively asymptomatic initially"
+      - compound: "Beta-amanitin"
+        mechanism: "Additive RNA polymerase inhibition"
+        lethal_dose: "Lower potency than alpha"
+        onset_hours: "6–24 hours"
+    clinical_course: |
+      Identical to Amanita phalloides poisoning.
+      Phase 1 (6–24 hrs): Severe GI symptoms (vomiting, diarrhea).
+      Phase 2 (24–72 hrs): False recovery.
+      Phase 3 (72–96 hrs): Acute liver and kidney failure.
+      Treatment: Silibinin, N-acetylcysteine, supportive care. Liver transplant
+      may be required. No specific antidote. Mortality 10–30% with treatment.
+    notes: |
+      One of the most common causes of fatal mushroom poisoning in North America
+      and Europe. Particularly deadly because it is confused with:
+      1. Flammulina velutipes (enoki) — always check spore print color
+      2. Psilocybe cyanescens/P. subaeruginosa — Galerina has RUSTY spore print,
+         no bluing, and DOES have a ring; Psilocybe has PURPLE-BROWN spore print and BLUE-stains
+      3. Armillaria (honey mushroom) — Armillaria has white spore print
+    lookalikes:
+      - species: "Flammulina velutipes (enoki/velvet shank)"
+        danger: "edible — DANGEROUS CONFUSION"
+        distinguishing_features: "Flammulina: velvety-dark base, no ring, white-cream spore print, winter fruiting"
+      - species: "Psilocybe cyanescens"
+        danger: "psychoactive — LIFE-THREATENING confusion"
+        distinguishing_features: "Psilocybe: dark PURPLE-BROWN spore print; vivid blue staining when damaged; no ring"
+      - species: "Armillaria mellea (honey mushroom)"
+        danger: "edible when cooked"
+        distinguishing_features: "Armillaria: white spore print; larger; persistent white ring; black rhizomorphs"
+  lifecycle:
+    fruiting_season: "late summer to late autumn (August–November)"
+    fruiting_triggers:
+      - autumn cooling
+      - rainfall on decaying wood
+    mycelium_type: "white saprotrophic; penetrating wood"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: false
+    difficulty: "Not applicable — lethal; never cultivated"
+    substrate: []
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable"
+    incubation_temp_c: "Not applicable"
+    notes: "Never cultivate. All Galerina should be treated as potentially deadly."
+  biochemistry:
+    compounds:
+      - "Alpha-amanitin (0.3–0.5 mg/g dry weight — comparable to A. phalloides)"
+      - "Beta-amanitin"
+      - "Gamma-amanitin (trace)"
+    medicinal_research:
+      - "Alpha-amanitin from Galerina investigated in antibody-drug conjugate (ADC) oncology research"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 295461"
+    - "Kühner (1935) Le Genre Galera"
+    - "Mottram (2011) Galerina marginata poisoning review"
+    - "Enjalbert et al. (2004) Amatoxin content of G. marginata"
+    - "Index Fungorum"

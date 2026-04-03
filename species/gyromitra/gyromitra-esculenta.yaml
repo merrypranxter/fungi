@@ -1,0 +1,155 @@
+species:
+  name: Gyromitra esculenta
+  common_names:
+    - False morel
+    - Brain mushroom
+    - Turban fungus
+    - Beefsteak morel
+  taxonomy:
+    kingdom: Fungi
+    phylum: Ascomycota
+    class: Pezizomycetes
+    order: Pezizales
+    family: Discinaceae
+    genus: Gyromitra
+    species: esculenta
+    binomial: Gyromitra esculenta
+    author: "(Pers.) Fr."
+    year_described: 1849
+    taxonomic_history:
+      - "1800: Described by Persoon as Helvella esculenta"
+      - "1849: Transferred to Gyromitra by Fries"
+      - "Name esculenta (=edible) is deeply ironic — species causes fatalities"
+    mycobank_id: "MB 141900"
+  morphology:
+    cap:
+      diameter_cm: "5–15"
+      shape: "irregularly brain-like or saddle-shaped; convoluted with deep folds and lobes — NEVER honeycombed like Morchella; lobes partially to largely free from stipe"
+      color: "reddish-brown to chestnut-brown to dark brown"
+      surface: "smooth to slightly wrinkled within each lobe"
+    gills:
+      attachment: "Not applicable — ascomycete with smooth hymenium on inner lobe surfaces"
+      color: "Not applicable"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "3–8"
+      diameter_cm: "2–4"
+      color: "white to pale cream"
+      texture: "stout, hollow, chambered; ribbed or longitudinally furrowed"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "fusiform (spindle-shaped) with two terminal oil droplets"
+      dimensions_μm: "17–22 × 8–10"
+      color_in_mass: "pale yellow"
+      wall: "smooth; hyaline"
+    spore_print: "Not applicable — ascomycete; spores ejected from asci"
+    flesh:
+      color: "white to pale cream; brittle"
+      texture: "brittle, fragile; hollow stipe chambers visible when cut"
+      odor: "pleasant, fruity when fresh"
+      taste: "pleasant when fresh (NEVER TASTE — TOXIC)"
+    notable_morphological_feature: |
+      The brain-like, irregularly lobed cap that is emphatically NOT honeycombed
+      (as in true morels) is the key field character. When cut vertically, the
+      hollow chambered stipe is visible. Gyromitra fruits in spring alongside
+      true morels, causing dangerous seasonal confusion. The reddish-brown
+      convoluted cap and stout pale stipe on spring forest floors are characteristic.
+  habitat:
+    substrate: "sandy, well-drained coniferous soil; wood debris; near burnt areas"
+    ecosystem:
+      - coniferous forests (pine, spruce)
+      - mixed forests with conifers
+      - post-fire forest regeneration zones
+      - sandy forest soils
+    associated_hosts:
+      - Pinus (pine)
+      - Picea (spruce)
+      - Abies (fir)
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Northern temperate zone — Europe (Scandinavia, Central Europe) and North America"
+    global: false
+    elevation_m: "0–2000"
+    notes: |
+      Most common in Scandinavia and Central/Eastern Europe where it is traditionally
+      consumed. Relatively rare in UK. North American counterparts (G. caroliniana,
+      G. californica) occur in similar habitats.
+  edibility:
+    status: "DEADLY TOXIC — gyromitrin toxin; multiple fatalities; traditional consumption PARADOX"
+    toxins:
+      - compound: "Gyromitrin (N-methyl-N-formylhydrazine, acetaldehyde N-methyl-N-formylhydrazone)"
+        mechanism: "Volatile hydrazine compound; hydrolyzes to monomethylhydrazine (MMH) in stomach acid; MMH inhibits pyridoxal phosphate (vitamin B6) — inhibiting GABA synthesis and other B6-dependent enzymes; causes hemolysis, methemoglobinemia, and hepatorenal damage"
+        lethal_dose: "~1–30 mg/kg body weight (variable); 100–200 g fresh mushroom may be lethal; children more susceptible"
+        onset_hours: "6–12 hours"
+      - compound: "Monomethylhydrazine (MMH)"
+        mechanism: "Rocket propellant component; hydrazine derivative; inhibits B6-dependent enzymes; oxidizes hemoglobin to methemoglobin; hepatotoxic"
+        lethal_dose: "Highly toxic; generated in situ from gyromitrin"
+        onset_hours: "2–4 hours post-hydrolysis"
+    clinical_course: |
+      Phase 1 (6–12 hrs): Nausea, vomiting, diarrhea, abdominal cramps, headache,
+        dizziness. Symptoms resemble GI gastroenteritis.
+      Phase 2 (1–3 days): Hemolytic anemia — red cell destruction causes hemoglobinuria
+        (dark urine), jaundice, pallor, fatigue. Methemoglobinemia (impaired oxygen
+        transport) — cyanosis, dyspnoea.
+      Phase 3 (severe cases): Hepatic and renal failure; neurological symptoms
+        (seizures, delirium from B6 deficiency). Coma and death in severe cases.
+
+      Treatment: Methylene blue IV for methemoglobinemia (specific antidote).
+      Pyridoxine (vitamin B6) supplementation. Supportive care. Early gastric
+      lavage if recent ingestion.
+
+      Important: Cooking or drying REDUCES but does NOT eliminate gyromitrin.
+      Vapors released during cooking are TOXIC — cook only in well-ventilated area.
+      Parboiling and discarding water reduces toxin significantly but not completely.
+    notes: |
+      The "esculenta" (edible) name reflects centuries of Scandinavian and Eastern
+      European consumption — Gyromitra esculenta is a traditional spring delicacy in
+      Finland, Poland, and Germany despite causing documented deaths. This paradox
+      arises because gyromitrin is volatile; repeated parboiling (2–3 times,
+      discarding water) and drying substantially reduce toxin load. However, toxin
+      content varies enormously between specimens, locations, and seasons, making
+      even traditional preparation methods unreliable. Now banned for commercial
+      sale in many European countries.
+    lookalikes:
+      - species: "Morchella esculenta (true morel)"
+        danger: "edible — choice"
+        distinguishing_features: "True morel: cap covered in regular HONEYCOMB pits and ridges; cap fully attached to stipe; paler color"
+      - species: "Verpa bohemica (wrinkled thimble cap)"
+        danger: "toxic in quantity"
+        distinguishing_features: "Verpa: cap attached only at apex (thimble on finger); more elongated; similar toxicity concerns"
+  lifecycle:
+    fruiting_season: "spring (March–May in Northern Hemisphere); one of the earliest spring fungi"
+    fruiting_triggers:
+      - snowmelt
+      - soil warming to 5–12°C
+      - spring rainfall
+    mycelium_type: "white; saprotrophic in sandy forest soil"
+    spore_dispersal: "wind; ascospores ejected forcibly from asci"
+  cultivation:
+    commercial: false
+    difficulty: "Not cultivated commercially"
+    substrate: []
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable"
+    incubation_temp_c: "Not applicable"
+    notes: "Not cultivated. Even traditional parboiling does not guarantee safety."
+  biochemistry:
+    compounds:
+      - "Gyromitrin (N-methyl-N-formylhydrazine) — primary toxin; volatile"
+      - "Monomethylhydrazine (MMH) — hydrolysis product; highly toxic rocket propellant"
+      - "N-methyl-N-formylhydrazine series — related compounds"
+    medicinal_research:
+      - "Pyysalo (1976) first identified gyromitrin structure"
+      - "MMH mechanism studied as model for hydrazine toxicology"
+      - "B6 deficiency mechanism shared with isoniazid (TB drug) toxicity"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 141900"
+    - "Pyysalo (1976) New toxic compounds in Gyromitra esculenta — Zeitschrift für Lebensmitteluntersuchung"
+    - "Andary et al. (1985) Gyromitrin toxicology review"
+    - "Benjamin (1995) Mushrooms: Poisons and Panaceas"
+    - "Index Fungorum"

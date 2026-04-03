@@ -1,0 +1,57 @@
+genus:
+  name: Cortinarius
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Cortinariaceae
+    genus: Cortinarius
+    established: 1801
+    author: "(Pers.) Gray"
+    mycobank_id: "MB 17736"
+  description: |
+    Cortinarius is the largest genus of gilled fungi, with approximately 2,000–3,000
+    described species (estimates range widely; many undescribed). The genus is
+    defined by the cortina—a cobweb-like partial veil of silky fibers that covers
+    the developing gills in young specimens, leaving rusty-brown fibrous zones on
+    the stipe at maturity. All Cortinarius species produce rusty-brown to ochre
+    spore prints and are ectomycorrhizal, forming critical partnerships with forest
+    trees including conifers and hardwoods. The genus contains the lethal orellanine-
+    producing species (C. rubellus, C. orellanus, C. gentilis) which cause irreversible
+    renal failure with a catastrophically delayed onset of 2–3 weeks after ingestion—
+    the longest latency of any known fungal poison. No antidote exists; renal dialysis
+    or kidney transplantation may be required. All Cortinarius species are considered
+    suspect and should not be eaten by non-experts.
+  morphology:
+    cap:
+      shape: "highly variable: convex to umbonate; viscid or dry"
+      color: "vast range: violet (subgenus Phlegmacium), orange, brown, red"
+      diameter_cm: "3–15 depending on species"
+    gills:
+      attachment: "adnate to sinuate"
+      color: "young: violet, lilac, rust, brown; maturing to rusty-brown"
+    stipe:
+      texture: "cortina remnants (rusty cobweb fibers) on middle stipe zone"
+    spore_print: "rusty-brown to ochre (never white, black, or purple)"
+  species_count: 2000
+  key_species:
+    - Cortinarius rubellus (deadly webcap — orellanine)
+    - Cortinarius orellanus (fool's webcap — orellanine)
+    - Cortinarius violaceus (violet webcap — edible, choice)
+    - Cortinarius caerulescens (blue-gilled webcap)
+    - Cortinarius armillatus (bracelet webcap)
+  safety_warning: |
+    The orellanine-containing species (C. rubellus, C. orellanus) have delayed
+    onset of 2–21 days. Renal failure may not manifest until weeks after ingestion.
+    All Cortinarius should be treated as inedible. Orellanine is heat-stable
+    and not destroyed by cooking.
+  ecological_roles:
+    - Ectomycorrhizal partners for conifers (pine, spruce, fir) — critical for forest nutrition
+    - Ectomycorrhizal partners for hardwoods (oak, beech, birch)
+    - Nutrient cycling in boreal and temperate forests
+  data_sources:
+    - "MycoBank MB 17736"
+    - "Niskanen et al. (2022) Cortinarius nomenclature"
+    - "Danel et al. (2001) Orellanine toxicity review"
+    - "Index Fungorum"

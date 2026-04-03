@@ -1,0 +1,59 @@
+genus:
+  name: Omphalotus
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Omphalotaceae
+    genus: Omphalotus
+    established: 1946
+    author: "Fayod"
+    mycobank_id: "MB 18501"
+  description: |
+    Omphalotus is a genus of ~11 species of medium to large, brightly orange to
+    yellow gilled mushrooms, all of which are toxic and several of which are
+    bioluminescent. The genus grows in clusters on dead wood or at the base of
+    trees, feeding on buried roots or exposed wood as saprotrophs or weak
+    parasites. Omphalotus species are notorious as dangerous lookalikes for
+    edible chanterelles (Cantharellus cibarius), and misidentification regularly
+    causes poisoning outbreaks. Key distinctions: Omphalotus has true, sharp,
+    blade-like gills (never forking ridges), grows in clusters on wood, and
+    produces white spore prints; chanterelles have forking false ridges, grow
+    singly from soil, and have apricot-like aromas. Bioluminescence in the
+    gills is caused by illudinol (a sesquiterpene luciferase substrate)—visible
+    as a faint green glow in complete darkness.
+  morphology:
+    cap:
+      shape: "convex becoming depressed; funnel-shaped at maturity"
+      color: "bright orange to orange-yellow; vivid and persistent"
+      diameter_cm: "5–20"
+    gills:
+      attachment: "decurrent; crowded; sharp blade-like edges (not ridges)"
+      color: "orange; gills bioluminescent (faint green glow in dark)"
+    stipe:
+      attachment: "central to eccentric"
+      color: "orange"
+    spore_print: "cream to white (never orange or yellow)"
+    bioluminescence: "gills emit faint green light in complete darkness"
+  species_count: 11
+  key_species:
+    - Omphalotus olearius (jack-o'-lantern, Mediterranean)
+    - Omphalotus illudens (eastern jack-o'-lantern, North America)
+    - Omphalotus olivascens (western jack-o'-lantern, California)
+    - Omphalotus japonicus (tsukiyo-take, Japan)
+    - Omphalotus nidiformis (ghost fungus, Australia/Japan)
+  toxicity: |
+    All Omphalotus species contain illudin S and illudin M (sesquiterpenes),
+    causing severe gastrointestinal distress: vomiting, diarrhea, cramps.
+    Not typically fatal in healthy adults but can be severe.
+    Illudins are being investigated as anticancer compounds.
+  ecological_roles:
+    - Saprotrophic and weakly parasitic on dead or dying trees
+    - White rot wood decomposers
+    - Root-associated decomposers in Mediterranean woodlands
+  data_sources:
+    - "MycoBank MB 18501"
+    - "Miller (1994) Omphalotus revision"
+    - "Kirchmair et al. (2004) Omphalotus toxicology"
+    - "Index Fungorum"

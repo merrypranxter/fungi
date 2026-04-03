@@ -1,0 +1,58 @@
+genus:
+  name: Lepiota
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Agaricaceae
+    genus: Lepiota
+    established: 1821
+    author: "(Pers.) Gray"
+    mycobank_id: "MB 18308"
+  description: |
+    Lepiota is a genus of ~300+ species of gilled mushrooms in Agaricaceae,
+    characterized by white spore prints, free gills, a scaly or ornamented cap,
+    and a ring on the stipe. The genus is closely related to the large, edible
+    parasol mushrooms (Macrolepiota) but members are typically smaller (<10 cm cap).
+    Lepiota contains numerous deadly toxic species producing alpha-amanitin at
+    concentrations comparable to Amanita phalloides, including L. brunneoincarnata,
+    L. helveola, L. subincarnata, and L. cristatoides. Multiple fatal poisoning
+    clusters have been documented in Mediterranean Europe (France, Spain, Italy,
+    Tunisia, Morocco) and Southeast Asia. A critical safety rule: ALL small Lepiota
+    (cap <10 cm) must be considered potentially deadly. Only large Macrolepiota
+    species (>10 cm, with moveable ring) can be cautiously considered edible, and
+    only with expert confirmation.
+  morphology:
+    cap:
+      shape: "convex to broadly umbonate; covered in concentric scales or patches"
+      color: "white background with brown, reddish, or grey scales"
+      diameter_cm: "1–8 (small, never as large as Macrolepiota)"
+    gills:
+      attachment: "free from stipe"
+      color: "white"
+    stipe:
+      ring: "present; membranous; often thin or fragile"
+      volva: "absent (distinguishes from Amanita)"
+    spore_print: "white"
+  species_count: 300
+  key_species:
+    - Lepiota brunneoincarnata (deadly dapperling — alpha-amanitin)
+    - Lepiota helveola (deadly dapperling variant — alpha-amanitin)
+    - Lepiota subincarnata (deadly — alpha-amanitin)
+    - Lepiota cristata (stinking dapperling — mildly toxic)
+    - Lepiota clypeolaria (shield dapperling — suspected toxic)
+  safety_warning: |
+    ALL small Lepiota species (cap diameter under 10 cm) should be treated as
+    potentially deadly. Several species in this genus contain alpha-amanitin and
+    have caused fatal poisonings. Do not confuse with edible Macrolepiota (larger,
+    moveable ring, umbonate cap).
+  ecological_roles:
+    - Saprotrophic decomposers of woodland soils, garden mulch
+    - Litter layer decomposers
+    - Common in parks, woodland edges, Mediterranean macchia
+  data_sources:
+    - "MycoBank MB 18308"
+    - "Vellinga (2001) Lepiota taxonomy revision"
+    - "Enjalbert et al. (2004) Amatoxin content of Lepiota species"
+    - "Index Fungorum"

@@ -1,0 +1,129 @@
+species:
+  name: Conocybe filaris
+  common_names:
+    - Deadly Conocybe
+    - Ringed conecap
+    - Fool's conecap
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Agaricales
+    family: Bolbitiaceae
+    genus: Conocybe
+    species: filaris
+    binomial: Conocybe filaris
+    author: "(Fr.) Kühner"
+    year_described: 1935
+    taxonomic_history:
+      - "1821: Described by Fries as Agaricus filaris"
+      - "1935: Transferred to Conocybe by Kühner"
+      - "Synonym: Pholiotina filaris — some authorities place in Pholiotina"
+    mycobank_id: "MB 292703"
+  morphology:
+    cap:
+      diameter_cm: "0.5–2"
+      shape: "conic to convex; bell-shaped; rarely expanding"
+      color: "tawny to honey-brown; hygrophanous, fading to pale ochre when dry"
+      surface: "smooth; slightly viscid when moist"
+    gills:
+      attachment: "adnate to free"
+      color: "pale cinnamon when young; deepening to rust-cinnamon at maturity"
+      spacing: "crowded; narrow"
+    stipe:
+      height_cm: "3–8"
+      diameter_cm: "0.1–0.3"
+      color: "pale brown; matching cap"
+      texture: "very slender, fragile, hollow"
+      ring: "present — small, membranous, persistent; KEY identification feature (unusual in Conocybe)"
+      volva: "absent"
+    spores:
+      shape: "ellipsoid; smooth; with distinct germ pore"
+      dimensions_μm: "8–10.5 × 5–6.5"
+      color_in_mass: "rust-brown"
+      wall: "smooth; thick"
+    spore_print: "rust-brown to cinnamon-brown"
+    flesh:
+      color: "pale brown; no color change when damaged"
+      texture: "very thin, fragile"
+      odor: "faint, not distinctive"
+      taste: "mild (NEVER TASTE — DEADLY)"
+    notable_morphological_feature: |
+      Conocybe filaris is an inconspicuous "little brown mushroom" (LBM) easily
+      overlooked in lawns, gardens, and wood chip beds. The small ring on the slender
+      stipe is the critical identification feature — most harmless Conocybe species
+      lack a persistent ring. This LBM contains alpha-amanitin concentrations
+      comparable to Amanita phalloides, making it one of the most dangerous
+      inconspicuous mushrooms. Children and dogs are particularly at risk.
+  habitat:
+    substrate: "soil in lawns, gardens, compost, wood chips"
+    ecosystem:
+      - suburban lawns
+      - garden beds and borders
+      - wood chip mulch in parks
+      - compost heaps
+    associated_hosts: []
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Pacific Northwest (USA, Canada); Northwestern Europe (UK, Netherlands, Germany)"
+    global: false
+    elevation_m: "0–500"
+  edibility:
+    status: "DEADLY TOXIC — contains alpha-amanitin; common in domestic settings"
+    toxins:
+      - compound: "Alpha-amanitin"
+        mechanism: "Inhibits RNA polymerase II; causes hepatocellular and renal tubular necrosis"
+        lethal_dose: "~0.1 mg/kg body weight; a small collection of caps may be lethal to a child or dog"
+        onset_hours: "6–24 hours"
+    clinical_course: |
+      Identical to Amanita phalloides poisoning:
+      Phase 1 (6–24 hrs): GI syndrome — vomiting, diarrhea, cramps.
+      Phase 2 (24–72 hrs): False recovery.
+      Phase 3 (72–96 hrs): Liver and kidney failure.
+      Children and pets (dogs) particularly vulnerable due to lower body weight.
+      Treatment: Silibinin, N-acetylcysteine, supportive care. Liver transplant in
+      severe cases. No antidote.
+    notes: |
+      C. filaris is particularly dangerous because it fruits in domestic lawns and
+      gardens where children play and dogs forage. It has caused documented dog
+      fatalities (dogs eating lawn mushrooms) and child poisonings. The ring is
+      the key safety warning feature — never assume any ringed LBM in a lawn is
+      harmless.
+    lookalikes:
+      - species: "Conocybe tenera (common dunce cap)"
+        danger: "not toxic (but confusingly similar)"
+        distinguishing_features: "C. tenera: NO ring; slightly larger; rust-brown spore print same"
+      - species: "Psilocybe semilanceata (liberty cap)"
+        danger: "psychoactive"
+        distinguishing_features: "P. semilanceata: dark PURPLE-BROWN spore print; blue staining; distinctive papilla; no ring"
+  lifecycle:
+    fruiting_season: "spring to autumn; most common after rain in summer"
+    fruiting_triggers:
+      - rainfall
+      - warm moist conditions
+    mycelium_type: "white; saprotrophic in soil"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: false
+    difficulty: "Not applicable"
+    substrate: []
+    spawn_type: "Not applicable"
+    fruiting_temp_c: "Not applicable"
+    incubation_temp_c: "Not applicable"
+    notes: "Never cultivate. Check lawns for LBMs if children or pets are present."
+  biochemistry:
+    compounds:
+      - "Alpha-amanitin — comparable concentration to A. phalloides"
+      - "Beta-amanitin — secondary amatoxin"
+    medicinal_research:
+      - "Enjalbert et al. (2004) confirmed amatoxin content of C. filaris"
+  conservation:
+    status: "Least Concern"
+    threats: []
+  data_sources:
+    - "MycoBank MB 292703"
+    - "Kühner (1935) Le Genre Galera"
+    - "Enjalbert et al. (2004) Amatoxin content — Mycologia"
+    - "Benjamin (1995) Mushrooms: Poisons and Panaceas"
+    - "Index Fungorum"
