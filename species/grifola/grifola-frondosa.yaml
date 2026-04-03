@@ -1,0 +1,140 @@
+species:
+  name: Grifola frondosa
+  common_names:
+    - Maitake
+    - Hen of the woods
+    - King of mushrooms (舞茸, Maitake)
+    - Sheep's head
+    - Ram's head
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Polyporales
+    family: Meripilaceae
+    genus: Grifola
+    species: frondosa
+    binomial: Grifola frondosa
+    author: "(Dicks.) Gray"
+    year_described: 1821
+    taxonomic_history:
+      - "1785: First described as Boletus frondosus by James Dickson"
+      - "1821: Transferred to Grifola frondosa by Samuel Frederick Gray"
+      - "Synonyms include Polyporus frondosus (Dicks.) Fr. 1821"
+    mycobank_id: "MB 139974"
+  morphology:
+    cap:
+      diameter_cm: "3–7 (individual caps); whole compound fruiting body 20–60 cm"
+      shape: "fan-shaped to spoon-shaped individual caps, overlapping in large compound rosette"
+      color: "grey-brown to tan-grey, surface streaked"
+      surface: "smooth to slightly fibrous, dry"
+    gills:
+      attachment: "Not applicable — polypore with tubes/pores instead of gills"
+      color: "white to cream pore surface, pores 1–3 per mm"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "0 (compound base)"
+      diameter_cm: "Not applicable"
+      color: "white, branching compound base"
+      texture: "tough, white flesh"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "broadly ellipsoid to ovoid"
+      dimensions_μm: "5–7 × 3.5–5"
+      color_in_mass: "white"
+      wall: "smooth, thin"
+    spore_print: "white"
+    flesh:
+      color: "white"
+      texture: "firm, tough in stipe; tender in cap flesh"
+      odor: "pleasant, mild mushroomy"
+      taste: "mild, slightly peppery"
+    notable_morphological_feature: |
+      Grifola frondosa forms enormous compound fruiting bodies consisting of hundreds
+      of overlapping fan-shaped caps arising from a branching central base. Individual
+      caps each have their own tiny stipe. Mature specimens can weigh 50 kg or more.
+      The undersurface bears very fine white pores rather than gills.
+  habitat:
+    substrate: "base of hardwood trees, roots, buried wood"
+    ecosystem:
+      - temperate deciduous forests
+      - mixed hardwood forests
+    associated_hosts:
+      - Quercus (oak) — primary host
+      - Acer (maple)
+      - Castanea (chestnut)
+      - Ulmus (elm)
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Temperate northern hemisphere — Japan, North America (eastern), Europe"
+    global: false
+    elevation_m: "0–1000"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - sautéed
+      - roasted
+      - stir-fried
+      - dried
+      - used in soups and stews
+    notes: |
+      Prized edible mushroom with a rich, complex flavor. The name "maitake" (dancing
+      mushroom) comes from the Japanese legend of people dancing with joy upon finding
+      it due to its high value. Increasingly cultivated commercially though wild specimens
+      are considered superior in flavor. The inner white flesh is tender; outer older
+      tissue can be tough. Best harvested young before the edges curl up and brown.
+    lookalikes:
+      - species: "Meripilus giganteus (giant polypore)"
+        danger: "inedible (causes GI upset)"
+        distinguishing_features: "Meripilus is larger and darker; flesh blackens when cut or handled"
+      - species: "Bondarzewia berkeleyi"
+        danger: "inedible (very tough)"
+        distinguishing_features: "Creamy white to yellow-tan; larger pores; distinctly different flavor"
+  lifecycle:
+    fruiting_season: "late summer to autumn (August–November)"
+    fruiting_triggers:
+      - temperature drop in autumn
+      - rainfall after dry period
+    mycelium_type: "white, cottony; causes butt rot of hardwoods"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: true
+    difficulty: "intermediate"
+    substrate:
+      - hardwood sawdust (oak, beech)
+      - supplemented with wheat bran or rice bran
+    spawn_type: "sawdust spawn"
+    fruiting_temp_c: "15–21"
+    incubation_temp_c: "24–27"
+    notes: |
+      Commercial cultivation established in Japan in the 1980s and now significant
+      in China and North America. Requires longer colonization time than oyster
+      mushrooms (~60–120 days). Cold shocking (5–10°C) and increased humidity are
+      used to trigger pinning. Cultivated form typically less flavorful than wild.
+      Some strains have been selected for higher D-fraction content.
+  biochemistry:
+    compounds:
+      - "D-fraction (beta-1,3/1,6-glucan; immunomodulatory, antitumor — primary bioactive)"
+      - "MD-fraction (modified D-fraction with enhanced bioavailability)"
+      - "Grifolin (phenolic; antitumor activity)"
+      - "Ergosterol (provitamin D2)"
+      - "Maitake polysaccharide MZ-fraction (blood glucose modulation)"
+    medicinal_research:
+      - "D-fraction shown to activate macrophages, NK cells, and T-cells in animal and in vitro studies"
+      - "SX-fraction demonstrated blood glucose-lowering activity in type 2 diabetes models"
+      - "MD-fraction combined with interferon-alpha showed synergistic antitumor effects"
+      - "Phase I/II trial data showing D-fraction immunological activity in breast and prostate cancer"
+      - "Grifola frondosa extract shown to inhibit aromatase (potential breast cancer relevance)"
+  conservation:
+    status: "Least Concern"
+    threats:
+      - "Old-growth forest loss reduces suitable habitat"
+      - "Overharvesting of wild specimens in some regions"
+  data_sources:
+    - "MycoBank MB 139974"
+    - "Gray (1821) Natural Arrangement of British Plants"
+    - "Nanba (1993) Chemical Pharmaceutical Bulletin 41(9)"
+    - "Index Fungorum IF 139974"
+    - "Mayell (2001) Maitake Mushroom and D-Fraction"

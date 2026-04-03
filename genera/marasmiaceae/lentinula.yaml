@@ -1,0 +1,13 @@
+genus:
+  name: Lentinula
+  parent: Marasmiaceae
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Agaricales
+  family: Marasmiaceae
+  species_count: ~6
+  notes: |
+    Small genus of wood-decomposing agarics native to Asia and the Americas.
+    Contains the economically important Lentinula edodes (shiitake), the second
+    most cultivated mushroom in the world. Previously placed in Lentinus.
+    Characterized by brown, umbonate caps, tough stipes, and white spore prints.

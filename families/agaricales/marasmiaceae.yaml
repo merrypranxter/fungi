@@ -1,0 +1,12 @@
+family:
+  name: Marasmiaceae
+  parent: Agaricales
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Agaricales
+  species_count: ~700
+  notes: |
+    Family of small to medium agarics in the order Agaricales. Characterized by tough,
+    leathery flesh that revives when moistened (marcescent). Includes important edible
+    genera (Lentinula) and decomposers of leaf litter (Marasmius). Saprotrophic on
+    wood and plant debris. Previously included in Tricholomataceae.

@@ -1,0 +1,14 @@
+genus:
+  name: Hericium
+  parent: Hericiaceae
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  order: Russulales
+  family: Hericiaceae
+  species_count: ~6
+  notes: |
+    Genus of distinctive white tooth fungi with pendant spines. Saprotrophic on
+    hardwood logs and stumps. Species include H. erinaceus (lion's mane),
+    H. coralloides (coral tooth), and H. americanum. Increasing research interest
+    due to hericenones and erinacines which stimulate synthesis of nerve growth
+    factor (NGF), with potential applications in neurological health.

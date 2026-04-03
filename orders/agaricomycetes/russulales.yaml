@@ -1,0 +1,12 @@
+order:
+  name: Russulales
+  parent: Agaricomycetes
+  phylum: Basidiomycota
+  class: Agaricomycetes
+  species_count: ~3500
+  notes: |
+    Diverse order of Basidiomycota containing gilled mushrooms, tooth fungi, coral
+    fungi, and crust fungi. Key families include Russulaceae (Russula, Lactarius),
+    Hericiaceae (Hericium), and Auriscalpiaceae. Defined by molecular phylogenetics;
+    not easily characterized morphologically. Many members have brittle gills with
+    isodiametric (spherical) cells in the flesh (sphaerocysts).

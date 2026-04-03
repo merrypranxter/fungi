@@ -1,0 +1,153 @@
+species:
+  name: Hericium erinaceus
+  common_names:
+    - Lion's mane mushroom
+    - Bearded tooth fungus
+    - Monkey head mushroom (猴头菇, Hóutóu gū)
+    - Pom pom mushroom
+    - Hedgehog mushroom
+    - Yamabushitake (山伏茸)
+  taxonomy:
+    kingdom: Fungi
+    phylum: Basidiomycota
+    class: Agaricomycetes
+    order: Russulales
+    family: Hericiaceae
+    genus: Hericium
+    species: erinaceus
+    binomial: Hericium erinaceus
+    author: "(Bull.) Pers."
+    year_described: 1797
+    taxonomic_history:
+      - "1781: First described as Hydnum erinaceus by Jean Baptiste François Pierre Bulliard"
+      - "1797: Transferred to Hericium erinaceus by Christiaan Hendrik Persoon"
+      - "Synonyms include Dryodon erinaceus (Bull.) P. Karst. 1881"
+    mycobank_id: "MB 176633"
+  morphology:
+    cap:
+      diameter_cm: "10–30 (whole fruiting body)"
+      shape: "globose, irregularly rounded mass with pendant spines; no distinct cap"
+      color: "white when fresh, yellowing to tan-orange with age"
+      surface: "covered entirely in cascading, pendant spines/teeth"
+    gills:
+      attachment: "Not applicable — tooth fungus with pendant spines bearing hymenium"
+      color: "white; spines 1–5 cm long"
+      spacing: "Not applicable"
+    stipe:
+      height_cm: "Not applicable (attached directly to wood)"
+      diameter_cm: "Not applicable"
+      color: "white"
+      texture: "solid, firm attachment point"
+      ring: "absent"
+      volva: "absent"
+    spores:
+      shape: "subglobose to broadly ellipsoid"
+      dimensions_μm: "5–7 × 4–5"
+      color_in_mass: "white"
+      wall: "smooth to very finely amyloid"
+    spore_print: "white"
+    flesh:
+      color: "white"
+      texture: "firm, fleshy, spongy"
+      odor: "pleasant, mild seafood-like"
+      taste: "mild, resembling crab or lobster; slightly sweet"
+    notable_morphological_feature: |
+      Unlike most fungi, Hericium erinaceus produces a single, undivided fruiting
+      body consisting entirely of pendant, unbranched spines (teeth) 1–5 cm long
+      hanging from a central mass. This gives it the unmistakable appearance of a
+      white pom-pom or lion's shaggy mane. Related species (H. coralloides,
+      H. americanum) have branched, coral-like structures with shorter spines
+      only at branch tips.
+  habitat:
+    substrate: "wounds and dead wood of living and dead hardwood trees"
+    ecosystem:
+      - temperate deciduous forests
+      - mixed forests
+      - beech-maple forests
+    associated_hosts:
+      - Quercus (oak)
+      - Fagus (beech)
+      - Acer (maple)
+      - Juglans (walnut)
+      - Platanus (sycamore)
+    mycorrhizal: false
+    saprotrophic: true
+  distribution:
+    native_range: "Temperate northern hemisphere — North America, Europe, East Asia (China, Japan)"
+    global: false
+    elevation_m: "0–2000"
+  edibility:
+    status: "choice edible"
+    preparation:
+      - sautéed in butter (preferred method)
+      - roasted
+      - breaded and fried (seafood substitute)
+      - dried and powdered for supplements
+      - added to soups
+    notes: |
+      Excellent edible with a mild seafood-like flavor and firm, spongy texture.
+      The entire fruiting body (spines and all) is edible. Must be cooked — raw
+      consumption may cause skin rash in sensitive individuals. Best when fresh
+      and young (white); older yellowed specimens are edible but bitter.
+      Excellent meat substitute due to texture. The flavor intensifies with high-heat
+      searing. Increasingly popular as a medicinal food supplement.
+    lookalikes:
+      - species: "Hericium coralloides (coral tooth)"
+        danger: "safe (also edible)"
+        distinguishing_features: "H. coralloides has a branched, coral-like structure with short spines at branch tips only"
+      - species: "Hericium americanum"
+        danger: "safe (also edible)"
+        distinguishing_features: "H. americanum has branched clusters, most common in North America"
+  lifecycle:
+    fruiting_season: "late summer through autumn (July–November)"
+    fruiting_triggers:
+      - moisture
+      - temperature (15–24°C optimal)
+      - wounds or exposed wood
+    mycelium_type: "white, cottony; causes white rot of hardwood"
+    spore_dispersal: "wind"
+  cultivation:
+    commercial: true
+    difficulty: "beginner"
+    substrate:
+      - hardwood sawdust (oak, beech, maple)
+      - supplemented with wheat bran or oat bran (10–20%)
+      - masters mix (50% hardwood, 50% soy hulls)
+    spawn_type: "grain spawn or sawdust spawn"
+    fruiting_temp_c: "18–24"
+    incubation_temp_c: "22–26"
+    notes: |
+      One of the easiest specialty mushrooms to cultivate. Colonizes substrate
+      within 14–21 days. Fruiting requires high humidity (>90%), good fresh air
+      exchange, and indirect light. Forms distinct white pom-pom fruiting bodies.
+      If CO2 is too high, develops elongated, icicle-like growth pattern rather
+      than the round pom-pom shape. Multiple flushes possible (typically 2–3).
+      Popular with beginner cultivators due to fast colonization and dramatic
+      fruiting bodies.
+  biochemistry:
+    compounds:
+      - "Hericenones A-H (aromatic compounds from fruiting body; NGF stimulators)"
+      - "Erinacines A-I (cyathane diterpenes from mycelium; NGF stimulators crossing blood-brain barrier)"
+      - "Hericerins (phenolic compounds; antibacterial)"
+      - "Beta-glucans (polysaccharides; immunomodulatory)"
+      - "Ergothioneine (antioxidant amino acid)"
+      - "Amycenone (precursor to hericenones; mood-relevant)"
+    medicinal_research:
+      - "Hericenones and erinacines stimulate Nerve Growth Factor (NGF) synthesis in vitro and in vivo"
+      - "Clinical trial (2009, Mori et al.) showed improvement in mild cognitive impairment after 16 weeks of supplementation"
+      - "Animal studies show regeneration of peripheral and central nervous system neurons"
+      - "Antidepressant-like effects demonstrated in mouse models (amycenone mechanism)"
+      - "Potential applications in Alzheimer's disease, Parkinson's disease, peripheral neuropathy"
+      - "Anti-inflammatory effects via NF-kB pathway inhibition"
+      - "Prebiotic effects promoting Lactobacillus and Bifidobacterium growth"
+  conservation:
+    status: "Least Concern globally; considered rare in parts of Europe"
+    threats:
+      - "Decline of old-growth forest habitat"
+      - "Removal of dead wood from managed forests"
+  data_sources:
+    - "MycoBank MB 176633"
+    - "Persoon (1797) Commentatio de Fungis Clavaeformibus"
+    - "Mori et al. (2009) Phytotherapy Research 23(3)"
+    - "Kawagishi & Zhuang (2008) Chemistry & Biology"
+    - "Index Fungorum IF 176633"
